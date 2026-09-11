@@ -1,0 +1,20 @@
+{
+  "guid": "9aac526ffd864d5992f3eb50546fbc8f",
+  "name": "VietnameseCoreKeeper",
+  "displayName": "Vietnamese Core Keeper",
+  "skipSafetyChecks": false,
+  "disableScripts": false,
+  "accessesExtraAssemblies": true,
+  "disableHarmonyPatching": false,
+  "requiredOn": 1,
+  "files": [
+    {
+      "path": "Localization/Localization.csv"
+    },
+    {
+      "path": "Scripts/VietnameseFontFix.cs",
+      "guid": "7f3c0f8518104b409d8dd4e4b36ca8e7"
+    }
+  ],
+  "dependencies": []
+}

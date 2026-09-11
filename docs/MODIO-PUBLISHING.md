@@ -15,7 +15,7 @@ Từ PowerShell tại thư mục repo:
 .\tools\Publish-ModIo.ps1 -Version 1.0.1 -Changelog 'Sửa lỗi dấu tiếng Việt.'
 ```
 
-Nếu chưa có script đóng gói, tạo ZIP đúng ba file runtime: `ModManifest.json`, `Localization/Localization.csv` và `Scripts/VietnameseFontFix.cs`, đặt tại `releases\vietnamese-core-keeper-<version>.zip`.
+`Package.ps1` chỉ đưa ba file runtime vào ZIP: `ModManifest.json`, `Localization/Localization.csv` và `Scripts/VietnameseFontFix.cs`.
 
 Sau khi tải, kiểm tra mod `6372484` có file mới, đúng version và `virus_status=1`, `virus_positive=0`. Không dùng API key để thay thế OAuth token khi upload.
 
