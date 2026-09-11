@@ -63,6 +63,10 @@ Ngoài test có sẵn, phải kiểm tra bằng `Import-Csv -Delimiter ([char]9)
 
 ## Đóng gói và publish mod.io
 
+CI (`publish-modio.yml`) tự đóng gói và publish lên mod.io khi main thay đổi
+`Localization/Localization.csv`, `Scripts/VietnameseFontFix.cs`, `ModManifest.json`
+hoặc chính workflow. Bước thủ công bên dưới chỉ dùng khi publish tay.
+
 1. Lấy version mới nhất của mod `6372484` qua API mod.io. Tăng version, không
    upload lại version đã tồn tại.
 2. Đóng gói:
