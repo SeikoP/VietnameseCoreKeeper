@@ -6951,6 +6951,124 @@ MapMarkers/portalStandingAtDesc	Text	 	Bạn đang đứng tại cổng này.
 MapMarkers/waypoint	Text	 	Điểm dịch chuyển
 MapMarkers/waypointNotReadyDesc	Text	 	Điểm dịch chuyển chưa sẵn sàng.
 MapMarkers/waypointStandingAtDesc	Text	 	Bạn đang đứng tại điểm dịch chuyển này.
+MasterCooking/ArmorFlat	Text	 [new]	Giáp cố định
+MasterCooking/ArmorFlatDesc	Text	 [new]	Tăng giáp cố định.
+MasterCooking/ArmorPercent	Text	 [new]	Phần trăm giáp
+MasterCooking/ArmorPercentDesc	Text	 [new]	Tăng giáp theo phần trăm.
+MasterCooking/BlueGlow	Text	 [new]	Phát sáng xanh
+MasterCooking/BlueGlowDesc	Text	 [new]	Khi ăn, phát sáng xanh.
+MasterCooking/CookingExpMultiplier	Text	 [new]	Hệ số kinh nghiệm nấu ăn
+MasterCooking/CookingExpMultiplierDesc	Text	 [new]	Tăng kinh nghiệm nhận được khi nấu ăn.
+MasterCooking/CriticalHitChance	Text	 [new]	Tỷ lệ chí mạng
+MasterCooking/CriticalHitChanceDesc	Text	 [new]	Tăng tỷ lệ đánh chí mạng.
+MasterCooking/CriticalHitDamage	Text	 [new]	Sát thương chí mạng
+MasterCooking/CriticalHitDamageDesc	Text	 [new]	Tăng sát thương gây ra bởi đòn chí mạng.
+MasterCooking/DamageAllTypes	Text	 [new]	Sát thương mọi loại
+MasterCooking/DamageAllTypesDesc	Text	 [new]	Tăng sát thương của mọi loại tấn công.
+MasterCooking/DamageDealtByPet	Text	 [new]	Sát thương do thú cưng gây ra
+MasterCooking/DamageDealtByPetDesc	Text	 [new]	Tăng sát thương do thú cưng gây ra.
+MasterCooking/DamageFromBosses	Text	 [new]	Sát thương nhận từ trùm
+MasterCooking/DamageFromBossesDesc	Text	 [new]	Giảm sát thương nhận từ trùm.
+MasterCooking/DamageToBosses	Text	 [new]	Sát thương lên trùm
+MasterCooking/DamageToBossesDesc	Text	 [new]	Tăng sát thương gây ra cho trùm.
+MasterCooking/DamageYouAndAllies	Text	 [new]	Sát thương của bạn và đồng minh
+MasterCooking/DamageYouAndAlliesDesc	Text	 [new]	Tăng sát thương gây ra bởi bạn và đồng minh.
+MasterCooking/DodgeChance	Text	 [new]	Tỷ lệ né tránh
+MasterCooking/DodgeChanceDesc	Text	 [new]	Tăng tỷ lệ né tránh.
+MasterCooking/Duration	Text	 [new]	Thời gian
+MasterCooking/DurationDesc	Text	 [new]	Thời gian hiệu ứng kéo dài.
+MasterCooking/Effect	Text	 [new]	Hiệu ứng
+MasterCooking/EffectDesc	Text	 [new]	Hiệu ứng của nguyên liệu.
+MasterCooking/ExplosiveDamage	Text	 [new]	Sát thương nổ
+MasterCooking/ExplosiveDamageDesc	Text	 [new]	Tăng sát thương từ các vụ nổ.
+MasterCooking/Fishing	Text	 [new]	Câu cá
+MasterCooking/FishingDesc	Text	 [new]	Tăng hiệu quả câu cá.
+MasterCooking/HealthPerSecondFor20s	Text	 [new]	Hồi máu mỗi giây trong 20 giây
+MasterCooking/HealthPerSecondFor20sDesc	Text	 [new]	Hồi một lượng máu mỗi giây trong 20 giây.
+MasterCooking/HideRarityBorders	Text	 [new]	Ẩn viền độ hiếm
+MasterCooking/HideRarityBordersDesc	Text	 [new]	Ẩn viền độ hiếm của món ăn.
+MasterCooking/Immunity	Text	 [new]	Miễn nhiễm
+MasterCooking/ImmunityDesc	Text	 [new]	Cho khả năng miễn nhiễm với một số hiệu ứng.
+MasterCooking/Ingredients	Text	 [new]	Nguyên liệu
+MasterCooking/IngredientsDesc	Text	 [new]	Các nguyên liệu cần để nấu món ăn.
+MasterCooking/InstantCooking	Text	 [new]	Nấu ăn tức thì
+MasterCooking/InstantCookingDesc	Text	 [new]	Hoàn thành việc nấu ăn ngay lập tức.
+MasterCooking/InstantFood	Text	 [new]	Đồ ăn tức thì
+MasterCooking/InstantFoodDesc	Text	 [new]	Nấu món ăn ngay lập tức mà không cần chờ.
+MasterCooking/KnockbackChance	Text	 [new]	Tỷ lệ đánh bật lùi
+MasterCooking/KnockbackChanceDesc	Text	 [new]	Tăng tỷ lệ đánh bật lùi kẻ địch.
+MasterCooking/LessFoodDrainedWhenRunning	Text	 [new]	Giảm tiêu hao thức ăn khi chạy
+MasterCooking/LessFoodDrainedWhenRunningDesc	Text	 [new]	Giảm lượng thức ăn tiêu hao khi chạy.
+MasterCooking/LifeOnMeleeHit	Text	 [new]	Hồi máu khi đánh cận chiến
+MasterCooking/LifeOnMeleeHitDesc	Text	 [new]	Hồi máu khi đánh trúng kẻ địch bằng đòn cận chiến.
+MasterCooking/MagicBarrier	Text	 [new]	Khiên phép
+MasterCooking/MagicBarrierDesc	Text	 [new]	Tăng khiên phép.
+MasterCooking/MagicDamage	Text	 [new]	Sát thương phép
+MasterCooking/MagicDamageDesc	Text	 [new]	Tăng sát thương phép.
+MasterCooking/ManaPerSecond	Text	 [new]	Mana mỗi giây
+MasterCooking/ManaPerSecondDesc	Text	 [new]	Hồi mana mỗi giây.
+MasterCooking/MaxCookingQuality	Text	 [new]	Chất lượng nấu ăn tối đa
+MasterCooking/MaxCookingQualityDesc	Text	 [new]	Tăng chất lượng nấu ăn tối đa.
+MasterCooking/MaxMana	Text	 [new]	Mana tối đa
+MasterCooking/MaxManaDesc	Text	 [new]	Tăng mana tối đa.
+MasterCooking/MeleeAndRangeAttackSpeed	Text	 [new]	Tốc độ tấn công cận chiến và tầm xa
+MasterCooking/MeleeAndRangeAttackSpeedDesc	Text	 [new]	Tăng tốc độ tấn công cận chiến và tầm xa.
+MasterCooking/MeleeDamage	Text	 [new]	Sát thương cận chiến
+MasterCooking/MeleeDamageDesc	Text	 [new]	Tăng sát thương cận chiến.
+MasterCooking/MiningDamage	Text	 [new]	Sát thương khai khoáng
+MasterCooking/MiningDamageDesc	Text	 [new]	Tăng sát thương khai khoáng.
+MasterCooking/MiningSpeed	Text	 [new]	Tốc độ khai khoáng
+MasterCooking/MiningSpeedDesc	Text	 [new]	Tăng tốc độ khai khoáng.
+MasterCooking/MinionCritHitChance	Text	 [new]	Tỷ lệ chí mạng của tay sai
+MasterCooking/MinionCritHitChanceDesc	Text	 [new]	Tăng tỷ lệ chí mạng của tay sai.
+MasterCooking/MinionDamage	Text	 [new]	Sát thương tay sai
+MasterCooking/MinionDamageDesc	Text	 [new]	Tăng sát thương của tay sai.
+MasterCooking/MoreHealingFromHealthOverTime	Text	 [new]	Tăng hồi máu theo thời gian
+MasterCooking/MoreHealingFromHealthOverTimeDesc	Text	 [new]	Tăng lượng hồi máu từ hiệu ứng hồi máu theo thời gian.
+MasterCooking/MoveSpeed	Text	 [new]	Tốc độ di chuyển
+MasterCooking/MoveSpeedDesc	Text	 [new]	Tăng tốc độ di chuyển.
+MasterCooking/Percent	Text	 [new]	Phần trăm
+MasterCooking/PercentDesc	Text	 [new]	Giá trị được tính theo phần trăm.
+MasterCooking/PermanentMaxHealth	Text	 [new]	Máu tối đa vĩnh viễn
+MasterCooking/PermanentMaxHealthDesc	Text	 [new]	Tăng máu tối đa vĩnh viễn.
+MasterCooking/PurpleGlow	Text	 [new]	Phát sáng tím
+MasterCooking/PurpleGlowDesc	Text	 [new]	Khi ăn, phát sáng tím.
+MasterCooking/RangeAttackSpeed	Text	 [new]	Tốc độ tấn công tầm xa
+MasterCooking/RangeAttackSpeedDesc	Text	 [new]	Tăng tốc độ tấn công tầm xa.
+MasterCooking/RangeDamage	Text	 [new]	Sát thương tầm xa
+MasterCooking/RangeDamageDesc	Text	 [new]	Tăng sát thương tầm xa.
+MasterCooking/Recipes	Text	 [new]	Công thức
+MasterCooking/RecipesDesc	Text	 [new]	Các công thức nấu ăn đã biết.
+MasterCooking/TemporaryMaxHealth	Text	 [new]	Máu tối đa tạm thời
+MasterCooking/TemporaryMaxHealthDesc	Text	 [new]	Tăng máu tối đa trong thời gian ngắn.
+MasterCooking/ThornsDamage	Text	 [new]	Sát thương gai
+MasterCooking/ThornsDamageDesc	Text	 [new]	Gây sát thương lên kẻ địch khi bị tấn công.
+MasterCooking/UnlockAllRecipes	Text	 [new]	Mở khóa tất cả công thức
+MasterCooking/UnlockAllRecipesDesc	Text	 [new]	Mở khóa tất cả công thức nấu ăn.
+MasterCooking/Value	Text	 [new]	Giá trị
+MasterCooking/ValueDesc	Text	 [new]	Giá trị cố định của hiệu ứng.
+MasterCooking/YellowGlow	Text	 [new]	Phát sáng vàng
+MasterCooking/YellowGlowDesc	Text	 [new]	Khi ăn, phát sáng vàng.
+MasterFishing/BonusExp	Text	 [new]	Kinh nghiệm thưởng
+MasterFishing/Catches	Text	 [new]	Số lần bắt
+MasterFishing/Chance	Text	 [new]	Tỷ lệ
+MasterFishing/Combo	Text	 [new]	Combo
+MasterFishing/EnableBonusXP	Text	 [new]	Bật kinh nghiệm thưởng
+MasterFishing/EnableBonusXPDesc	Text	 [new]	Bật kinh nghiệm thưởng khi câu cá.
+MasterFishing/EnableCombo	Text	 [new]	Bật combo
+MasterFishing/EnableComboDesc	Text	 [new]	Bật chuỗi combo khi câu được nhiều cá liên tiếp.
+MasterFishing/EnableExtraLoot	Text	 [new]	Bật vật phẩm thêm
+MasterFishing/EnableExtraLootDesc	Text	 [new]	Bật phần thưởng thêm khi câu cá.
+MasterFishing/Encyclopedia	Text	 [new]	Bách khoa toàn thư
+MasterFishing/Events	Text	 [new]	Sự kiện
+MasterFishing/ExtraLoot	Text	 [new]	Vật phẩm thêm
+MasterFishing/Header	Text	 [new]	Câu cá bậc thầy
+MasterFishing/HeaderDesc	Text	 [new]	Tùy chọn cho mod Master Fishing.
+MasterFishing/Hide	Text	 [new]	Ẩn
+MasterFishing/MaxCombo	Text	 [new]	Combo tối đa
+MasterFishing/Name	Text	 [new]	Tên
+MasterFishing/Show	Text	 [new]	Hiện
+MasterFishing/Time	Text	 [new]	Thời gian
 Menu/Add	Text	 [new]	Thêm
 Menu/AddAll	Text	 [new]	Thêm tất cả
 Menu/AdminPlayers	Text	 	Người chơi quản trị
@@ -7185,6 +7303,8 @@ MinionCountDesc	Text	 	Bản dạng cờ {0} trên {1} tay sai hoạt động.
 MinionCountFormat	Text	 	{0} / {1}
 Mods/StoragePlus	Text	 [new]	StoragePlus
 Mods/StoragePlusDesc	Text	 [new]	Xây dựng mạng lưu trữ riêng và truy cập tất cả vật phẩm ở cùng một nơi!
+MinionAttackSpeed	Text	 [new]	Tốc độ tấn công tay sai
+MinionAttackSpeedDesc	Text	 [new]	Tăng tốc độ tấn công của tay sai.
 NamedBy	Text	 	Đặt tên bởi: {0}
 Names/BirdBoss	Text	 	Azeos, Titan Bầu Trời
 Names/CoreBoss	Text	 	Core Commander
