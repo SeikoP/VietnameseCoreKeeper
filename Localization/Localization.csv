@@ -197,7 +197,7 @@ CardinalDirections/SouthWest	Text	 	tây nam
 CardinalDirections/Undefined	Text	 	không xác định
 CardinalDirections/West	Text	 	tay
 CasualMode	Text	 	Thư giãn
-CasualModeDesc	Text	 	Đôi đầu quái vật hiền hơn trong bối cảnh thụ thai, dễ chịu.
+CasualModeDesc	Text	 	Đối đầu với những quái vật hiền hơn trong một bối cảnh thư giãn, dễ chịu.
 CattleStatus/Full	Text	 	Con vật rất vui vẻ, no nê và đang chờ sản phẩm.
 CattleStatus/FullBaby	Text	 	Con non rất vui vẻ và no nê.
 CattleStatus/HungryCattleKelpFood	Text	 	Con vật đang đói, muốn ăn tảo bẹ.
@@ -1182,11 +1182,11 @@ ControlMapper/PickUpHalf	Text	 	Nhất / thả một nửa số vật phẩm
 ControlMapper/PickUpItems	Text	 	Nhất / thả vật phẩm
 ControlMapper/PlacementPlusCategory	Text	 [new]	Placement Plus
 ControlMapper/PlacementPlusDescription	Text	 [new]	Tùy chỉnh phím cho mod Placement Plus
-ControlMapper/PlacementPlus_ChangeOrientation	Text	 [new]	Đổi hướng đạt
+ControlMapper/PlacementPlus_ChangeOrientation	Text	 [new]	Đổi hướng đặt
 ControlMapper/PlacementPlus_ChangeToolMode	Text	 [new]	Đổi chế độ công cụ đất
 ControlMapper/PlacementPlus_DecreaseSize	Text	 [new]	Giảm kích thước vùng đất
 ControlMapper/PlacementPlus_IncreaseSize	Text	 [new]	Tăng kích thước vùng đất
-ControlMapper/PlacementPlus_ReplaceButton	Text	 [new]	Thay thế vùng đang đạt
+ControlMapper/PlacementPlus_ReplaceButton	Text	 [new]	Thay thế vùng đang đặt
 ControlMapper/PlacementPlus_ReverseDirection	Text	 [new]	Đảo ngược hướng đất
 ControlMapper/QuickMoveItems	Text	 	Chuyển vật phẩm sang túi đồ khác hoặc trang bị
 ControlMapper/QuickPotionBuff	Text	 [new]	Dùng nhanh thuốc tăng cường
@@ -1291,9 +1291,9 @@ ControlMapper/settingsGroupLabel	Text	 	Cài đặt:
 ControlMapper/shift	Text	 	Shift
 ControlMapper/swap	Text	 	Hoán đổi
 CookFoodToDiscover	Text	 	Nấu ăn để bắt đầu khám phá công thức
-CooldownMin	Text	 	Hội chiều {0} phút
-CooldownMinSec	Text	 	Hội chiều {0} phút {1} giấy
-CooldownSec	Text	 	Hội chiều {0} giấy
+CooldownMin	Text	 	Hồi chiêu {0} phút
+CooldownMinSec	Text	 	Hồi chiêu {0} phút {1} giây
+CooldownSec	Text	 	Hồi chiêu {0} giây
 CopyGameInfo	Text	 [new]	Sao chép thông tin trận chơi
 CoreEnhance/Config	Text	 [new]	Cấu hình CoreEnhance
 CoreEnhance_Config/Accelerate	Text	 [new]	Tăng tốc
@@ -1958,7 +1958,7 @@ Emotes/ImHungry	Text	 	Mình đổi qua
 Emotes/ItDoesntDoAnything	Text	Shown when trying to interact with something that does'nt work such as the Core when it is not powered up.	Nó chẳng làm gì cả
 Emotes/ItsEmpty	Text	Used when for example the water can is empty	Trống rỗng
 Emotes/ItsPowerRemainsSealedDesc	Text	 [new]	Sức mạnh của nó vẫn còn bị phong tỏa
-Emotes/ItsTooHardINeedADrill	Text	 	Nợ qua cung, mình cần máy khoan cố định
+Emotes/ItsTooHardINeedADrill	Text	 	Việc này khó quá, mình cần máy khoan.
 Emotes/LarvaEmote1	Text	Something the bigger larvas say when interacting with them while disguised as a larva	Đợi!
 Emotes/LarvaEmote2	Text	 	Chit chít
 Emotes/LarvaEmote3	Text	 	Phải đạo
@@ -1987,7 +1987,7 @@ Emotes/ShouldPlaceHandOnWall	Text	 	Mình nên đặt tay lên bức tường
 Emotes/StomachFull	Text	 	Búng mình nó càng rơi
 Emotes/StopHurtingMe	Text	 	Đừng đánh tôi nữa!
 Emotes/TheAncientForge	Text	Quotes around it cause player character is reading it	'Lò Rèn Cỏ Đài'
-Emotes/TheFishArentBiting	Text	 	Cả không chịu cần cẩu
+Emotes/TheFishArentBiting	Text	 	Cá không cắn câu.
 Emotes/ThisIsNotMyBed	Text	 	Đây không phải giường của mình
 Emotes/ThisWillTakeAWhile	Text	 	Việc này sẽ mất một lúc...
 Emotes/ThisWillTakeForever	Text	 	Việc này sẽ mất cả đôi mắt...
@@ -2507,7 +2507,7 @@ ItemBrowser-FactionNames/AttacksAllButNotAttacked	Text	 [new]	Tấn công tất 
 ItemBrowser-FactionNames/Bird	Text	 [new]	Chim
 ItemBrowser-FactionNames/CanOnlyBeAttackedByPlayerOrExplosion	Text	 [new]	Chỉ có thể bị tấn công bởi người chơi hoặc vụ nổ
 ItemBrowser-FactionNames/Caveling	Text	 [new]	Caveling
-ItemBrowser-FactionNames/CoreBoss	Text	 [new]	Boss lông cột
+ItemBrowser-FactionNames/CoreBoss	Text	 [new]	Trùm Lõi
 ItemBrowser-FactionNames/CrystalCreature	Text	 [new]	Sinh vật tinh thể
 ItemBrowser-FactionNames/DesertCaveling	Text	 [new]	Caveling sa mạc
 ItemBrowser-FactionNames/Larva	Text	 [new]	Ấu trùng
@@ -2636,7 +2636,7 @@ ItemBrowser-Filters/Utility_NonObtainableDesc	Text	 [new]	{0} không thể nhấ
 ItemBrowser-Filters/Utility_Paintable	Text	 [new]	Có thể sơn
 ItemBrowser-Filters/Utility_PaintableDesc	Text	 [new]	{0} có thể sơn được
 ItemBrowser-Filters/Utility_Placeable	Text	 [new]	Có thể đặt
-ItemBrowser-Filters/Utility_PlaceableDesc	Text	 [new]	{0} có thể đạt được
+ItemBrowser-Filters/Utility_PlaceableDesc	Text	 [new]	{0} có thể đặt được
 ItemBrowser-Filters/Utility_Technical	Text	 [new]	Kỹ thuật
 ItemBrowser-Filters/Utility_TechnicalDesc	Text	 [new]	{0} không có tên hiển thị
 ItemBrowser-Filters/VersionAdded	Text	 [new]	Phiên bản
@@ -2660,14 +2660,14 @@ ItemBrowser-General/Creatures	Text	 [new]	Sinh vật
 ItemBrowser-General/CurrentlyUnavailable	Text	 [new]	Thiếu điều kiện
 ItemBrowser-General/Discovered	Text	 [new]	Đã phát hiện
 ItemBrowser-General/DiscoveredTemporarily	Text	 [new]	Đang hiển thị tạm thời
-ItemBrowser-General/DiscoveredTemporarilySeconds	Text	 [new]	Đáng hiển thị tạm thời ({0} giấy)
+ItemBrowser-General/DiscoveredTemporarilySeconds	Text	 [new]	Đã hiển thị tạm thời ({0} giây)
 ItemBrowser-General/Favorited	Text	 [new]	Đã yêu thích
 ItemBrowser-General/FilteredResults	Text	 [new]	{0}/{1} kết quả
 ItemBrowser-General/FilteredResultsDesc	Text	 [new]	({0} đã bị lọc)
 ItemBrowser-General/GroundBlockSuffix	Text	 [new]	{0} mặt đất
 ItemBrowser-General/GuaranteedPool	Text	 [new]	Bố chính
-ItemBrowser-General/Hidden	Text	 [new]	Ăn
-ItemBrowser-General/HideFilters	Text	 [new]	Ăn bổ lọc
+ItemBrowser-General/Hidden	Text	 [new]	Ẩn
+ItemBrowser-General/HideFilters	Text	 [new]	Ẩn bộ lọc
 ItemBrowser-General/HideOptions	Text	 [new]	Án tùy chọn
 ItemBrowser-General/HighlightResults	Text	 [new]	Làm nổi bật kết quả tìm kiếm
 ItemBrowser-General/HighlightResultsDesc	Text	 [new]	Làm nổi bật kết quả tìm kiếm trong túi đồ và vật phẩm lưu trữ của bạn
@@ -2722,7 +2722,7 @@ ItemBrowser-NameOverrides/DiggingSpotNature_0	Text	 [new]	Điểm đảo có
 ItemBrowser-NameOverrides/DiggingSpotSea_0	Text	 [new]	Điểm đảo bãi biển
 ItemBrowser-NameOverrides/DiggingSpot_0	Text	 [new]	Điểm đảo
 ItemBrowser-NameOverrides/ExcavationBossStatue_0	Text	 [new]	Gian thờ S.A.H.A.B.A.R.
-ItemBrowser-NameOverrides/FallingExcavationRockDestructible_0	Text	 [new]	Da Tuff rồi
+ItemBrowser-NameOverrides/FallingExcavationRockDestructible_0	Text	 [new]	Đá Tuff rơi
 ItemBrowser-NameOverrides/FallingRockDestructible_0	Text	 [new]	Đã rơi
 ItemBrowser-NameOverrides/FishShoal_0	Text	 [new]	Dân ca
 ItemBrowser-NameOverrides/HydraBossStatue_0	Text	 [new]	Gian thờ Hydra
@@ -2853,8 +2853,8 @@ ItemBrowser-ObjectEntryDescriptions/NaturalSpawnAroundObject_3	Text	 [new]	Chi t
 ItemBrowser-ObjectEntryDescriptions/NaturalSpawnAroundObject_4	Text	 [new]	- Bán kính xuất hiện: {0}
 ItemBrowser-ObjectEntryDescriptions/NaturalSpawnAroundObject_5	Text	 [new]	- Bán kính biến mất: {0}
 ItemBrowser-ObjectEntryDescriptions/NaturalSpawnAroundObject_6	Text	 [new]	- Giới hạn xuất hiện (trong bán kính): {0}
-ItemBrowser-ObjectEntryDescriptions/NaturalSpawnAroundObject_7	Text	 [new]	- Thời gian hội chiều xuất hiện: {0}-{1} giấy
-ItemBrowser-ObjectEntryDescriptions/NaturalSpawnAroundObject_8	Text	 [new]	- Thời gian hồi chiều xuất hiện sau khi đạt giới hạn: {0}-{1} giấy
+ItemBrowser-ObjectEntryDescriptions/NaturalSpawnAroundObject_7	Text	 [new]	- Thời gian hồi chiêu xuất hiện: {0}-{1} giây
+ItemBrowser-ObjectEntryDescriptions/NaturalSpawnAroundObject_8	Text	 [new]	- Thời gian hồi chiêu xuất hiện sau khi đạt giới hạn: {0}-{1} giây
 ItemBrowser-ObjectEntryDescriptions/NaturalSpawnAroundObject_9	Text	 [new]	- {0}
 ItemBrowser-ObjectEntryDescriptions/NaturalSpawnInitial_0_AnyBiome	Text	 [new]	Xuất hiện trên các ô phù hợp khi một khu vực tại bất kỳ vùng sinh thái nào được nạp lần đầu
 ItemBrowser-ObjectEntryDescriptions/NaturalSpawnInitial_0_SpecificBiome	Text	 [new]	Xuất hiện trên các ô phù hợp khi một khu vực ô {0} được nạp lần đầu
@@ -2939,8 +2939,8 @@ ItemBrowser-ObjectEntryRequirements/ContentBundleAbsent	Text	 [new]	Gói nội d
 ItemBrowser-ObjectEntryRequirements/ContentBundlePresent	Text	 [new]	Gói nội dung {0} đang hoạt động
 ItemBrowser-ObjectEntryRequirements/CraftingPrerequisites	Text	 [new]	 hoặc 
 ItemBrowser-ObjectEntryRequirements/HasNotBeenScanned	Text	 [new]	{0} chưa được sử dụng
-ItemBrowser-ObjectEntryRequirements/Merchant_CoreActivated	Text	 [new]	Lông cột đã được kích hoạt
-ItemBrowser-ObjectEntryRequirements/Merchant_CoreBossDefeated	Text	 [new]	Tư lệnh Lông cột đã bị đánh bại
+ItemBrowser-ObjectEntryRequirements/Merchant_CoreActivated	Text	 [new]	Lõi đã được kích hoạt
+ItemBrowser-ObjectEntryRequirements/Merchant_CoreBossDefeated	Text	 [new]	Trùm Lõi đã bị đánh bại
 ItemBrowser-ObjectEntryRequirements/Merchant_HiveBossStatueActivated	Text	 [new]	Tướng Malugaz kẻ bị hư hỏng đã được kích hoạt
 ItemBrowser-ObjectEntryRequirements/Merchant_LarvaBossStatueActivated	Text	 [new]	Tướng Ghorm kể ngẫu nghiện đã được kích hoạt
 ItemBrowser-ObjectEntryRequirements/SeasonActive	Text	 [new]	{0} đang hoạt động
@@ -2960,17 +2960,17 @@ Nếu ""Tự động đánh dấu đà thu thập"" được bắt, mỗi vật 
 ItemBrowser-Options/ClearFavorites	Text	 [new]	Xóa các mức yêu thích
 ItemBrowser-Options/ClearFavoritesAreYouSure	Text	 [new]	Xóa tất cả các mức yêu thích? Hành động này không thể hoàn tác.
 ItemBrowser-Options/ClearFavoritesDesc	Text	 [new]	Xóa tất cả các vật phẩm và sinh vật đã yêu thích
-ItemBrowser-Options/Disabled	Text	 [new]	Tát
-ItemBrowser-Options/Enabled	Text	 [new]	Bắt
+ItemBrowser-Options/Disabled	Text	 [new]	Tắt
+ItemBrowser-Options/Enabled	Text	 [new]	Bật
 ItemBrowser-Options/Extras	Text	 [new]	Mức khác
-ItemBrowser-Options/General	Text	 [new]	Chúng
+ItemBrowser-Options/General	Text	 [new]	Chung
 ItemBrowser-Options/HideNotCollectedIcons	Text	 [new]	Hiển thị biểu tượng
 ItemBrowser-Options/HideNotCollectedIconsDesc	Text	 [new]	Xác định khi nào biểu tượng đầy đủ của vật phẩm/sinh vật hiển thị
-ItemBrowser-Options/HideUndiscovered	Text	 [new]	Ăn các vật phẩm chưa phát hiện
-ItemBrowser-Options/HideUndiscoveredDesc	Text	 [new]	Ăn các vật phẩm và sinh vật mà nhân vật của bạn chưa nhặt hoặc chưa gặp bao giờ
+ItemBrowser-Options/HideUndiscovered	Text	 [new]	Ẩn vật phẩm chưa phát hiện
+ItemBrowser-Options/HideUndiscoveredDesc	Text	 [new]	Ẩn các vật phẩm và sinh vật mà nhân vật của bạn chưa nhặt hoặc chưa gặp bao giờ
 ItemBrowser-Options/KeyHeld	Text	 [new]	Giữ phím
-ItemBrowser-Options/PanelsShiftLayout	Text	 [new]	Các bang di chuyển bố cục
-ItemBrowser-Options/PanelsShiftLayoutDesc	Text	 [new]	Cần giữa trình duyệt khi một bảng tùy chọn được bật/tắt
+ItemBrowser-Options/PanelsShiftLayout	Text	 [new]	Các bảng di chuyển bố cục
+ItemBrowser-Options/PanelsShiftLayoutDesc	Text	 [new]	Căn giữa trình duyệt khi một bảng tùy chọn được bật/tắt
 ItemBrowser-Options/Search	Text	 [new]	Tìm kiếm
 ItemBrowser-Options/SearchByDescription	Text	 [new]	Mô tả
 ItemBrowser-Options/SearchByDescriptionDesc	Text	 [new]	Cho phép bạn tìm kiếm vật phẩm/sinh vật theo mô tả của chúng
@@ -2993,7 +2993,7 @@ ItemBrowser-Options/ShowTechnicalInfoDesc	Text	 [new]	"""Hiển thị các thôn
 - Loại ô và bộ ô
 - Tên prefab khởi tạo
 - Tên prefab đồ họa"""
-ItemBrowser-Options/ShowTileGrid	Text	 [new]	Hiển thị lưới ở
+ItemBrowser-Options/ShowTileGrid	Text	 [new]	Hiển thị lưới ô
 ItemBrowser-Options/ShowTileGridDesc	Text	 [new]	Hiển thị lưới thể hiện ranh giới các ô và ô xuất hiện
 ItemBrowser-Options/Theme	Text	 [new]	Chủ đề
 ItemBrowser-Options/ThemeDesc	Text	 [new]	Thay đổi giao diện của trình duyệt
@@ -3957,7 +3957,7 @@ Items/CritterCrab2Desc	Text	 	Loài giáp xác đỏ vàng này luôn giơ càng
 Items/CritterCrabDesc	Text	 	Loài giáp xác xanh tím này luôn giơ càng lên, khiến nó trông như đang vui vẻ.
 Items/CritterGrasshopper	Text	 	Nhảy Là
 Items/CritterGrasshopperDesc	Text	 	Một anh bạn nhỏ rất nhút nhát. Chỉ một thoáng hiểm nguy mô nhất nhất cũng khiến nó nhảy đi tìm chỗ an toàn.
-Items/CritterLarva	Text	Except for Englisch and German it should be translated as 'Small Larva'	Ấu Trùng Nho
+Items/CritterLarva	Text	Except for Englisch and German it should be translated as 'Small Larva'	Ấu trùng nhỏ
 Items/CritterLarvaDesc	Text	 	Một con ấu trùng tí hon không làm hại bạn nhưng thích được thu thập và giữ trong bàn tay ấm áp.
 Items/CritterLarvaVoid	Text	 [new]	Ấu trùng Void
 Items/CritterLarvaVoidDesc	Text	 [new]	Ấu trùng của một sinh vật Void. Sẽ nở ra một sinh vật trưởng thành.
@@ -4000,7 +4000,7 @@ Items/CrystalKelp	Text	 	Tào Bế Pha Lê
 Items/CrystalKelpDesc	Text	 	Một khối thực vật biến kết tinh thành pha lê.
 Items/CrystalLamp	Text	 	Đền Pha Lê
 Items/CrystalLampDesc	Text	 	Cây được cao này dường như tạo ra lúa bằng cách biến đổi năng lượng của một viên đá quý cổ xưa.
-Items/CrystalMerchant	Text	Nilipede can be translated as anything millipede/centipede + words relating to darkness	Thương Nhân Dũng Cảm
+Items/CrystalMerchant	Text	Nilipede can be translated as anything millipede/centipede + words relating to darkness	Thương nhân pha lê
 Items/CrystalMerchantSpawnItem	Text	 	Pin Hạt Nhân
 Items/CrystalMerchantSpawnItemDesc	Text	 	Một thiết bị công nghệ cực kỳ tiên tiến lưu trữ năng lượng hạt nhân. Khi đặt trong một căn phòng ở được, nó sẽ thu hút một lữ khách gần đã từ The Shimmering Frontier.
 Items/CrystalMeteorShard	Text	 	Mạnh Thiện Thạch Phá Lễ
@@ -4032,7 +4032,7 @@ Items/CupidBowDesc	Text	 	Một cây cung bắn trúng ngay tìm mục tiêu và
 Items/CupidBreastArmor	Text	 	Ao Choang Than Tình Yêu
 Items/CupidBreastArmorDesc	Text	 	Khi mặc chiếc áo choàng này, người ta cảm thấy như được thiên đường phải xuống để gieo rắc tình yêu.
 Items/Cytoplasm	Text	 	Tế Bào Chất
-Items/CytoplasmDesc	Text	 	Dịch lồng đèn từ một cơn amip quá khô.
+Items/CytoplasmDesc	Text	 	Dịch lỏng phát sáng từ một con amip đã khô.
 Items/DaggerFin	Text	 	Vậy Dao Gầm
 Items/DaggerFinDesc	Text	 	Vây của loài cá này mỏng như lưỡi dao cạo.
 Items/DancerBreastArmor	Text	 [new]	Giáp ngục Vũ công
@@ -4957,7 +4957,7 @@ Items/Kiln1Desc	Text	 	Trải qua nhiều năm sử dụng, chiếc lô cũ này
 Items/Kiln2	Text	 	Thung Nùng Đất Sét
 Items/Kiln2Desc	Text	 	Một thiết bị đơn giản dùng để nung đất sét và làm nổ cứng hơn.
 Items/KinematicDynamo	Text	 [new]	Dynamo động học
-Items/KinematicDynamoDesc	Text	 [new]	Máy phát điện bằng chuyển động chuyển động thành năng lượng.
+Items/KinematicDynamoDesc	Text	 [new]	Một máy phát điện biến chuyển động thành năng lượng.
 Items/KingSlimeChest	Text	 	Rương King Slime
 Items/KingSlimeChestDesc	Text	 	Một chiếc rương phụ đầy slime với điểm nhấn màu vàng gợi nhớ đến King Slime.
 Items/KingSlimeCrown	Text	 	Vương Miện King Slime
@@ -5704,8 +5704,8 @@ Items/PinkRoseBouquet	Text	 	Bộ Hồng Phấn
 Items/PinkRoseBouquetDesc	Text	 	Bộ họa tuyệt đẹp làm từ hồng phấn này sẽ tôn lên vẻ đẹp của mỗi căn phòng. Hãy tặng nó cho người bạn yêu quý.
 Items/PinkhornPico	Text	 	Pinkhorn Pico
 Items/PinkhornPicoDesc	Text	 	Sinh vật nhỏ màu hồng này hoàn toàn trong suốt và không thấy nào. Nó có vẻ chẳng phiền khi bị cấm lên.
-Items/PlagueDoctorHelm	Text	 	Mặt Nạ Dịch Hách
-Items/PlagueDoctorHelmDesc	Text	 	Một chiếc mặt nạ mờ chìm ghê rợn. Bên trong bọc mũi từ khi ôi thiu, nhưng vẫn cho bạn sống sót mà ngửi thấy nó.
+Items/PlagueDoctorHelm	Text	 	Mặt nạ bác sĩ dịch hạch
+Items/PlagueDoctorHelmDesc	Text	 	Một chiếc mặt nạ ghê rợn che kín mũi, giúp bạn sống sót trước những mùi hôi thối.
 Items/Plank	Text	 	Tam Văn
 Items/PlankDesc	Text	 	Tấm gỗ phẳng dùng cho công việc mộc tinh xảo hơn.
 Items/PlanterBox	Text	 	Bốn Trong Cây
@@ -5892,7 +5892,7 @@ Items/RangerPantsArmorDesc	Text	Changed 'boots' to 'pants' in the description	Ch
 Items/RazorFlake	Text	 	Phí Tiêu Bất Tường
 Items/RazorFlakeDesc	Text	 	Một vũ khí ném bốn lưỡi này quá này lại khắp phòng. Chèm đứt mọi kẻ địch trên đường đi.
 Items/RecallIdol	Text	 	Tướng Triệu Hồi
-Items/RecallIdolDesc	Text	 	Dịch chuyển bản vẽ lại Lỗi, bị tiêu hao trong quá trình đó.
+Items/RecallIdolDesc	Text	 	Dịch chuyển bạn trở lại căn cứ và bị tiêu hao khi sử dụng.
 Items/RedEnvelope	Text	 	Bao Li Xi
 Items/RedEnvelopeDesc	Text	 	Một món quà tượng trưng cho lời chúc tốt lành và may mắn cho năm tới. Ai đó để lại cho bạn mở.
 Items/RedFireFly	Text	 	Dom Dom Đỏ
@@ -5919,8 +5919,8 @@ Items/RemoteExplosiveDesc	Text	 [new]	Công trình nổ được kích hoạt t�
 Items/RenegadeGoKart	Text	 	Go-kart Phần Loan
 Items/RenegadeGoKartDesc	Text	 	Một chiếc xe địa hình tăng tốc nhanh nhưng tốc độ tối đa thấp hơn. Trong hơi tàn tạ nhưng giúp bạn vào cửa ổn định hơn.
 Items/RiftLensOffhand	Text	 	Thấu Kính Khe Nút
-Items/RiftLensOffhandDesc	Text	 	Một thiết bị cầm tay kỳ lạ, dùng để dịch chuyển tâm gan.
-Items/RiftianLampfish	Text	 	Cả Đền Khe Nút
+Items/RiftLensOffhandDesc	Text	 	Một thiết bị cầm tay kỳ lạ, dùng để dịch chuyển tâm trí.
+Items/RiftianLampfish	Text	 	Cá đèn Khe Nứt
 Items/RiftianLampfishDesc	Text	 	Một sinh vật phi thường dường như không thuộc về thế giới này. Cấu tạo sinh học của nó hoàn toàn khác mọi thứ bạn từng biết.
 Items/RingOfRock	Text	 	Nhân Đà Tạng
 Items/RingOfRockDesc	Text	 	Chiếc nhẫn đơn giản tìm thấy trong tảng đá sâu nhất.
@@ -5999,7 +5999,7 @@ Items/RuinsPiece3Desc	Text	 	Tấm đá lát dày này có hoa văn trông giố
 Items/RuinsPiece4	Text	 	Cột Phế Tích
 Items/RuinsPiece4Desc	Text	 	Những cột đá đổ rạp từng chống đỡ một trận nhà rất cao. Khi sụp xuống, hắn chúng đã gây ra nhiều tàn phá.
 Items/RuinsShelfLarge	Text	 	Kẻ Đá Lớn
-Items/RuinsShelfLargeDesc	Text	 	Một chiếc kệ lớn vững chãi với nhiều chỗ để sách và cuộn giấy. Những thứ còn sót lại được viết bằng thứ ngôn ngữ bản không hiểu.
+Items/RuinsShelfLargeDesc	Text	 	Một chiếc kệ lớn vững chãi với nhiều chỗ để sách và cuộn giấy. Những thứ còn sót lại được viết bằng thứ ngôn ngữ bạn không hiểu.
 Items/RuinsShelfSmall	Text	 	Kẻ Đá
 Items/RuinsShelfSmallDesc	Text	 	Một chiếc kệ vững chãi với nhiều chỗ để sách và cuộn giấy. Những thứ còn sót lại không thể đọc nổi.
 Items/RuinsStool	Text	 	Ghẻ Đầu Caveling
@@ -6797,7 +6797,7 @@ Items/WallStrawBlock	Text	 	Tường rơm
 Items/WallStrawBlockDesc	Text	 	Một mảng tường rơm gia cố để dựng nên trang trại ấm cúng.
 Items/WallThermostat	Text	 [new]	Bộ điều nhiệt tượng
 Items/WallThermostatDesc	Text	 [new]	Bộ điều nhiệt gắn trên tường. Điều chỉnh nhiệt độ khu vực.
-Items/WallTurfBlock	Text	 	Khối Cổ Đạt
+Items/WallTurfBlock	Text	 	Khối tường cỏ
 Items/WallTurfBlockDesc	Text	 	Một mảng có rêu mềm mại.
 Items/WallWoodBlock	Text	 	Tượng Gỗ
 Items/WallWoodBlockDesc	Text	 	Một bức tượng chắc chắn làm từ gỗ. Rất hợp để xây căn cứ.
@@ -6942,8 +6942,8 @@ MapMarkers/DeathMarkerThisPlayer	Text	 	Bạn đã chết tại đây
 MapMarkers/ShrineDesc	Text	 [new]	Điểm đánh dấu vị trí của các đền thờ
 MapMarkers/TheCore	Text	 	Lõi
 MapMarkers/TheCoreGuidance	Text	 [new]	Hướng dẫn đến Lõi (The Core)
-MapMarkers/You	Text	This is shown when hovering over own player marker in Map	Ban
-MapMarkers/mustBeAtPortalToTeleportDesc	Text	 	Bạn phải dùng điểm dịch chuyển hoặc công để dịch chuyển đến đây.
+MapMarkers/You	Text	This is shown when hovering over own player marker in Map	Bạn
+MapMarkers/mustBeAtPortalToTeleportDesc	Text	 	Bạn phải đứng tại cổng hoặc điểm dịch chuyển để dịch chuyển đến đây.
 MapMarkers/portal	Text	 	Cổng
 MapMarkers/portalGoToDesc	Text	 	Nhập để dịch chuyển đến vị trí này.
 MapMarkers/portalNotReadyDesc	Text	 	Công chúa sẵn sàng.
@@ -6991,7 +6991,7 @@ Menu/DeleteOptions	Text	 	Tùy chọn xóa
 Menu/DeleteProgressOptions	Text	 	Tùy chọn xóa tiến trình
 Menu/DeleteWorldsMenu	Text	 	Menu xóa thế giới
 Menu/DeveloperOptions	Text	 [new]	Tùy chọn nhà phát triển
-Menu/Disable	Text	 	Tát
+Menu/Disable	Text	 	Tắt
 Menu/DisableCrossplay	Text	 	Có vẻ crossplay đang gặp sự cố. Bạn có muốn tắt nó không?
 Menu/DiscardChangesDialog	Text	 	Bỏ các thay đổi?
 Menu/DiscardUnconfirmedChanges	Text	 [new]	Hủy các thay đổi chưa xác nhận?
@@ -7001,10 +7001,10 @@ Menu/DisplayOptions	Text	 	Cài đặt hiển thị
 Menu/DontShowAgain	Text	 	Không hiện lại
 Menu/DynamicWater	Text	 	Nước đọng
 Menu/Emulated	Text	 	Giả lập
-Menu/EnableTutorial	Text	 [new]	Bắt hướng dẫn chơi mới
+Menu/EnableTutorial	Text	 [new]	Bật hướng dẫn chơi mới
 Menu/EnterIP	Text	 [new]	Nhập IP
 Menu/EnterPassword	Text	 [new]	Nhập mật khẩu
-Menu/EnterPort	Text	 [new]	Nhập công
+Menu/EnterPort	Text	 [new]	Nhập cổng
 Menu/EnterSeed	Text	 	Nhập seed...
 Menu/EnterWorldName	Text	 	Nhập tên thế giới...
 Menu/ExperimentalPopUp	Text	 	Core Keeper đang chạy ở chế độ thử nghiệm. Chế độ này dùng bộ tệp lưu riêng. Tep lưu thương của bạn vẫn còn nguyên khi bạn quay lại chế độ thường.
@@ -7017,7 +7017,7 @@ Menu/ExportToMod	Text	 	Xuất thanh mod
 Menu/FaceMouseDirection	Text	Option that when enabled causes character to face towards mouse on screen. otherwise character faces the direction that player last moved towards	Quay mặt theo hướng chuột
 Menu/FindingSessions	Text	 	Đang tìm phiên...
 Menu/FishingMiniGame	Text	 [new]	Mini game câu cá
-Menu/ForcedSafeMode	Text	 [new]	Đã bắt chế độ an toàn cưỡng bức
+Menu/ForcedSafeMode	Text	 [new]	Đã bật chế độ an toàn cưỡng bức
 Menu/Fullscreen	Text	 	Toàn màn hình
 Menu/GameID	Text	Game ID is used to connect to other players and shown in pause menu while in a game	Game ID: {0}
 Menu/GameModeLabel	Text	 	Chế độ chơi
@@ -7041,7 +7041,7 @@ Menu/JoinWithIP	Text	 [new]	Tham gia bằng IP
 Menu/LightQuality	Text	 	Chất lượng ánh sáng
 Menu/LoadAnyway	Text	 	Vận tải
 Menu/LoadBenchmark	Text	 [new]	Chạy Benchmark
-Menu/LoadFromMod	Text	 	Tài tử mod
+Menu/LoadFromMod	Text	 	Tải từ mod
 Menu/LocalModMissingClientDialogue	Text	 	Thiếu mod bắt buộc {0}.
 Menu/LocalModMissingServerDialogue	Text	 	Máy chủ thiếu mod bắt buộc {0}.
 Menu/ManagePlayers	Text	 	Quản lý người chơi
@@ -7087,14 +7087,14 @@ Menu/ParamChambersDesc	Text	 	Số lượng và kích thước các khoang hàng
 Menu/ParamChaos	Text	 	Hỗn loạn
 Menu/ParamExtreme	Text	 	Cục cao
 Menu/ParamHigh	Text	 	Cao
-Menu/ParamLakes	Text	 	Họ
+Menu/ParamLakes	Text	 	Hồ
 Menu/ParamLakesDesc	Text	 	Số lượng và quy mô hồ nước.
-Menu/ParamLow	Text	 	Tháp
+Menu/ParamLow	Text	 	Thấp
 Menu/ParamNormal	Text	 	Bình thường
-Menu/ParamOff	Text	 	Tát
-Menu/ParamOreDensity	Text	 	Mật độ quang
+Menu/ParamOff	Text	 	Tắt
+Menu/ParamOreDensity	Text	 	Mật độ quặng
 Menu/ParamOreDensityDesc	Text	 	Độ dồi dào của quặng đặc trưng từng quần xã.
-Menu/ParamPits	Text	 	Họ
+Menu/ParamPits	Text	 	Hố
 Menu/ParamPitsDesc	Text	 	Tần suất và kích thước các họ.
 Menu/ParamRivers	Text	 	Sông
 Menu/ParamRiversDesc	Text	 	Tần suất và độ phức tạp của hệ thống sông.
@@ -7104,10 +7104,10 @@ Menu/ParamTunnelsDesc	Text	 	Tần suất và độ trải rộng của mạng l
 Menu/ParticlesQuality	Text	 	Chất lượng hiệu ứng hạt
 Menu/Password	Text	 [new]	Mật khẩu
 Menu/PendingChanges	Text	 	*Thay đổi đang chờ
-Menu/PerformanceOptions	Text	 	Cài đạt hiệu năng
+Menu/PerformanceOptions	Text	 	Cài đặt hiệu năng
 Menu/Ping	Text	Ping to server. shown in pause menu	Ping: {0} ms
 Menu/Port	Text	 [new]	Cổng
-Menu/PvPEnabled	Text	Shown under the minimap ingame to indicate that pvp is currently active. if pvp is off the text shows nothing	Đã bắt PvP!
+Menu/PvPEnabled	Text	Shown under the minimap ingame to indicate that pvp is currently active. if pvp is off the text shows nothing	Đã bật PvP!
 Menu/Quit	Text	 	Thoát
 Menu/RGBEffects	Text	 [new]	Hiệu ứng RGB
 Menu/RecommendedDialog	Text	 	Nên dùng cài đặt mặc định để có trải nghiệm đầu tiên tốt nhất.
@@ -7152,10 +7152,10 @@ Menu/StartGame	Text	 	Bắt đầu game
 Menu/SteamGameID	Text	 [new]	Steam Game ID
 Menu/StreamerMode	Text	 	Chế độ streamer
 Menu/TargetFrameRate	Text	 	Khung hình mục tiêu
-Menu/ToggleGuestModeOff	Text	 	Tất chế độ khách
-Menu/ToggleGuestModeOn	Text	 	Bắt chế độ khách
-Menu/TogglePvPOff	Text	 	Tat PvP
-Menu/TogglePvPOn	Text	 	Bắt PvP
+Menu/ToggleGuestModeOff	Text	 	Tắt chế độ khách
+Menu/ToggleGuestModeOn	Text	 	Bật chế độ khách
+Menu/TogglePvPOff	Text	 	Tắt PvP
+Menu/TogglePvPOn	Text	 	Bật PvP
 Menu/UIOptions	Text	 	Cài đặt giao diện
 Menu/UiItemLockLine1	Text	 [new]	Giữ phím lock để khóa vật phẩm trong túi đồ
 Menu/UiItemLockLine2	Text	 [new]	Vật phẩm bị khóa sẽ không thể di chuyển, xếp, bẩn hoặc mới ra khỏi túi
@@ -7189,7 +7189,7 @@ NamedBy	Text	 	Đặt tên bởi: {0}
 Names/BirdBoss	Text	 	Azeos, Titan Bầu Trời
 Names/CoreBoss	Text	 	Core Commander
 Names/CoreBoss2ndPhase	Text	 	Unleashed Core Commander
-Names/CoreBossMarker	Text	 	???
+Names/CoreBossMarker	Text	 	Trùm Lõi
 Names/EchoMapAlienTerminal1	Text	 [new]	Đài ngoại hành 1
 Names/EchoMapAlienTerminal2	Text	 [new]	Đài ngoại hành 2
 Names/EchoMapAlienTerminal3	Text	 [new]	Đài ngoại hành 3
@@ -7331,9 +7331,17 @@ PetTalents/StunAndSnareReductionBuff	Text	 	Giảm thời gian choáng và trói
 PetTalents/StunDurationBuff	Text	 	Tăng thời gian choáng
 PetTalents/StunDurationMelee	Text	 	Thời gian choáng khi đánh cận chiến
 PetTalents/StunDurationRange	Text	 	Thời gian choáng khi đánh tầm xa
+PlacementPlus/PlacementPlus	Text	 [new]	Placement Plus
+PlacementPlus_PlacementPlus/General	Text	 [new]	Chung
+PlacementPlus_PlacementPlus/General/MaxBrushSize	Text	 [new]	Kích thước cọ tối đa
+PlacementPlus_PlacementPlus/General/MaxBrushSizeDesc	Text	 [new]	Phạm vi tối đa của cọ.
+PlacementPlus_PlacementPlus/General/ExcludeItems	Text	 [new]	Vật phẩm loại trừ
+PlacementPlus_PlacementPlus/General/ExcludeItemsDesc	Text	 [new]	Danh sách vật phẩm, phân tách bằng dấu phẩy, tự động tắt tính năng đặt theo vùng.
+PlacementPlus_PlacementPlus/General/MinHoldTime	Text	 [new]	Thời gian giữ tối thiểu
+PlacementPlus_PlacementPlus/General/MinHoldTimeDesc	Text	 [new]	Thời gian giữ tối thiểu trước khi thao tác cộng hoặc trừ được lặp tự động.
 PlacementPlus/ADD_ROOF	Text	 [new]	Thêm mái nhà
 PlacementPlus/BlockToolModeMessage	Text	 [new]	Thông báo đổi chế độ của công cụ khối
-PlacementPlus/CHESS_PATTERN	Text	 [new]	Hoa cỏ
+PlacementPlus/CHESS_PATTERN	Text	 [new]	Mẫu bàn cờ
 PlacementPlus/CIRCLE	Text	 [new]	Hình tròn
 PlacementPlus/CLEAR_ROOF	Text	 [new]	Xóa mái nhà
 PlacementPlus/GROUND	Text	 [new]	Mặt đất
@@ -7345,8 +7353,8 @@ PlacementPlus/RANDOM_70_P	Text	 [new]	Ngẫu nhiên 70%
 PlacementPlus/RoofingToolModeMessage	Text	 [new]	Thông báo đổi chế độ của công cụ mái nhà
 PlacementPlus/SQUARE	Text	 [new]	Hình vuông
 PlacementPlus/TOGGLE	Text	 [new]	Chuyển đổi
-PlacementPlus/VERTICAL	Text	 [new]	Đọc
-PlacementPlus/WALL	Text	 [new]	Tương
+PlacementPlus/VERTICAL	Text	 [new]	Dọc
+PlacementPlus/WALL	Text	 [new]	Tường
 Plant	Text	 [new]	Cây
 PlantDesc	Text	 [new]	Cây trồng và hoa màu.
 Platforms/epic	Text	 [new]	Epic
@@ -7387,10 +7395,10 @@ Rarity/UncommonFemale	Text	 	Khá hiếm
 Rarity/UncommonMale	Text	 	Khá hiếm
 Recipes	Text	Title for recipes of foods. {0} will be replaced with a number indicating the current amount of known recipes	Công thức ({0})
 ReinforceButton	Text	 [new]	Gia cố
-ReinforceButtonDesc	Text	 	Bắt để gia cố công cụ, vũ khí và trang bị. Gia cố giúp tăng nhẹ chỉ số của vật phẩm và kéo dài độ bền.
+ReinforceButtonDesc	Text	 	Nhấn để gia cố công cụ, vũ khí và trang bị. Gia cố giúp tăng nhẹ chỉ số của vật phẩm và kéo dài độ bền.
 ReinforceButtonTitle	Text	 	Gia cố
 RepairButton	Text	 [new]	Sửa chữa
-RepairButtonDesc	Text	 	Bắt để sửa chữa công cụ, vũ khí và trang bị.
+RepairButtonDesc	Text	 	Nhấn để sửa chữa công cụ, vũ khí và trang bị.
 RepairButtonTitle	Text	 	Sửa chữa
 RichPresence/InBiomeDesert	Text	 	trong Sa mạc Khởi nguyên
 RichPresence/InBiomeExcavation	Text	 [new]	Đang khám phá Khu khai quật
@@ -7590,7 +7598,7 @@ Skills/Explosives	Text	 [new]	Chất nổ
 Skills/ExplosivesDesc	Text	 [new]	Kỹ năng sử dụng chất nổ và vũ khí nổ
 Skills/ExplosivesPerk	Text	 [new]	Mở khóa kỹ năng Chất nổ
 Skills/Fishing	Text	 	Câu cá
-Skills/FishingDesc	Text	 	Kẹo cá hoặc kho báu khác từ dưới nước lên sẽ tăng kỹ năng câu cá của bạn.
+Skills/FishingDesc	Text	 	Câu cá hoặc vớt kho báu từ dưới nước lên sẽ tăng kỹ năng câu cá của bạn.
 Skills/FishingPerk	Text	 	+{0} kỹ năng Câu cá
 Skills/Gardening	Text	 	Trồng trọt
 Skills/GardeningDesc	Text	 	Thu hoạch cây trồng giúp bạn mát tay hơn, cho phép nhận thêm cây trồng.
@@ -7605,7 +7613,7 @@ Skills/Mining	Text	 	Khai khoáng
 Skills/MiningDesc	Text	 	Đạo tượng giúp tăng sát thương khai khoáng của bạn.
 Skills/MiningPerk	Text	 	+{0} kỹ năng Khai khoáng
 Skills/Range	Text	 	Đánh xa
-Skills/RangeDesc	Text	 	Bạn bằng vũ khí đánh xa giúp tăng hỏa lực của bạn.
+Skills/RangeDesc	Text	 	Bắn bằng vũ khí đánh xa giúp tăng hỏa lực của bạn.
 Skills/RangePerk	Text	 	+{0} kỹ năng Đánh xa
 Skills/Running	Text	 	Cháy
 Skills/RunningDesc	Text	 	Chạy giúp tăng tốc độ di chuyển của bạn.
@@ -7790,7 +7798,7 @@ WeaponSecondary/ManaSyphonOrb	Text	 [new]	Quả cầu hút mana
 WeaponSecondary/MeleeMinion	Text	 	Triệu hồi tay sai bộ xương cận chiến có thể bị kẻ địch nhắm tới.
 WeaponSecondary/MinionDamage	Text	 	Sát thương tay sai: {0}
 WeaponSecondary/MinionHealth	Text	 	Màu tay sai: {0}
-WeaponSecondary/MinionLifespan	Text	 	Thời gian tồn tại tay sai: {0} giấy
+WeaponSecondary/MinionLifespan	Text	 	Thời gian tồn tại tay sai: {0} giây
 WeaponSecondary/OrbitingMinion	Text	 	Triệu hồi tay sai sửa bay quanh, gây sát thương khi va chạm.
 WeaponSecondary/PickaxeMinion	Text	 [new]	Lính cuốc chim
 WeaponSecondary/PiercingShot	Text	 	Phật Bản Xuyên
@@ -7871,7 +7879,7 @@ deleteCharacter	Text	 	Xóa nhân vật
 deleteCharactersMenu	Text	 	Menu xóa nhân vật
 deleteSaveDatasTitle	Text	 	Xóa tiến trình
 developersGallery	Text	 	Bộ sưu tập của nhà phát triển
-disableGodMode	Text	 	Tất chế độ god
+disableGodMode	Text	 	Tắt chế độ god
 disableWorldSimulation	Text	 	Tạm dừng thế giới
 discard	Text	 [new]	Vứt bỏ
 dodge	Text	This text appears when a character dodges an attack	ne
@@ -7894,13 +7902,13 @@ durationSec	Text	"Shown at end of buff text with a duration such as '+2 health e
 {1} is replaced with '25'"	{0} trong {1} giấy
 electrictyIconHoverDesc	Text	Shown when hovering over the electricity icon in buildings that require it	Công trình này cần điện
 emptySlot	Text	 	Ở trong
-enableGodMode	Text	 	Bát chế độ god
+enableGodMode	Text	 	Bật chế độ god
 enableWorldSimulation	Text	 	Thế giới đang tạm dừng
 enterGameId	Text	 	Nhập Game ID
 enterHost	Text	 	Nhập địa chỉ IP máy chủ
 enterLabel	Text	 	Nhân...
 enterName	Text	Hint shown on text input to enter name	Tên...
-enterPort	Text	 	Nhập công máy chủ
+enterPort	Text	 	Nhập cổng máy chủ
 equipment	Text	 	Trang bị
 equipmentPreset1	Text	 	Trang bị 1
 equipmentPreset2	Text	 	Trang bị 2
@@ -8012,13 +8020,13 @@ numpadMinus	Text	 	NUMPAD -
 numpadPlus	Text	 	NUMPAD +
 off	Text	"On/Off
 If your language doesn't have specific words for on/off. consider yes/no or enabled/disabled.
-This will be used with things like 'gamepad vibration: On/Off'"	Tát
+This will be used with things like 'gamepad vibration: On/Off'"	Tắt
 offHandUse	Text	 	Dùng tay phụ: {0}
 offhandSlot	Text	 	Ở tay phụ
 ok	Text	 	Ok
 on	Text	"On/Off setting.
 If your language doesn't have specific words for on/off. consider yes/no or enabled/disabled.
-This will be used with things like 'gamepad vibration: On/Off'"	Bắt
+This will be used with things like 'gamepad vibration: On/Off'"	Bật
 oneTimeEffect	Text	Shown after buff texts on food for example that can only occur one time. should be kept short	(chỉ một lần)
 options	Text	 	Cài đặt
 oxygen	Text	 	Oxy
@@ -8028,7 +8036,7 @@ parry	Text	 	do đơn
 pauseWorldOptionDesc	Text	 	Tạm dừng thế giới sẽ khiến sinh vật và vật thể ngừng di chuyển hoặc hành động. Nước cũng ngừng chảy. Chỉ quản trị viên mới được bật/tắt tùy chọn này.
 paused	Text	 	Game tạm dừng
 permanentWhenEaten	Text	Shown above list of buffs gained from eating food	Vĩnh viễn khi ăn:
-petCandy	Text	 	Dùng: Chợ thủ cũng ăn để tang {0} kinh nghiệm cho nó.
+petCandy	Text	 	Dùng: Cho thú cưng ăn để tăng {0} kinh nghiệm cho nó.
 petEgg	Text	 	Có thể áp nổ
 petInfo	Text	Shown as a header for a window showing information about a pet. Try to keep it short and avoid writing 'info' as 'information' for example	Thông tin thu cung
 petLeveledUp	Text	{0} will be replaced with the level number	Thu cũng đạt cấp {0}!
@@ -8138,7 +8146,7 @@ toggleQuickTrashDesc	Text	 [new]	Vứt bỏ nhanh các vật phẩm đang trở 
 toggleShortcuts	Text	 	Bật/tắt cửa sổ này:
 toggleSignTextOff	Text	 [new]	Tắt hiển thị văn bản biển báo
 toggleSignTextOn	Text	 [new]	Bật hiển thị văn bản biển báo
-toggleSignTextTarget	Text	 [new]	Chọn một biển báo để bắt hoặc tắt văn bản của nó
+toggleSignTextTarget	Text	 [new]	Chọn một biển báo để bật hoặc tắt văn bản của nó
 tools	Text	Shown as title in crafting window	Công cụ
 trading	Text	 	Giao thương
 unbanPlayerDialogue	Text	 	Bạn có muốn gõ cắm người chơi này không?

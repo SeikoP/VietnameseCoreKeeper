@@ -18,6 +18,16 @@ if ('Localization/Localization.csv' -notin @($manifest.files.path)) { throw 'Man
 if ('Scripts/VietnameseFontFix.cs' -notin @($manifest.files.path)) { throw 'Manifest does not declare font fix.' }
 $rows = Import-Csv -Delimiter "`t" -LiteralPath (Join-Path $root 'Localization/Localization.csv')
 if ($rows.Count -lt 8000) { throw "Localization source is unexpectedly small: $($rows.Count) rows." }
+$keys = @($rows.Key)
+foreach ($key in @(
+    'PlacementPlus/PlacementPlus',
+    'PlacementPlus_PlacementPlus/General',
+    'PlacementPlus_PlacementPlus/General/MaxBrushSize',
+    'PlacementPlus_PlacementPlus/General/ExcludeItems',
+    'PlacementPlus_PlacementPlus/General/MinHoldTime'
+)) {
+    if ($key -notin $keys) { throw "Missing Placement Plus localization key: $key" }
+}
 if ((Get-Content -Raw (Join-Path $root 'Scripts/VietnameseFontFix.cs')) -notmatch 'AddGlyphs') { throw 'Font fix source is not the expected script.' }
 
 Write-Output "PASS: project sources are present ($($rows.Count) localization rows)."

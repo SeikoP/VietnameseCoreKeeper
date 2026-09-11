@@ -1,9 +1,17 @@
 # Vietnamese Core Keeper
 
-Client-only Vietnamese translation and native-matched font fix for Core Keeper 1.2.1.5.
+Việt hóa phía client cho Core Keeper 1.2.1.5, kèm font pixel khớp PugFonts gốc.
 
-The mod loads `Localization/Localization.csv` and injects Vietnamese glyphs into the game's native PugFonts, preserving the original menu and HUD layout.
+Gói gồm `Localization/Localization.csv` và script font. Cài đặt qua mod.io; nên hủy đăng ký các gói Việt hóa/font cũ trước khi dùng.
 
-Install through mod.io. Unsubscribe from the separate Vietnamese Translation and Vietnamese Font Fix mods first to avoid duplicate content.
+Các mod có key Việt hóa trong gói hiện tại:
 
-Development tests and atlas tools are intentionally excluded from release packages.
+- Item Browser
+- CoreEnhance
+- Placement Plus
+- GeneralConfigMenu
+- Health Bars
+- Stream Integration
+- StoragePlus
+
+Placement Plus bao gồm cả trang `Mod Config Settings`: tiêu đề, mục General, Max Brush Size, Exclude Items, Min Hold Time và mô tả tương ứng.

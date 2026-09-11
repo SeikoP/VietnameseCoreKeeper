@@ -33,7 +33,18 @@ if (-not $user.oAuthToken) { throw "OAuth token missing: $userPath" }
 
 if (-not $Changelog) { $Changelog = "Vietnamese Core Keeper $Version update." }
 $headers = @{ Authorization = "Bearer $($user.oAuthToken)"; Accept = 'application/json' }
-$form = @{ filedata = $zip; version = $Version; changelog = $Changelog; active = 'true' }
 $uri = "$($cfg.MODIO_API_PATH.TrimEnd('/'))/games/$($cfg.MODIO_GAME_ID)/mods/$($cfg.MODIO_MOD_ID)/files"
-$result = Invoke-RestMethod -Uri $uri -Headers $headers -Method Post -Form $form
+$curlArgs = @(
+    '--fail', '--silent', '--show-error', '-X', 'POST',
+    '-H', "Authorization: Bearer $($user.oAuthToken)",
+    '-H', 'Accept: application/json',
+    '-F', "filedata=@$($zip.FullName)",
+    '-F', "version=$Version",
+    '-F', "changelog=$Changelog",
+    '-F', 'active=true',
+    $uri
+)
+$json = & curl.exe @curlArgs
+if ($LASTEXITCODE -ne 0) { throw "mod.io upload failed (curl exit $LASTEXITCODE)." }
+$result = $json | ConvertFrom-Json
 $result | Select-Object id, mod_id, filename, filesize, version, virus_status, virus_positive
