@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+releases/
+Releases/
+backups/
+Backups/
+*.log
+*.zip
+*.bak
+*.pugbackup
+.vscode/
+
