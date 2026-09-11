@@ -5,6 +5,7 @@ releases/
 Releases/
 backups/
 Backups/
+docs/
 *.log
 *.zip
 *.bak

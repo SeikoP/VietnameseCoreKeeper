@@ -1,0 +1,50 @@
+name: Publish mod.io
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'Localization/Localization.csv'
+      - 'Scripts/VietnameseFontFix.cs'
+      - 'ModManifest.json'
+      - '.github/workflows/publish-modio.yml'
+  workflow_dispatch:
+
+concurrency:
+  group: modio-publish
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  publish:
+    runs-on: windows-latest
+    env:
+      MODIO_API_PATH: https://u-40831167.modapi.io/v1
+      MODIO_GAME_ID: 5289
+      MODIO_MOD_ID: 6372484
+      MODIO_OAUTH_TOKEN: ${{ secrets.MODIO_OAUTH_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validate sources
+        shell: pwsh
+        run: |
+          .\tests\Test-ProjectSources.ps1
+          .\tests\Test-ProjectConfig.ps1
+
+      - name: Resolve next version
+        id: version
+        shell: pwsh
+        run: |
+          $v = & .\tools\Get-NextModIoVersion.ps1
+          Write-Output "version=$v" >> $env:GITHUB_OUTPUT
+
+      - name: Package
+        shell: pwsh
+        run: .\tools\Package.ps1 -Version ${{ steps.version.outputs.version }}
+
+      - name: Publish to mod.io
+        shell: pwsh
+        run: .\tools\Publish-ModIo.ps1 -Version ${{ steps.version.outputs.version }}
