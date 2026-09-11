@@ -19,7 +19,15 @@ Từ PowerShell tại thư mục repo:
 
 Script publish dùng `curl.exe` có sẵn trên Windows nên chạy được bằng Windows PowerShell.
 
-`Localization.csv` là file riêng trong gói mod.io; đăng ký mod mới không ghi đè hay reset `localization\Localization.csv` của game. Gói hiện tại có key cho Item Browser, CoreEnhance, Placement Plus, GeneralConfigMenu, Health Bars, Stream Integration và StoragePlus.
+Gói hiện tại có key Việt hóa cho các mod:
+
+- Item Browser
+- CoreEnhance
+- Placement Plus
+- GeneralConfigMenu
+- Health Bars
+- Stream Integration
+- StoragePlus
 
 Sau khi tải, kiểm tra mod `6372484` có file mới, đúng version và `virus_status=1`, `virus_positive=0`. Không dùng API key để thay thế OAuth token khi upload.
 
