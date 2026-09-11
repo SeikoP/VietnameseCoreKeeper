@@ -4,7 +4,7 @@ $root = Split-Path $PSScriptRoot -Parent
 foreach ($path in @('.env.example', 'tools/Publish-ModIo.ps1', 'tools/modio-common.ps1', 'tools/Get-NextModIoVersion.ps1')) {
     if (-not (Test-Path (Join-Path $root $path))) { throw "Missing project file: $path" }
 }
-if ((Get-Content -Raw (Join-Path $root '.gitignore')) -notmatch '(?m)^\.env$') { throw '.env is not ignored by Git.' }
+if ((Get-Content -Raw (Join-Path $root '.gitignore')) -notmatch '(?m)^\.env\r?$') { throw '.env is not ignored by Git.' }
 
 $envPath = Join-Path $root '.env'
 if (Test-Path -LiteralPath $envPath) {
