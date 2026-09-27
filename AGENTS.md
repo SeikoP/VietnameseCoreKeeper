@@ -43,6 +43,30 @@ không rõ.
 Key mới cần được xác định bằng dữ liệu sau reload, không chỉ bằng danh sách
 mod trong README. Các key `[new]` cũng phải được kiểm tra ô tiếng Việt.
 
+## Mỗi lần game cập nhật phiên bản
+
+Game từ chối mod **trước khi đọc file nào** nếu tag `Game Version` trên mod.io
+không khớp phiên bản đang chạy. Triệu chứng: `Player.log` có `not compatible
+with current version` cho `VietnameseCoreKeeper`, không có dòng
+`[VietnameseFontFix]` nào, và mọi chữ tiếng Việt hiện ô vuông.
+
+Xử lý theo thứ tự:
+
+1. Đổi tag `Game Version` của mod `6372484` trên mod.io sang phiên bản game mới
+   (hiện là `1.3.0`). Không có endpoint DELETE tag: dùng
+   `POST /v1/games/5289/mods/6372484` với `multipart/form-data` và các trường
+   `tags[]` lặp lại chứa **toàn bộ** tag mong muốn. Endpoint
+   `/v1/games/5289/tags/{tag}/add` trả 404.
+2. Xoá cache `C:\Users\Public\mod.io\5289\state.json`, vì game đọc tag từ đây
+   chứ không gọi API mỗi lần chạy.
+3. Reload game và chạy `tests/Test-VietnameseFontRuntime.ps1`.
+
+Nếu sau khi retag mà `Test-VietnameseFontRuntime.ps1` vẫn đỏ thì mới xem tiếp
+tới phép Harmony hay `PugFont`. Đối chiếu API hiện tại trong
+`CoreKeeper_Data/Managed/Pug.Other.dll` (`TextManager.Init2`, các field
+`PugFont`, `PugFont.GlyphData`) trước khi sửa `VietnameseFontFix.cs`. Không
+đổi cách sinh glyph trừ khi log runtime chứng minh có lỗi riêng.
+
 ## Validate trước khi phát hành
 
 Chạy từ PowerShell tại thư mục repo:

@@ -14,6 +14,14 @@
     {
       "path": "Scripts/VietnameseFontFix.cs",
       "guid": "7f3c0f8518104b409d8dd4e4b36ca8e7"
+    },
+    {
+      "path": "Scripts/LocalizationFallback.cs",
+      "guid": ""
+    },
+    {
+      "path": "Scripts/VietnameseKeys.g.cs",
+      "guid": ""
     }
   ],
   "dependencies": []

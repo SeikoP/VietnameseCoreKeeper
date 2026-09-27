@@ -1,0 +1,43 @@
+name: Validate
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Blocking validity
+        shell: pwsh
+        run: .\tests\Test-LocalizationValidity.ps1
+
+      - name: Report-only coverage
+        shell: pwsh
+        run: .\tests\Test-LocalizationCoverage.ps1
+
+      - name: Project sources and config
+        shell: pwsh
+        run: |
+          .\tests\Test-ProjectSources.ps1
+          .\tests\Test-ProjectConfig.ps1
+
+      - name: Native glyph marks
+        shell: pwsh
+        run: .\tests\Test-NativeGlyphMarks.ps1
+
+      - name: Full C# compile gate (requires game assemblies)
+        shell: pwsh
+        run: |
+          # Blocking locally and for publish; reports a documented skip on CI.
+          # Run locally with:  .\tools\Test-ScriptCompile.ps1 -RequireAssemblies
+          .\tools\Test-ScriptCompile.ps1
+          if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }
+          Write-Output '::warning::The real C# compile gate did not run here because Core Keeper assemblies are proprietary. Run tools\Test-ScriptCompile.ps1 -RequireAssemblies locally before deploying or publishing.'

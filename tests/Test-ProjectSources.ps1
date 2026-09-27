@@ -30,4 +30,21 @@ foreach ($key in @(
 }
 if ((Get-Content -Raw (Join-Path $root 'Scripts/VietnameseFontFix.cs')) -notmatch 'AddGlyphs') { throw 'Font fix source is not the expected script.' }
 
-Write-Output "PASS: project sources are present ($($rows.Count) localization rows)."
+# Every runtime script must be declared in the manifest, and every declared file
+# must exist. Core Keeper compiles all declared scripts into one assembly, so a
+# script that ships but is not declared silently never runs, while a declared
+# script that is missing breaks the whole assembly. This check is generic, so it
+# covers future Scripts\*.cs without being updated.
+$declared = @($manifest.files.path)
+$scriptFiles = @(Get-ChildItem -LiteralPath (Join-Path $root 'Scripts') -Filter '*.cs' -File |
+    ForEach-Object { "Scripts/$($_.Name)" })
+if ($scriptFiles.Count -eq 0) { throw 'No runtime scripts found in Scripts.' }
+foreach ($script in $scriptFiles) {
+    if ($script -notin $declared) { throw "Script is present but not declared in ModManifest.json: $script" }
+}
+foreach ($path in $declared) {
+    $file = Get-Item -LiteralPath (Join-Path $root $path) -ErrorAction SilentlyContinue
+    if (-not $file -or $file.Length -eq 0) { throw "ModManifest.json declares a missing or empty file: $path" }
+}
+
+Write-Output "PASS: project sources are present ($($rows.Count) localization rows, $($scriptFiles.Count) script(s) declared)."

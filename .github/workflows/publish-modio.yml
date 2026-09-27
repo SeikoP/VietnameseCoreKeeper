@@ -1,13 +1,8 @@
 name: Publish mod.io
 
+# Publishing is manual only. A Localization.csv edit validated by the "Validate"
+# workflow must never become a public release on its own.
 on:
-  push:
-    branches: [main]
-    paths:
-      - 'Localization/Localization.csv'
-      - 'Scripts/VietnameseFontFix.cs'
-      - 'ModManifest.json'
-      - '.github/workflows/publish-modio.yml'
   workflow_dispatch:
 
 concurrency:
@@ -20,6 +15,7 @@ permissions:
 jobs:
   publish:
     runs-on: windows-latest
+    environment: modio
     env:
       MODIO_API_PATH: https://u-40831167.modapi.io/v1
       MODIO_GAME_ID: 5289
@@ -28,11 +24,33 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Validate sources
+      - name: Blocking validity
+        shell: pwsh
+        run: .\tests\Test-LocalizationValidity.ps1
+
+      - name: Report-only coverage
+        shell: pwsh
+        run: .\tests\Test-LocalizationCoverage.ps1
+
+      - name: Project sources and config
         shell: pwsh
         run: |
           .\tests\Test-ProjectSources.ps1
           .\tests\Test-ProjectConfig.ps1
+
+      - name: Native glyph marks
+        shell: pwsh
+        run: .\tests\Test-NativeGlyphMarks.ps1
+
+      - name: C# compile gate (BLOCKING)
+        shell: pwsh
+        run: |
+          # Core Keeper compiles every declared script into ONE assembly, so a single
+          # unresolved type disables VietnameseFontFix and the fallback together.
+          # -RequireAssemblies makes the missing-assembly case fail instead of skip,
+          # because a runner that cannot compile must not publish.
+          .\tools\Test-ScriptCompile.ps1 -RequireAssemblies
+          if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }
 
       - name: Resolve next version
         id: version

@@ -26,6 +26,7 @@ Achievements/DefeatRaAkar	Text	 	Quả báo sa mạc
 Achievements/DefeatSahabar	Text	 [new]	Tiêu diệt Sahabar
 Achievements/DefeatUrschleim	Text	 	Quái thú kỷ Cambri
 Achievements/Discover100CookBookRecipes	Text	 	Đầu bếp có chứng chỉ
+Achievements/EquipExplorer	Text	 [new]	May Mắn Và Vinh Quang
 Achievements/EquipRingOfRockAndStone	Text	 	Rock and Stone!
 Achievements/FeedCattle	Text	 	Một cuộc sống an lành
 Achievements/FirstPet	Text	 	Đứa con đầu lòng
@@ -44,7 +45,9 @@ Achievements/MaxedOutRange	Text	 	Robin Hood
 Achievements/MaxedOutRunning	Text	 	Bay lượn như bướm...
 Achievements/MaxedOutSummoning	Text	This is from a Final Fantasy X meme. please translate accordingly into the other languages of the game if you can.	Tránh xa Triệu Hồi Sư!
 Achievements/MaxedOutVitality	Text	 	Chăm lo sức khỏe
+Achievements/Mount	Text	 [new]	Lên Ngựa Nào
 Achievements/ObtainCredenceOfRuin	Text	 [new]	Sở hữu Credence of Ruin
+Achievements/ObtainLegendaryScepter	Text	 [new]	Veil Crux
 Achievements/ObtainPhantomSpark	Text	 	Phantom Spark
 Achievements/ObtainRuneSong	Text	 	Rune Song
 Achievements/ObtainSoulSeeker	Text	 	Soul Seeker
@@ -58,6 +61,7 @@ Achievements/StormSong	Text	 	Một khúc ca kỳ lạ
 Achievements/SummonManyMinions	Text	 [new]	Triệu hồi quái linh
 Achievements/TalkToBigLarva	Text	 	Hỏi bà tám
 Achievements/UseWayPoint	Text	 [new]	Sử dụng điểm dừng chân
+Achievements/Vehicles	Text	 [new]	Garage Tay Đua
 AchievementsLockedDescription/CatchStarlightNautilus	Text	 	Cầu được một con Starlight Nautilus
 AchievementsLockedDescription/DefeatAtlanteanWorm	Text	 	Đánh bại một con Atlantean Worm
 AchievementsLockedDescription/DefeatAzeos	Text	 	Đánh bại Azeos, Titan Bầu Trời
@@ -80,6 +84,7 @@ AchievementsLockedDescription/DefeatRaAkar	Text	 	Đánh bại Ra-Akar, Titan Ca
 AchievementsLockedDescription/DefeatSahabar	Text	 [new]	Tiêu diệt boss Sahabar.
 AchievementsLockedDescription/DefeatUrschleim	Text	 	Đánh bại Urschleim
 AchievementsLockedDescription/Discover100CookBookRecipes	Text	 	Khám phá 100 công thức trong sạch nấu ăn
+AchievementsLockedDescription/EquipExplorer	Text	 [new]	Trang bị Hookshot và bộ trang phục vanity của Nhà Thám Hiểm
 AchievementsLockedDescription/EquipRingOfRockAndStone	Text	 	Trang bị Ring of Rock và Ring of Stone
 AchievementsLockedDescription/FeedCattle	Text	 	Chó vật nuôi ăn
 AchievementsLockedDescription/FirstPet	Text	 	Ấp nở thú cưng đầu tiên từ trứng
@@ -98,7 +103,9 @@ AchievementsLockedDescription/MaxedOutRange	Text	 	Đạt 100 điểm kỹ năng
 AchievementsLockedDescription/MaxedOutRunning	Text	 	Đạt 100 điểm kỹ năng chạy
 AchievementsLockedDescription/MaxedOutSummoning	Text	This is from a Final Fantasy X meme. please translate accordingly into the other languages of the game if you can.	Đạt 100 điểm kỹ năng triệu hồi
 AchievementsLockedDescription/MaxedOutVitality	Text	 	Đạt 100 điểm kỹ năng sinh lực
+AchievementsLockedDescription/Mount	Text	 [new]	Cưỡi yên trên gia súc
 AchievementsLockedDescription/ObtainCredenceOfRuin	Text	 [new]	Sở hữu vũ khí Credence of Ruin.
+AchievementsLockedDescription/ObtainLegendaryScepter	Text	 [new]	Thu được Veil Crux
 AchievementsLockedDescription/ObtainPhantomSpark	Text	 	Nhận được Phantom Spark
 AchievementsLockedDescription/ObtainRuneSong	Text	 	Nhận được Rune Song
 AchievementsLockedDescription/ObtainSoulSeeker	Text	 	Nhận được Soul Seeker
@@ -113,6 +120,7 @@ AchievementsLockedDescription/StormSong	Text	Please make sure to find a word for
 AchievementsLockedDescription/SummonManyMinions	Text	 [new]	Triệu hồi nhiều lính cùng lúc.
 AchievementsLockedDescription/TalkToBigLarva	Text	 	Nói chuyện với một Ấu Trùng Lớn
 AchievementsLockedDescription/UseWayPoint	Text	 [new]	Sử dụng điểm dừng chân lần đầu tiên.
+AchievementsLockedDescription/Vehicles	Text	 [new]	Cất 3 loại xe Go-Kart khác nhau vào một chiếc rương
 AchievementsUnlockedDescription/CatchStarlightNautilus	Text	 	Đá cầu được một con Starlight Nautilus
 AchievementsUnlockedDescription/DefeatAtlanteanWorm	Text	 	Đã đánh bại một con Atlantean Worm
 AchievementsUnlockedDescription/DefeatAzeos	Text	 	Đã đánh bại Azeos, Titan Bàu Trời
@@ -135,6 +143,7 @@ AchievementsUnlockedDescription/DefeatRaAkar	Text	 	Đã đánh bại Ra-Akar, T
 AchievementsUnlockedDescription/DefeatSahabar	Text	 [new]	Đã tiêu diệt boss Sahabar.
 AchievementsUnlockedDescription/DefeatUrschleim	Text	 	Đã đánh bại Urschleim
 AchievementsUnlockedDescription/Discover100CookBookRecipes	Text	 	Đã khám phá 100 công thức trong sạch nấu ăn
+AchievementsUnlockedDescription/EquipExplorer	Text	 [new]	Đã trang bị Hookshot và bộ trang phục vanity của Nhà Thám Hiểm
 AchievementsUnlockedDescription/EquipRingOfRockAndStone	Text	 	Đã trang bị Ring of Rock và Ring of Stone
 AchievementsUnlockedDescription/FeedCattle	Text	 	Đã cho vật nuôi ăn
 AchievementsUnlockedDescription/FirstPet	Text	 	Đã ấp nở thú cưng đầu tiên từ trứng
@@ -153,7 +162,9 @@ AchievementsUnlockedDescription/MaxedOutRange	Text	 	Đã đạt 100 điểm k�
 AchievementsUnlockedDescription/MaxedOutRunning	Text	 	Đã đạt 100 điểm kỹ năng cháy
 AchievementsUnlockedDescription/MaxedOutSummoning	Text	This is from a Final Fantasy X meme. please translate accordingly into the other languages of the game if you can.	Đã đạt 100 điểm kỹ năng triệu hồi
 AchievementsUnlockedDescription/MaxedOutVitality	Text	 	Đã đạt 100 điểm kỹ năng sinh lực
+AchievementsUnlockedDescription/Mount	Text	 [new]	Đã cưỡi yên trên gia súc
 AchievementsUnlockedDescription/ObtainCredenceOfRuin	Text	 [new]	Đã sở hữu vũ khí Credence of Ruin.
+AchievementsUnlockedDescription/ObtainLegendaryScepter	Text	 [new]	Đã thu được Veil Crux
 AchievementsUnlockedDescription/ObtainPhantomSpark	Text	 	Đã nhận được Phantom Spark
 AchievementsUnlockedDescription/ObtainRuneSong	Text	 	Đã nhận được Rune Song
 AchievementsUnlockedDescription/ObtainSoulSeeker	Text	 	Đã nhận được Soul Seeker
@@ -168,6 +179,7 @@ AchievementsUnlockedDescription/StormSong	Text	 	Đã tấu khúc nhạc Tune of
 AchievementsUnlockedDescription/SummonManyMinions	Text	 [new]	Đã triệu hồi nhiều lính cùng lúc.
 AchievementsUnlockedDescription/TalkToBigLarva	Text	 	Đã nói chuyện với một Ấu Trùng Lớn
 AchievementsUnlockedDescription/UseWayPoint	Text	 [new]	Đã sử dụng điểm dừng chân lần đầu tiên.
+AchievementsUnlockedDescription/Vehicles	Text	 [new]	Đã cất 3 loại xe Go-Kart khác nhau vào một chiếc rương
 Advanced	Text	 	Nâng cao
 AvailableInEarlyAccess	Text	 	Sẽ có khi ra mắt Early Access
 BetaVersion	Text	{0} will be replaced by the version number	Phiên bản Beta {0}
@@ -224,23 +236,41 @@ Changelog Categories/modding	Text	 [new]	Mod
 Changelog Categories/performance	Text	 [new]	Hiệu năng
 Changelog Entries/AFTilesDesc	Text	 [new]	Thêm các ô tile Abiotic Factor vào khối đất được hỗ trợ.
 Changelog Entries/FenceMapColorsDesc	Text	 [new]	Thêm màu sắc cho các hàng rào trên bản đồ con.
+Changelog Entries/GemstoneArmorDroppingChangeDesc	Text	 [new]	Giáp đá quý: Nay cũng rơi ra từ Mặt Trời Pha Lê và Mặt Trời Pha Lê Lớn.
+Changelog Entries/MoldwebArmorDroppingChangeDesc	Text	 [new]	Giáp nấm mốc: Nay cũng rơi ra từ Bình Chứa Nấm Lớn.
 Changelog Entries/PS5VibrationNoStoppingDesc	Text	 [new]	Sửa lỗi rung tay cầm PS5 không đúng khi nhân vật đứng yên.
+Changelog Entries/PuzzleCheeseProofingDesc	Text	 [new]	Đã cập nhật các màn giải đố để tránh việc lách qua chúng bằng Bản Mạch Áp Lực.
 Changelog Entries/activateAllContentArgumentDesc	Text	 [new]	Thêm đối số cho phép kích hoạt tất cả nội dung khi khởi động server.
 Changelog Entries/addCopyWorldSeedButtonDesc	Text	 [new]	Thêm nút sao chép Seed thế giới vào bộ nhớ đệm.
+Changelog Entries/addCycleLoadoutKeybindDesc	Text	 [new]	Thêm phím tắt để chuyển qua lại các bộ trang bị.
 Changelog Entries/addMissingDirtBiomeTracksDesc	Text	 [new]	Thêm các âm thanh bước chân còn thiếu cho khu vực đất.
 Changelog Entries/addPotionAndCritterPouchDesc	Text	 [new]	Thêm túi đựng thuốc và túi đựng sinh vật nhỏ.
+Changelog Entries/addTrainingDummyDesc	Text	 [new]	Thêm một Bù Nhân Tập Luyện có thể chế tạo được.
+Changelog Entries/added10NewArmorPieces1300Desc	Text	 [new]	Thêm 10 món giáp mới.
+Changelog Entries/added15NewNecklaces1300Desc	Text	 [new]	Thêm 15 dây chuyền mới.
+Changelog Entries/added15NewRings1300Desc	Text	 [new]	Thêm 15 chiếc nhẫn mới.
+Changelog Entries/addedAbilityCompareGearDesc	Text	 [new]	Thêm khả năng so sánh trang bị.
 Changelog Entries/addedAutomatedSystemsAndElectronicsDesc	Text	 [new]	Thêm các hệ thống tự động hóa và thiết bị điện tử.
+Changelog Entries/addedCursorCustomizationOptionsDesc	Text	 [new]	Nay có thể tùy chỉnh con trỏ và tâm ngắm trong menu Cài đặt, với nhiều lựa chọn khác nhau.
 Changelog Entries/addedDirtRuins1SceneBackDesc	Text	 [new]	Thêm khủng long nên cho các phá hủy bằng đất.
 Changelog Entries/addedEchoMapsDesc	Text	 [new]	Thêm Bản đồ Echo vào trò chơi.
 Changelog Entries/addedExcavationBiomeDesc	Text	 [new]	Thêm Khu khai quật mới vào trò chơi.
 Changelog Entries/addedExcavationVoidSubbiomeDesc	Text	 [new]	Thêm khu vực phụ Void trong Khu khai quật.
 Changelog Entries/addedFiveVoidEnemiesDesc	Text	 [new]	Thêm 5 loài kẻ địch Void mới.
+Changelog Entries/addedFour1.3AchievementsDesc	Text	 [new]	Thêm 4 thành tích mới.
+Changelog Entries/addedGrapplingHooksDesc	Text	 [new]	Thêm loại trang bị tay mới: Móc Câu. Hiện có 2 loại, bao gồm:
+Changelog Entries/addedHandBrakeDesc	Text	 [new]	Thêm nút phanh tay cho xe go-kart, giảm tốc độ và tăng quán tính.
 Changelog Entries/addedLockedSolariteChestToFishingDesc	Text	 [new]	Thêm Rương Solarite bị khóa có thể câu được khi câu cá.
 Changelog Entries/addedMiningMinionDesc	Text	 [new]	Thêm lính triệu hồi chuyển lập trình nhằm khai thác mỏ.
+Changelog Entries/addedMountsDesc	Text	 [new]	Nay mọi gia súc đều có thể biến thành cưỡi thú bằng cách dùng các vật phẩm mới sau lên chúng:
+Changelog Entries/addedNewColorsForSomePetsDesc	Text	 [new]	Nay những thú nuôi sau có thể nở ra với nhiều màu sắc khác nhau:
 Changelog Entries/addedNewExcavationMushroomDesc	Text	 [new]	Thêm loài nấm mới được tìm thấy ở Khu khai quật.
 Changelog Entries/addedNewRobotBossDesc	Text	 [new]	Thêm boss Robot khổng lồ mới.
+Changelog Entries/addedNewTitanBossChestsDesc	Text	 [new]	Thêm rương chiến lợi phẩm mới cho các boss sau:
 Changelog Entries/addedOverTwentyNewDecorationsDesc	Text	 [new]	Thêm hơn 20 vật phẩm trang trí mới.
+Changelog Entries/addedPetMeleeCatDesc	Text	 [new]	Một vật lười biếng có thể tìm thấy ở The Desert of Beginnings
 Changelog Entries/addedScenesToOldBiomesDesc	Text	 [new]	Thêm các khung cảnh mới vào những khu vực cũ.
+Changelog Entries/addedSceptersTypeWeaponDesc	Text	 [new]	Loại vũ khí mới cho lối chơi Phù thủy: Cán Cưới. Hiện có 7 Cán Cưới, bao gồm một biến thể truyền thuyết.
 Changelog Entries/addedSevenNewWeaponsDesc	Text	 [new]	Thêm 7 loại vũ khí mới.
 Changelog Entries/addedSixAccessoriesDesc	Text	 [new]	Thêm 6 phụ kiện mới.
 Changelog Entries/addedSixArmorSetsDesc	Text	 [new]	Thêm 6 bộ giáp mới.
@@ -248,28 +278,36 @@ Changelog Entries/addedSomeLargeDestructibleDescriptionsDesc	Text	 [new]	Thêm m
 Changelog Entries/addedTenFigurinesDesc	Text	 [new]	Thêm 10 tượng gỗ nhỏ trang trí mới.
 Changelog Entries/addedThreeExcavationCrittersDesc	Text	 [new]	Thêm 3 sinh vật nhỏ mới ở Đạo mộ.
 Changelog Entries/addedThreeExcavationValuablesDesc	Text	 [new]	Thêm 3 vật quý mới ở Đạo mộ.
+Changelog Entries/addedThreeNewPetsDesc	Text	 [new]	Thêm 3 thú nuôi mới:
+Changelog Entries/addedThreeNewWeapons1300Desc	Text	 [new]	Thêm 3 vũ khí mới.
 Changelog Entries/addedThreeRobotEnemiesDesc	Text	 [new]	Thêm 3 loại robot thù địch mới.
 Changelog Entries/addedThreeWorkbenchesDesc	Text	 [new]	Thêm 3 bản chế tạo mới.
 Changelog Entries/addedTitanShrinesDesc	Text	 [new]	Thêm các Đền thờ Titan vào trò chơi.
 Changelog Entries/addedTwoLegendaryWeaponsDesc	Text	 [new]	Thêm 2 loại vũ khí truyền thuyết mới.
+Changelog Entries/addedTwoNewEnemies1300Desc	Text	 [new]	Thêm 2 kẻ địch mới:
 Changelog Entries/addedTwoVanityHeadgearDesc	Text	 [new]	Thêm 2 mũ trang trí mới.
 Changelog Entries/addedVoidHydraDesc	Text	 [new]	Thêm boss Hydra Void mới.
 Changelog Entries/addedVoidMerchantDesc	Text	 [new]	Thêm Thương nhân Void mới.
 Changelog Entries/additionalAnticipationSoundShroomanDesc	Text	 [new]	Thêm âm thanh cảnh báo trước cho boss Shrooman.
+Changelog Entries/addressableTilesetTexturesDesc	Text	 [new]	Texture bộ gạch giờ được giải phóng khỏi bộ nhớ khi không hiển thị trên màn hình.
 Changelog Entries/adjustMinerHelmetSourcesDesc	Text	 [new]	Điều chỉnh lại các nguồn thu được Mù thợ mỏ.
 Changelog Entries/allowColonInTranslationKeysDesc	Text	 [new]	Cho phép sử dụng dấu hai chấm trong các khóa bản dịch.
+Changelog Entries/arcaneTransfusionReductionDesc	Text	 [new]	Giảm lượng hồi mana nhận được từ tài năng phép thuật "Truyền Huyết Thần Bí".
+Changelog Entries/armorStatChangesToCaterToClassesDesc	Text	 [new]	Chỉ số của các món giáp đã tồn tại sau được điều chỉnh:
 Changelog Entries/automationHealthRegenDesc	Text	 [new]	Thêm khả năng hồi máu tự động cho các công trình tự động hóa.
 Changelog Entries/babyCamelProducingTextDesc	Text	 [new]	Sửa lỗi văn bản khi Lạc đã còn tạo ra sản phẩm.
 Changelog Entries/baitToLureChangeDesc	Text	 [new]	Thay đổi cách sử dụng mỗi câu cá, dùng Moi (Lure) để thay Bét câu.
 Changelog Entries/baselineGoldenCropPlantChanceDesc	Text	 [new]	Tăng tỉ lệ cơ bản tự mở cho các cây trồng màu vàng.
 Changelog Entries/beamWeaponsShowAimDesc	Text	 [new]	Các vũ khí dạng chùm tia hiển thị vùng ngắm bắn rõ ràng hơn.
 Changelog Entries/bedPaintableAnywhereDesc	Text	 [new]	Giường có thể được sơn màu ở bất kỳ vị trí nào.
+Changelog Entries/bestOffenseReductionDesc	Text	 [new]	Giảm lượng sát thương phép nhận được từ tài năng cây phép "Tấn Công Là Tốt Nhất" và "Quần Lót Bèo".
 Changelog Entries/biomeSampleRaceConditionDesc	Text	 [new]	Sửa lỗi tranh chấp dữ liệu khi lấy mẫu lòng đĩa.
 Changelog Entries/biomeSpecificTerrariumsPaintableDesc	Text	 [new]	Các bể nuôi sinh vật theo khu vực giờ có thể được sơn màu.
 Changelog Entries/blackStoneLanternGlowDesc	Text	 [new]	Đèn đá đen giờ phát sáng cả ở bên ngoài ranh giới.
 Changelog Entries/blockedSortButtonPixelsDesc	Text	 [new]	Sửa lỗi nút sắp xếp bị che mất một phần.
 Changelog Entries/bossCrystalsCanBeDeletedDesc	Text	 [new]	Tinh thể boss giờ có thể bị xóa trong chế độ sáng tạo.
 Changelog Entries/bossLootDropMissingOnLeaveDesc	Text	 [new]	Sửa lỗi vật phẩm rơi từ boss bị mất khi rời khỏi trận.
+Changelog Entries/bossSummonCooldownDesc	Text	 [new]	Giảm mạnh thời gian chờ hồi triệu hồi lại cho mọi boss Titan.
 Changelog Entries/bridgesHiddenUnderWallsDesc	Text	 [new]	Sửa lỗi các cây cầu bí ẩn dưới tường.
 Changelog Entries/burnConditionChangeDesc	Text	 [new]	Cân bằng lại hiệu ứng Lửa cháy.
 Changelog Entries/canSleepInBedAgainDesc	Text	 [new]	Người chơi giờ có thể ngủ trên giường một lần nữa.
@@ -281,7 +319,9 @@ Changelog Entries/casualShorterPotionCooldownsDesc	Text	 [new]	Chế độ Nhẻ
 Changelog Entries/cavelingGardenerAttacksDesc	Text	 [new]	Caveling làm vườn giờ có thể tấn công người chơi.
 Changelog Entries/cavelingGardenerChaseDistanceDesc	Text	 [new]	Điều chỉnh khoảng cách trụ dưới của Caveling làm vườn.
 Changelog Entries/ccBackgroundRuneDesc	Text	 [new]	Thêm hoa văn kiểu rune phía sau màn hình.
+Changelog Entries/changeDefaultHonkKeybindingControllerDesc	Text	 [new]	Phím tắt bấm còi xe mặc định đã thay đổi cho tay cầm.
 Changelog Entries/changeWorldInfoDesc	Text	 [new]	Cho phép thay đổi thông tin thế giới.
+Changelog Entries/chestAndActionBarClickingBetweenSlotsFixDesc	Text	 [new]	Đã sửa lỗi khi nhấp vào khoảng giữa các ô trong rương hoặc thanh hành động khi đang cầm vật phẩm sẽ làm rơi vật phẩm xuống thế giới.
 Changelog Entries/chestGlowDesc	Text	 [new]	Rương giờ phát sáng trong bóng tối để dễ nhận biết.
 Changelog Entries/chineseFoldingScreensRotateAgainDesc	Text	 [new]	Bình phong Trung Hoa giờ có thể xoay đúng cách trở lại.
 Changelog Entries/cicadaBossMaterializerDesc	Text	 [new]	Thêm thiết bị tạo ra boss Ve sầu khổng lồ.
@@ -304,9 +344,15 @@ Changelog Entries/ck1211	Text	 [new]	Bản cấp 1.21.1
 Changelog Entries/ck1212	Text	 [new]	Bản cấp 1.21.2
 Changelog Entries/ck1213	Text	 [new]	Bản cấp 1.21.3
 Changelog Entries/ck1214	Text	 [new]	Bản cấp 1.21.4
+Changelog Entries/ck1215	Text	 [new]	1.2.1.5 - Bản vá nóng
 Changelog Entries/ck121x	Text	 [new]	Bản cấp 1.20.x
+Changelog Entries/ck1300	Text	 [new]	1.3 Bản cập nhật lớn - Kỵ Sĩ của Lòng Đất
+Changelog Entries/ck1301	Text	 [new]	1.3.0.1 - Bản vá ổn định
+Changelog Entries/clarifiedBuffVsAttackPetDesc	Text	 [new]	Làm rõ hơn sự khác biệt giữa thú nuôi hồi phục và thú nuôi tấn công thông qua mô tả của chúng.
 Changelog Entries/clientAnimationTriggersPerfDesc	Text	 [new]	Cải thiện hiệu năng khi nhiều hiệu ứng chuyển động được kích hoạt cùng lúc.
 Changelog Entries/closeMapGamepadOffhandDesc	Text	 [new]	Sửa lỗi đóng bản đồ khi dùng gamepad có vật phẩm đang cầm ở tay phụ.
+Changelog Entries/combatSkillChangeByAttackSpeedDesc	Text	 [new]	Kỹ năng cận chiến, tầm xa và phép thuật nay được tăng theo tốc độ tấn công.
+Changelog Entries/combatSkillsBalancedDesc	Text	 [new]	Giảm tổng kinh nghiệm cần thiết để đạt tối đa cây kỹ năng cận chiến, tầm xa và phép thuật. Điều chỉnh đường cong kinh nghiệm để nhận điểm kỹ năng nhanh hơn ở các cấp đầu.
 Changelog Entries/consoleSahabarConsoleCrashDesc	Text	 [new]	Sửa lỗi crash trên máy console khi đấu với Sahabar.
 Changelog Entries/converterReflectionLoadTimeDesc	Text	 [new]	Giảm thời gian nạp khí sử dụng bộ biến đổi vật phẩm.
 Changelog Entries/coreBossDeathEffectsOffsetDesc	Text	 [new]	Sửa lỗi hiệu ứng khi boss Lợi chết bị đặt sai vị trí.
@@ -318,9 +364,12 @@ Changelog Entries/critterTransformDesc	Text	 [new]	Sửa lỗi sinh vật nhờ 
 Changelog Entries/crystalMerchantItemMissingDesc	Text	 [new]	Sửa lỗi thiếu vật phẩm của thương nhân Khu pha lê.
 Changelog Entries/crystalMeteorMissingSpriteDesc	Text	 [new]	Sửa lỗi thiếu hình ảnh của thiên thạch pha lê.
 Changelog Entries/crystalSnailsCantDestroyDrillsDesc	Text	 [new]	Ốc pha lê không còn phá hủy được các máy khoan.
+Changelog Entries/cursorPivotInconsistenciesDesc	Text	 [new]	Đã sửa một số tình huống con trỏ hiển thị lệch với vị trí nhấp chuột được ghi nhận.
+Changelog Entries/customizableMapMarkersDesc	Text	 [new]	Đã cải thiện nhiều tính năng của dấu bản đồ do người chơi đặt:
 Changelog Entries/cutsceneTheCoreLookupDesc	Text	 [new]	Sửa lỗi cắt scene khi tìm kiếm Lỗi (The Core).
 Changelog Entries/deathMarkerColorDesc	Text	 [new]	Sửa lỗi màu của đánh dấu điểm chết.
 Changelog Entries/deathMarkerIncorrectNameDesc	Text	 [new]	Sửa lỗi tên của đánh dấu điểm chết bị sai.
+Changelog Entries/decreasedVariousTransportationCostsDesc	Text	 [new]	Giảm chi phí chế tạo của thuyền, xe go-kart, Cổng Dịch Chuyển và Lò Rèn Đường Sắt.
 Changelog Entries/dedicatedServerSteamInitCrashDesc	Text	 [new]	Sửa lỗi crash khi khởi tạo server Steam chuyên dụng.
 Changelog Entries/delayCircuitRefreshFixDesc	Text	 [new]	Sửa lỗi làm mới mạch điện có tính năng trễ.
 Changelog Entries/destructibleWildernessDebrisDesc	Text	 [new]	Thêm các mảnh vỡ có thể phá hủy ở Khu hoang dã.
@@ -329,12 +378,14 @@ Changelog Entries/dirtWaterFishingInCrystalDesc	Text	 [new]	Sửa lỗi câu cá
 Changelog Entries/disableMiniMapOnSceneUnloadDesc	Text	 [new]	Sửa lỗi bản đồ nhỏ khi gỡ bỏ khung cảnh.
 Changelog Entries/disableSafeModeOnModDebugDesc	Text	 [new]	Tự động tắt chế độ an toàn khi chạy mod ở chế độ debug.
 Changelog Entries/disallowAchievementsIfCheatingDesc	Text	 [new]	Vô hiệu hóa thành tựu khi phát hiện vẫn dùng gian lận.
+Changelog Entries/disconnectPrevHealthDesc	Text	 [new]	Việc kết nối lại sau khi mất kết nối giờ khôi phục lại máu của nhân vật theo trạng thái cuối cùng của client đã ngắt, kể cả khi máu đã thay đổi trên máy chủ.
 Changelog Entries/dontAllowConsoleIfUsingGamepadDesc	Text	 [new]	Không cho mở console khi đang dùng gamepad.
 Changelog Entries/dontRepeatShowConsoleHelpTextDesc	Text	 [new]	Không hiển thị lặp lại văn bản hướng dẫn console.
 Changelog Entries/dontUnloadSprinklersDesc	Text	 [new]	Vòi phun nước không còn bị gỡ bỏ khi chuyển khung cánh.
 Changelog Entries/dresserShadowAppearsCorrectWhenRotatedDesc	Text	 [new]	Bóng tối của từ trang điểm hiển thị đúng khi xoay.
 Changelog Entries/drillsDontDamageWalkableTilesDesc	Text	 [new]	Máy khoan không còn gây sát thương cho các ô đất có thể đi qua.
 Changelog Entries/dungeonGenerationSyncPointDesc	Text	 [new]	Thêm điểm đồng bộ hóa việc tạo các đường hầm.
+Changelog Entries/dungeonRoomsOutsideRadiusDesc	Text	 [new]	Đã sửa lỗi các phòng ngục có thể xuất hiện ngoài bán kính dành cho ngục, gây ghi đè lên các cảnh gần đó.
 Changelog Entries/electricalObjectsNowTryToSendEveryTickDesc	Text	 [new]	Các thiết bị điện giờ cố gắng truyền điện ở mỗi nhịp.
 Changelog Entries/electricalUiImprovementsDesc	Text	 [new]	Cải thiện giao diện của hệ thống điện.
 Changelog Entries/electricitySourcesNoLongerFlickerElectricityDesc	Text	 [new]	Nguồn điện không còn nhấp nháy dòng điện.
@@ -368,29 +419,41 @@ Changelog Entries/fallbackUpdateLibrariesDesc	Text	 [new]	Cập nhật các thư
 Changelog Entries/fallbackUpdateUnityDesc	Text	 [new]	Cập nhật Unity lên phiên bản mới nhất.
 Changelog Entries/fallbackWorldGenerationDesc	Text	 [new]	Sửa lỗi tạo thế giới.
 Changelog Entries/filtersWorkOnFishingNetsAndCritterCatcherDesc	Text	 [new]	Bộ lọc giờ hoạt động với lưới câu cá và dụng cụ bắt sinh vật.
+Changelog Entries/fishingRodFlickerDesc	Text	 [new]	Dây câu của người chơi khác không còn nhấp nháy khi bạn di chuyển.
 Changelog Entries/fiveContributorItemsDesc	Text	 [new]	Thêm 5 vật phẩm từ các nhà đóng góp.
+Changelog Entries/fixAdvancedAutomationTableLightDesc	Text	 [new]	Đã sửa lỗi ánh sáng từ Bàn Tự Động Hóa Nâng Cao còn sót lại vài giây sau khi đã bị phá hủy.
 Changelog Entries/fixAssigningPauseSoftlockDesc	Text	 [new]	Sửa lỗi gắn phím tạm dừng gây kết trần.
+Changelog Entries/fixBirdBossMusicPlayingDesc	Text	 [new]	Đã sửa lỗi nhạc của Azeos lại phát sau khi nó đã bị đánh bại.
 Changelog Entries/fixBoatBlockingPlacementDesc	Text	 [new]	Sửa lỗi thuyền cản trở việc đặt vật phẩm.
+Changelog Entries/fixChatLayeringIssueDesc	Text	 [new]	Chữ trò chuyện không còn hiển thị đè lên các giao diện khác.
 Changelog Entries/fixClaimedBedCleanupDesc	Text	 [new]	Sửa lỗi giường đã được nhãn hiệu không thể xóa bỏ.
 Changelog Entries/fixCritterWrongDirectionTerrariumDesc	Text	 [new]	Sửa lỗi sinh vật nhỏ nhìn sai hướng trong họ sinh thật.
 Changelog Entries/fixCrittersVisibleInTerrariumDesc	Text	 [new]	Sửa lỗi sinh vật nhỏ không hiển thị trong hố sinh thật.
 Changelog Entries/fixCrystalSnailAggroDesc	Text	 [new]	Sửa lỗi ốc pha lê tấn công không đúng mực.
 Changelog Entries/fixElectricExplosionsDuplicationDesc	Text	 [new]	Sửa lỗi vụ nổ điện bị tạo ra nhân đôi.
+Changelog Entries/fixEnemiesIgnoringAttackersDesc	Text	 [new]	Đã sửa lỗi một số kẻ địch bỏ qua đòn tấn công của người chơi từ xa.
 Changelog Entries/fixGalaxiteTurretDestroyDelayDesc	Text	 [new]	Sửa lỗi trễ khi phá hủy tháp súng Galaxite.
 Changelog Entries/fixGiantCicadaBossNeverHealingDesc	Text	 [new]	Sửa lỗi boss Ve sầu khổng lồ không bao giờ hồi máu.
 Changelog Entries/fixGodModeCreativeModeDesc	Text	 [new]	Sửa lỗi chế độ bất tử trong chế độ sáng tạo.
 Changelog Entries/fixGroundSlimeOnGlassBridgeDesc	Text	 [new]	Sửa lỗi nhám nhọn trên cầu kính.
 Changelog Entries/fixHealOtherEntitiesDesc	Text	 [new]	Sửa lỗi trị thương cho các thực thể khác.
 Changelog Entries/fixHoldToCraftIssueWithLockedSlotsDesc	Text	 [new]	Sửa lỗi giữ chuột để chế tạo khi có ở đa khoa.
+Changelog Entries/fixImmuneTakingRadiationDamageDesc	Text	 [new]	Đã sửa lỗi một số kẻ địch có thể nhận sát thương bức xạ dù lẽ ra phải miễn nhiễm.
 Changelog Entries/fixInvisibleCrystalMeteorsDesc	Text	 [new]	Sửa lỗi thiên thạch pha lê bị vô hình.
+Changelog Entries/fixItemsMissingAfterDestroyingChestDesc	Text	 [new]	Đã sửa lỗi vật phẩm có thể biến mất nếu được đặt vào rương đúng lúc rương bị phá hủy.
 Changelog Entries/fixLifeStealConditionDesc	Text	 [new]	Sửa lỗi điều kiện hút sinh lực.
 Changelog Entries/fixLocksRemainingAfterDeathDesc	Text	 [new]	Sửa lỗi khóa còn sót lại sau khi chết.
 Changelog Entries/fixManaNotShareCooldownDesc	Text	 [new]	Sửa lỗi mana không dùng chung thời gian hồi chiều.
 Changelog Entries/fixMinionsPetsTeleportNearEnemiesDesc	Text	 [new]	Sửa lỗi lính triệu hồi và thu cùng dịch chuyển gần kẻ địch.
+Changelog Entries/fixMissingShortcutWindowToggleDesc	Text	 [new]	Đã sửa lỗi phím tắt để bật/tắt cửa sổ phím tắt không hiển thị.
 Changelog Entries/fixNavigationIssueWithSignDesc	Text	 [new]	Sửa lỗi lỗi di chuyển khi dùng biển báo.
 Changelog Entries/fixNetworkTooltipUpdateDesc	Text	 [new]	Sửa lỗi cập nhật thông báo qua mạng.
+Changelog Entries/fixOverlayUnderlaySpritesInvisibleDesc	Text	 [new]	Đã sửa lỗi lồng nuôi gia súc có thể đổi nhẹ màu sắc khi đặt lên thanh hành động.
 Changelog Entries/fixPasteIssueInTextBoxesDesc	Text	 [new]	Sửa lỗi dẫn văn bản vào các ô nhập liệu.
 Changelog Entries/fixPetsAutoremovedWhenDroppedDesc	Text	 [new]	Sửa lỗi thú cưng tự động bị xóa khi được thả ra.
+Changelog Entries/fixPlacingThingsOnWallsElectricalDoorDesc	Text	 [new]	Nay không thể đặt vật lên những bức tường đang nối với Cửa Điện hoặc Cổng Hạ Điện.
+Changelog Entries/fixPlacingThroughWallsDesc	Text	 [new]	Nay không thể đặt vật xuyên trực tiếp qua bức tường.
+Changelog Entries/fixReflectionFromUndergroundAndProximityDesc	Text	 [new]	Đã sửa lỗi Máy Phát Điện Hạ Thấp, Cảm Biến Khoảng Cách Kẻ Địch và Cảm Biến Khoảng Cách Nhà Thám Hiểm phản chiếu lên các ô Sàn Kính liền kề.
 Changelog Entries/fixSaveRollbackCopiedWorldsDesc	Text	 [new]	Sửa lỗi lưu trữ lùi lại cho các thế giới được sao chép.
 Changelog Entries/fixShortcutsWindowToggleNotVisibleDesc	Text	 [new]	Sửa lỗi của số phím tắt không hiển thị khi bấm tổ hợp phím.
 Changelog Entries/fixSlowDataBlockLoadingDesc	Text	 [new]	Sửa lỗi nạp khỏi dữ liệu bị chậm.
@@ -399,42 +462,71 @@ Changelog Entries/fixSpawningRemovingIndestructibleTilesDesc	Text	 [new]	Sửa l
 Changelog Entries/fixTextAndTranslations1205Desc	Text	 [new]	Sửa lỗi văn bản và bản dịch cho bản cấp 1.20.5.
 Changelog Entries/fixTitansBreathInfiniteAttackDesc	Text	 [new]	Sửa lỗi vũ khí Titan Breath tấn công vô hạn.
 Changelog Entries/fixTooManyNymphsSpawnedDesc	Text	 [new]	Sửa lỗi tạo ra quá nhiều ấu trùng ve sầu.
+Changelog Entries/fixUndergroundGeneratorsBelowBridgesDesc	Text	 [new]	Máy Phát Điện Hạ Thấp sẽ không còn nằm bên dưới các ô cầu.
 Changelog Entries/fixedCharactersNotAppearingCorrectlyDesc	Text	 [new]	Sửa lỗi nhân vật hiển thị không đúng trong màn hình.
 Changelog Entries/fixedDesertGuardianPantsArmorFishingLootDesc	Text	 [new]	Sửa lỗi quân bộ giáp Cảnh vệ Sa mạc không rơi khi câu cá.
+Changelog Entries/fixedGodModeDesertChestsDesc	Text	 [new]	Đã sửa lỗi chế độ thần trong thế giới Sáng Tạo không phá được Rương Hoàng Tử Sa Mạc Bị Khóa, Rương Hoàng Hậu Sa Mạc Bị Khóa, Rương Hoàng Vương Sa Mạc Bị Khóa và một số vật thể khác.
 Changelog Entries/fixedHoldToOpenSeasonalItemsDesc	Text	 [new]	Sửa lỗi giữ chuột để mở vật phẩm theo mùa.
+Changelog Entries/fixedInventorySortFullStackDesc	Text	 [new]	Đã sửa lỗi kết quả sắp xếp không nhất quán khi túi đồ chứa một chồng đầy.
+Changelog Entries/fixedPortalOutlineFlickerDesc	Text	 [new]	Đã sửa lỗi đường viền tương tác nhấp nháy khi đứng bên trong một Cổng Dịch Chuyển, khiến cổng không thể dùng được.
 Changelog Entries/fixedQuillRifleProjectileLifetimeDesc	Text	 [new]	Sửa lỗi thời gian tồn tại của dân Sùng Bút Long.
+Changelog Entries/fixedRangedCursorFlickerDesc	Text	 [new]	Đã sửa lỗi con trỏ chuột thoáng chớp về kiểu mặc định khi chuyển từ vũ khí diện rộng sang vũ khí tầm xa.
+Changelog Entries/fixedTeleportPlacementCursorSnapDesc	Text	 [new]	Đã sửa lỗi con trỏ đặt vật đôi khi trượt vào từ ngoài màn hình sau khi dịch chuyển thay vì xuất hiện ngay tại đúng vị trí.
+Changelog Entries/fixedTextandTranslations1300Desc	Text	 [new]	Đã sửa một số văn bản và bản dịch trong game.
 Changelog Entries/flamethrowerTurretAttackWithoutPlayerDesc	Text	 [new]	Tháp phun lửa không còn tấn công khi không có người chơi.
+Changelog Entries/fontsWithExtraPixelDesc	Text	 [new]	Đã loại bỏ những điểm ảnh thừa không mong muốn ở một số ký tự font, ví dụ như @ trong font Latin.
 Changelog Entries/forceSleepFixDesc	Text	 [new]	Sửa lỗi cưỡng chế ngự.
 Changelog Entries/fourNewAchievementsDesc	Text	 [new]	Thêm 4 thành tựu mới.
 Changelog Entries/friendlyExplosionDamageDecreasedDesc	Text	 [new]	Giám sát thường vụ nổ gây ra cho đồng đội.
 Changelog Entries/gainManaOnCritTalantChangeDescDesc	Text	 [new]	Sửa lỗi kỹ năng Nhận mana khi chí mạng khi thay đổi điểm kỹ năng.
+Changelog Entries/gamepadHintsInMapUIDesc	Text	 [new]	Đã điều chỉnh khoảng cách của chú thích tay cầm trong giao diện bản đồ để tránh chồng lấn.
+Changelog Entries/gardeningSkillBalanceDesc	Text	 [new]	Cần thu hoạch ít cây hơn để kiếm điểm kỹ năng Làm Vườn ở giai đoạn đầu.
 Changelog Entries/godModeDurabilityDesc	Text	 [new]	Chế độ bắt từ giờ vô hiệu hóa độ bền của vật phẩm.
+Changelog Entries/gokartHandlingTweaksDesc	Text	 [new]	Tăng độ ngoái và giảm quán tính trên mọi xe go-kart.
 Changelog Entries/gravestoneMarkerOverWaypointDesc	Text	 [new]	Sửa lỗi đánh dấu mô nằm trên điểm dừng chân.
 Changelog Entries/gravestonesDontBlockWaypointsDesc	Text	 [new]	Mộ không còn chặn trở các điểm dừng chân.
 Changelog Entries/hideVersionTextDesc	Text	 [new]	Thêm tùy chọn ấn văn bản phiên bản.
+Changelog Entries/highlightSelectedItemInInventoryDesc	Text	 [new]	Thêm khả năng nhìn thấy ô đang được chọn khi mở túi đồ, kể cả khi ô đó không thuộc thanh hành động.
 Changelog Entries/hoeWiresUnderBeltsFixDesc	Text	 [new]	Sửa lỗi đặt dây điện dưới băng tải bằng cước.
+Changelog Entries/hologramPodShowEverythingInCreativeModeDesc	Text	 [new]	Nay Quan Cầu Hình Cổ Đại chứa toàn bộ vật phẩm có thể chế tạo trong thế giới Sáng Tạo.
 Changelog Entries/hologramPodTitlesDesc	Text	 [new]	Thêm tiêu đề cho các tổ hình ảnh.
+Changelog Entries/hydraBossInitialAnimationNotPlayingDesc	Text	 [new]	Đã sửa lỗi Hydra không phát động tác xuất hiện khi trồi lên mặt đất.
 Changelog Entries/hydraSummonItemsInHologramPodDesc	Text	 [new]	Vật phẩm triệu hồi Hydra giờ hiển thị trong tờ hình ảnh.
 Changelog Entries/impersonatorSyndromeAchievementFixDesc	Text	 [new]	Sửa lỗi thành tựu liên quan đến kẻ giả mạo.
+Changelog Entries/improveReadabilityShortcutsWindowDesc	Text	 [new]	Cải thiện khả năng đọc trong cửa sổ Phím tắt
 Changelog Entries/improvedCombatTextDisplayDesc	Text	 [new]	Cải thiện hiển thị văn bản chiến đấu.
 Changelog Entries/improvedNamesTextsTranslations1210Desc	Text	 [new]	Cải thiện tên, văn bản và bản dịch cho bản cấp 1.21.0.
+Changelog Entries/improvedTrophySummoningItemDescDesc	Text	 [new]	Đã cải thiện mô tả cho tất cả Tượng Binh và một số vật phẩm triệu hồi boss.
+Changelog Entries/increaseMagicBarrierStatDesc	Text	 [new]	Đã tăng hệ số Khiên Phép trên trang bị, nay gần như mạnh gấp đôi ở cấp nâng tối đa.
 Changelog Entries/increaseNatureCicadaHealthDesc	Text	 [new]	Tăng lượng máu cho Vệ Sầu thiên nhiên.
 Changelog Entries/increasedControllerVibrationDesc	Text	 [new]	Tăng cường độ rung của tay cầm.
 Changelog Entries/increasedDropChanceForNinjaArmorDesc	Text	 [new]	Tăng tỉ lệ roi của bò giáp ninja.
+Changelog Entries/increasedGearDropChanceDesc	Text	 [new]	Đã tăng tỉ lệ rơi trang bị của các boss sau:
 Changelog Entries/increasedMechanicalPartsSoldByMerchantDesc	Text	 [new]	Tăng số linh kiện cơ khí được bán lại bởi thương nhân.
+Changelog Entries/increasedTinOreDesc	Text	 [new]	Đã tăng lượng Quảng Thiếc tìm thấy trong hệ sinh thái hang đất sét.
 Changelog Entries/introduceCasualCharacterTypeDesc	Text	 [new]	Giới thiệu kiểu nhân vật Nhẹ nhàng (Casual).
 Changelog Entries/ironWorkbenchWoodPlankCostDesc	Text	 [new]	Cân bằng lại chi phí ván gỗ để chế tạo bàn thép.
 Changelog Entries/itemCollectorTeleportEffectsDesc	Text	 [new]	Thêm hiệu ứng dịch chuyển cho máy thu gom vật phẩm.
 Changelog Entries/labelingChestsDesc	Text	 [new]	Thêm khả năng đặt tên cho các rương.
 Changelog Entries/lagSpikeBossOffscreenDesc	Text	 [new]	Giảm hiện tượng dựng hình khi boss ở ngoài màn hình.
+Changelog Entries/largePotionPouchInsteadOfSmallFromSolariteChestDesc	Text	 [new]	Rương Pha Lê Mặt Trời Bị Khóa nay có cơ hội rơi Túi Bình Pha Lê Lớn thay vì Túi Bình Pha Lê.
 Changelog Entries/largeQuarryTimberRotatesCorrectlyDesc	Text	 [new]	Sửa lỗi gỗ dài từ mỏ đá bị xoay sai khi được đặt.
 Changelog Entries/lessIntrusiveLocalizationWarningsDesc	Text	 [new]	Giảm các cảnh báo bản dịch gây phiền.
+Changelog Entries/lockedChestsFlickerFixDesc	Text	 [new]	Rương Bị Khóa không còn nhấp nháy trong một giây sau khi được mở.
+Changelog Entries/longDistanceAmbientAudioCuesDesc	Text	 [new]	Thêm âm thanh không gian từ xa phát ngẫu nhiên cho các boss sau:
 Changelog Entries/madeElectricalDoorPaintableDesc	Text	 [new]	Cửa điện giờ có thể được sơn màu.
 Changelog Entries/madeRobotArmFilterableDesc	Text	 [new]	Cánh tay robot giờ có thể dùng bộ lọc được.
 Changelog Entries/magicMirrorNakedDesc	Text	 [new]	Sửa lỗi gương pháp thuật hiển thị người chơi thiếu răng họa khi kích hoạt.
+Changelog Entries/magicTreeTalentSwappedPlacesDesc	Text	 [new]	Các tài năng trên cây kỹ năng Phép thuật đã được sắp xếp lại.
 Changelog Entries/makeAzeosScannerCostFeathersAgainDesc	Text	 [new]	Máy quét Azeos trở lại tiêu tốn lòng vũ khí sử dụng.
 Changelog Entries/malugazTeleportRadiusDesc	Text	 [new]	Điều chỉnh bán kính dịch chuyển của Malugaz.
+Changelog Entries/manaBlastReduceManaCostDesc	Text	 [new]	Tài năng "Nổ Mana" thuộc cây Nổ đã được thiết kế lại để giảm chi phí mana trong thời gian ngắn sau khi kích nổ vật nổ.
+Changelog Entries/manaChannelingRefundCostDesc	Text	 [new]	Tài năng "Điều Khiển Mana" thuộc cây Phép thuật đã được thiết kế lại để hoàn lại chi phí mana khi chí mạng.
+Changelog Entries/manaRegenDelayReworkDesc	Text	 [new]	Hồi mana không còn bị dừng trong thời gian ngắn sau khi thi triển. Nay nó tiếp tục ở mức 50% hiệu quả khi đang tấn công bằng phép thuật và trong 1 giây sau lần thi triển tấn công cuối cùng.
+Changelog Entries/manaRegenDelayStatChangeDesc	Text	 [new]	Tài năng "Hồi Mana" thuộc cây Phép thuật, thú nuôi Ký Sinh Huyền Thuật và bonus set của bộ giáp Đạo Sĩ Huyền Thuật (vốn giảm độ trễ hồi mana) nay tăng phần trăm hồi mana trong lúc thi triển.
 Changelog Entries/mapBlankGamepadDesc	Text	 [new]	Sửa lỗi bản đồ bị trắng khi dùng gamepad.
+Changelog Entries/mapMarkerCustomColorDesc	Text	 [new]	Mỗi biểu tượng nay có 10 biến thể màu để bạn chọn.
+Changelog Entries/mapMarkerHoverTextDesc	Text	 [new]	Nay bạn có thể đặt văn bản tuỳ chỉnh hiển thị khi di chuột lên một dấu bản đồ.
 Changelog Entries/mapMarkerIconDelayDesc	Text	 [new]	Sửa lỗi trễ khi hiển thị biểu tượng đánh dấu trên bản đồ.
 Changelog Entries/masterVolumeControlDesc	Text	 [new]	Thêm điều chỉnh âm lượng tổng thể.
 Changelog Entries/meadowMilkCanNowBeCookedDesc	Text	 [new]	Sữa tự động có dùng mua giò có thể nấu ăn được.
@@ -444,16 +536,22 @@ Changelog Entries/minionDetonatorNotAffectNaturallyDyingMinionsDesc	Text	 [new]	
 Changelog Entries/minionDetonatorWrongSalvageMaterialDesc	Text	 [new]	Sửa lỗi vật liệu sai khi tái chế máy kích nổ lính.
 Changelog Entries/minionMoldSlowDesc	Text	 [new]	Lính triệu hồi giờ bị làm chậm trong Hầm ngục nấm mốc.
 Changelog Entries/minionNotMovingFixDesc	Text	 [new]	Sửa lỗi lính triệu hồi không di chuyển.
+Changelog Entries/minionsCanAttackCoccoonsDesc	Text	 [new]	Đã sửa lỗi tay sai không thể tấn công Kén.
 Changelog Entries/minionsIgnoresImmuneBossesDesc	Text	 [new]	Lính triệu hồi không còn tấn công các boss miễn nhiễm.
 Changelog Entries/missingABFLootDesc	Text	 [new]	Sửa lỗi thiếu vật phẩm rời của Abiotic Factor.
 Changelog Entries/missingCrossplayTranslationMSDesc	Text	 [new]	Sửa lỗi bản dịch crossplay của Microsoft Store.
 Changelog Entries/missingFishingLootMessageDesc	Text	 [new]	Thêm thông báo khi thiếu vật phẩm câu cá.
+Changelog Entries/missingLanternColorsDesc	Text	 [new]	Đã sửa lỗi màu ánh sáng của Đèn Lồng Giấy không khớp với màu vật thể.
 Changelog Entries/missingNatureCicadaLootDesc	Text	 [new]	Sửa lỗi thiếu vật phẩm rơi từ Ve sầu thiên nhiên.
 Changelog Entries/missingPouchIconsDesc	Text	 [new]	Sửa lỗi thiếu biểu tượng của các loại túi.
 Changelog Entries/missingTutorialRecipeHighlightsDesc	Text	 [new]	Sửa lỗi thiếu đánh dấu các công thức trong hướng dẫn.
 Changelog Entries/modDependencyMarkerDesc	Text	 [new]	Thêm đánh dấu các mod phụ thuộc.
 Changelog Entries/modDevConsoleCommandsDesc	Text	 [new]	Thêm các lệnh console dành cho nhà phát triển mod.
+Changelog Entries/modListMenu	Text	 [new]	Đã thêm menu mod mới, hiển thị trạng thái nạp của các mod kèm tùy chọn sắp xếp lại thứ tự nạp cũng như nguồn cài đặt của chúng.
 Changelog Entries/modLocalizedDownloadSizeDesc	Text	 [new]	Hiển thị kích thước tải xuống của mod bằng ngôn ngữ đa địch.
+Changelog Entries/moddableCustomScenesDesc	Text	 [new]	Công cụ tạo Scene tùy chỉnh nay có sẵn trong ModSDK sau khi hoàn tất quy trình nhập asset. Đóng gói các scene này vào một mod rồi nạp mod đó sẽ khiến chúng xuất hiện trong game.
+Changelog Entries/moddableExistingPrefabsDesc	Text	 [new]	Hầu hết vật thể trong game giờ có thể bị mod để thay đổi hành vi hoặc ngoại hình.
+Changelog Entries/moddableMapMarkersDesc	Text	 [new]	Dấu bản đồ của người chơi nay được cấu hình bằng MapMarkerIconDataBlock, giúp dễ dàng thêm biểu tượng mới hoặc thay thế biểu tượng cũ.
 Changelog Entries/moddedPoolDefaultSizeDesc	Text	 [new]	Điều chỉnh kích thước mặc định của bộ sưu tập mod.
 Changelog Entries/moddingCKUsesSDBsDesc	Text	 [new]	Core Keeper giờ sử dụng ScriptableObjects để hỗ trợ modding.
 Changelog Entries/moddingGradientMapChangesDesc	Text	 [new]	Thay đổi ánh xạ màu gradient để hỗ trợ modding.
@@ -462,6 +560,7 @@ Changelog Entries/moddingSpriteAssetChangesDesc	Text	 [new]	Thay đổi sprite a
 Changelog Entries/moddingSpriteAssetSkinChangesDesc	Text	 [new]	Thay đổi sprite asset skin để hỗ trợ modding.
 Changelog Entries/moddingSpriteObjectReferencesDesc	Text	 [new]	Thay đổi liên kết đối tượng sprite để hỗ trợ modding.
 Changelog Entries/moddingSteamWorksLoadingAddedDesc	Text	 [new]	Thêm từ khóa nạp SteamWorkShop để hỗ trợ modding.
+Changelog Entries/moreCustomMapMarkersDesc	Text	 [new]	Thêm 4 biểu tượng dấu bản đồ mới và đổi kiểu các biểu tượng hiện có.
 Changelog Entries/mouseCursorSpriteAssetDesc	Text	 [new]	Thêm khả năng thay đổi hình ảnh con trỏ chuột qua mod.
 Changelog Entries/mouseGamepadMovementBlockDesc	Text	 [new]	Sửa lỗi chuột bị chặn khi dùng gamepad.
 Changelog Entries/movedLitFloorDesc	Text	 [new]	Di chuyển công thức chế tạo Sân phải sang viện tổ.
@@ -469,6 +568,7 @@ Changelog Entries/movedStorageFullCheckLocationDesc	Text	 [new]	Di chuyển vị
 Changelog Entries/movedTableSawDesc	Text	 [new]	Di chuyển công thức chế tạo Ban ca tô.
 Changelog Entries/msStoreCrashUponQuitDesc	Text	 [new]	Sửa lỗi crash khi thoát trò chơi trên Microsoft Store.
 Changelog Entries/multiSelectTrashDesc	Text	 [new]	Thêm khả năng chọn nhiều vật phẩm để vứt bỏ.
+Changelog Entries/mushroomWobbleDesc	Text	 [new]	Nấm giờ mềm nhũn và lắc lư theo khi bị bước qua, giống như cây.
 Changelog Entries/newAndImprovedLoadingAnimationDesc	Text	 [new]	Thêm hiệu ứng nạp mới và cải thiện.
 Changelog Entries/newArmorSetDreamerDesc	Text	 [new]	Thêm bộ giáp Mô mở.
 Changelog Entries/newArmorSetInventorDesc	Text	 [new]	Thêm bộ giáp Phát minh giả.
@@ -477,22 +577,36 @@ Changelog Entries/newArmorSetShadowDesc	Text	 [new]	Thêm bộ giáp Bóng tối
 Changelog Entries/newArmorSetSleepyDesc	Text	 [new]	Thêm bộ giáp Buồn ngủ.
 Changelog Entries/newArmorSetVoidFusedDesc	Text	 [new]	Thêm bộ giáp Hợp nhất Void.
 Changelog Entries/newAutomationShowcaseScenesDesc	Text	 [new]	Thêm các khung cảnh trưng bày hệ thống tự động hóa.
+Changelog Entries/newBreakableItemsDesc	Text	 [new]	Một số vật thể khổng lồ trước đây không thể lấy được nay có thể phá và đặt xuống.
+Changelog Entries/newCattleOrexDesc	Text	 [new]	Gia súc mới: Orex - Tìm thấy ở tiểu sinh quần Moss.
+Changelog Entries/newDespawnMinionMechanicDesc	Text	 [new]	Nay người chơi có thể quyết định thời điểm thu hồi tay sai.
+Changelog Entries/newMagicSkillTalentDesc	Text	 [new]	"Đã gỡ kỹ năng phép thuật 'Vững Chắc' (Giảm 5-25% độ trễ hồi Khiên Phép)
+  * Độ trễ hồi Khiên Phép cơ bản đã giảm 25%.
+  * Thêm kỹ năng phép thuật mới 'Phòng Thủ Tinh Thần' (Cộng 20-100% mana tối đa bổ sung vào Khiên Phép)"
 Changelog Entries/newMaxHealthItemDesc	Text	 [new]	Thêm vật phẩm tăng tối đa màu.
 Changelog Entries/newMiningSummoningTomeDesc	Text	 [new]	Thêm sách triệu hồi chuyên dùng để khai thác.
+Changelog Entries/newOSTSlimeBossesDesc	Text	 [new]	Thêm nhạc nền mới cho các trận boss sau:
 Changelog Entries/newPotionBurnResistanceDesc	Text	 [new]	Thêm thuốc kháng Lửa cháy.
 Changelog Entries/newPotionGreaterManaDesc	Text	 [new]	Thêm thuốc Mana lớn.
 Changelog Entries/newPotionManaDesc	Text	 [new]	Thêm thuốc Mana.
 Changelog Entries/newPuzzleRoomsDesc	Text	 [new]	Thêm các phong độ mới.
+Changelog Entries/newSubBiomeMossDesc	Text	 [new]	Tiểu sinh quần mới: Moss - Tìm thấy ở hệ sinh thái Phế Tích Bị Lãng Quên.
+Changelog Entries/newSummoningTalentInfoDesc	Text	 [new]	Thêm 2 tài năng mới vào cây kỹ năng Triệu Hồi để phản ánh thay đổi này, thay thế 2 tài năng trước đó.
+Changelog Entries/newSummoningTalentsDesc	Text	 [new]	Tay sai giờ tồn tại vĩnh viễn thay vì biến mất.
 Changelog Entries/newWorkbenchAdvancedAutomationTableDesc	Text	 [new]	Thêm bản chế tạo Bằng tự động hóa cao cấp.
 Changelog Entries/newWorkbenchExcavationDesc	Text	 [new]	Thêm bàn chế tạo Khu khai quật.
 Changelog Entries/newWorkbenchVoidAltarDesc	Text	 [new]	Thêm bản chế tạo Bàn thờ Void.
 Changelog Entries/nimruzaNameTranslatableDesc	Text	 [new]	Tên Nimruza giờ có thể dịch sang ngôn ngữ khác.
 Changelog Entries/noExtraweaponTrailSpawnDesc	Text	 [new]	Vũ khí không còn tạo ra thêm vệt sáng dư thừa.
+Changelog Entries/noMeleeSkillGainedFromInvulnerablePlayerDesc	Text	 [new]	Đánh cận chiến vào người chơi bất tử không còn cấp kinh nghiệm kỹ năng.
 Changelog Entries/notAllowTrashingNonPlayerItemsDesc	Text	 [new]	Không cho phép vứt bỏ các vật phẩm không phải của người chơi.
+Changelog Entries/optimizedSnakeMovementDesc	Text	 [new]	Kẻ địch dạng rắn nay gây tải mạng ít hơn và ít bị rung hơn nếu cập nhật mạng không kịp theo chuyển động của chúng.
 Changelog Entries/oreRemovedOnStartupDesc	Text	 [new]	Sửa lỗi quặng bị mất khi khởi động trò chơi.
 Changelog Entries/organizeCreativeModeCategoriesDesc	Text	 [new]	Sắp xếp lại các danh mục trong chế độ sáng tạo.
+Changelog Entries/organizedItemsCreativeSubCat1300Desc	Text	 [new]	Đã sắp xếp lại một số vật phẩm trong vài danh mục con của giao diện Sáng Tạo.
 Changelog Entries/outlineIssuesDesc	Text	 [new]	Sửa lỗi đường viền hiển thị không đúng.
 Changelog Entries/outroNotPlayingGuestModeDesc	Text	 [new]	Sửa lỗi đoàn kết không phát trong chế độ khách.
+Changelog Entries/paintBrushToggleSizeDesc	Text	 [new]	Nay có thể chỉnh kích thước vùng tác động của mọi bút vẽ lên tới 5x5.
 Changelog Entries/petBedNameInconsistenciesDesc	Text	 [new]	Sửa lỗi tên giường thủ cũng không nhất quán.
 Changelog Entries/pickupBlockedByEnvironmentDesc	Text	 [new]	Sửa lỗi nhất vật phẩm bị cản trở bởi môi trường.
 Changelog Entries/pickupStandingNextToWallFixDesc	Text	 [new]	Sửa lỗi nhặt vật phẩm khi dùng cuốc đứng cạnh tường.
@@ -510,32 +624,50 @@ Changelog Entries/proximityMaterializerHoeableDesc	Text	 [new]	Máy tạo vật 
 Changelog Entries/pvpPredictionDisabledDesc	Text	 [new]	Sửa lỗi khi tắt dự đoán ở chế độ PvP.
 Changelog Entries/pvpTeamsWrongColorDesc	Text	 [new]	Sửa lỗi màu của các đội PvP bị sai.
 Changelog Entries/raakarHomingProjectilesDespawnDesc	Text	 [new]	Đàn tứ bản của Raakar giờ biến mất sau một thời gian.
+Changelog Entries/railCraftAmountIncreaseDesc	Text	 [new]	Số lượng Ray Nhận được khi chế tạo đã tăng từ 5 lên 10.
 Changelog Entries/randomizeSecondCreatedCharacterDesc	Text	 [new]	Sửa lỗi nhân vật thứ hai tạo ra không được ngẫu nhiên.
 Changelog Entries/rebalancedHandMortarTileDamageDesc	Text	 [new]	Cân bằng lại sát thương lên ở đất của súng cối cầm tay.
 Changelog Entries/recolorVoidEffectDesc	Text	 [new]	Thay đổi lại màu của hiệu ứng Void.
+Changelog Entries/reduceClayCavelingDifficultyDesc	Text	 [new]	Giảm độ khó của Caveling Thương Binh và Lính Đột Kích Caveling.
+Changelog Entries/reduceCoolDownForPortalsAndWaypointsDesc	Text	 [new]	Giảm thời gian kích hoạt của Điểm Dẫn Đường và Cổng Dịch Chuyển.
+Changelog Entries/reduceCostOfLegenaryMiningPickDesc	Text	 [new]	Giảm chi phí chế tạo của Soul Seeker.
+Changelog Entries/reduceMinionBaseDamageDesc	Text	 [new]	Cân bằng lại sát thương cơ bản của tay sai để khớp với bonus sát thương tay sai mới từ Cán Cưới.
+Changelog Entries/reduceSeaTentaclesDesc	Text	 [new]	Giảm số lượng Xúc Thạch có thể xuất hiện ở The Sunken Sea và sát thương chúng gây ra.
 Changelog Entries/removeBugBrainDesc	Text	 [new]	Loại bỏ nguyên nhân lõi liên quan đến Bug Brain.
 Changelog Entries/removeConsoleLoadingDelayDesc	Text	 [new]	Bộ thời gian trễ khi nạp console.
+Changelog Entries/removeDoubleConditionPetCatDesc	Text	 [new]	Đã gỡ hiệu ứng "Gây Thiêu Đốt" bị lặp ở thú nuôi Đuôi Lửa.
 Changelog Entries/removeDuplicatedSpriteAssetsDesc	Text	 [new]	Loại bỏ các sprite trung lập.
 Changelog Entries/renamedFishingWorkbenchDesc	Text	 [new]	Đổi tên bản chế tạo câu cá.
+Changelog Entries/repaintTilesWithSameColorDesc	Text	 [new]	Tường và sàn không còn báo không thể sơn khi người chơi cố sơn bằng đúng màu của cây bút sơn đó.
+Changelog Entries/requireLineOfSightForAffixPlacementDesc	Text	 [new]	Caveling Hư Không không còn tấn công xuyên qua bức tường.
 Changelog Entries/rewordCrossplayMenuOptionDesc	Text	 [new]	Viết lại câu chữ trong tùy chọn crossplay trên menu.
+Changelog Entries/rightClickHotbarToCraftLegendaryStaffDesc	Text	 [new]	Nay có thể chế tạo Titan Breath bằng cách nhấp phải vào bất kỳ nguyên liệu nào trên thanh hành động.
+Changelog Entries/robotBossArenaLagSpikeDesc	Text	 [new]	Đã sửa lỗi giật lag khi vào đấu trường của S.A.H.A.B.A.R..
 Changelog Entries/scarabWingsBalanceDesc	Text	 [new]	Cân bằng lại cạnh bờ hung.
 Changelog Entries/scrollNotWorkingHighFramerateDesc	Text	 [new]	Sửa lỗi cuộn chuột không hoạt động khi fps cao.
 Changelog Entries/selectContentBundleWithGamepadDesc	Text	 [new]	Cho phép chọn gói nội dung bằng gamepad.
 Changelog Entries/serverUpdateTrackerToleranceDesc	Text	 [new]	Tăng sai số cho bộ kiểm tra cập nhật server.
+Changelog Entries/shadowMapNotUpdatingDesc	Text	 [new]	Đã sửa lỗi bóng không cập nhật đúng khi chất lượng ánh sáng được đặt thấp.
+Changelog Entries/shellsWobbleWhenHitDesc	Text	 [new]	Những vỏ ốc khổng lồ gặp trong một số cảnh thế giới nay lắc lư đúng khi bị đánh.
 Changelog Entries/shieldBlockExplosiveDamageDesc	Text	 [new]	Lá chắn giờ có thể chặn sát thương vụ nổ.
 Changelog Entries/shimmeringMerchantSceneDesc	Text	 [new]	Thêm khung cảnh cho Thương nhân Lung linh.
 Changelog Entries/shockwaveAttacksNotCorrectWallCheckDesc	Text	 [new]	Sửa lỗi kiểm tra tường sai của các đòn sóng xung kích.
 Changelog Entries/showAmountOfAvailableMaterialsDesc	Text	 [new]	Hiển thị số lượng vật liệu đang có.
 Changelog Entries/shredderGiveFullScrapPartsDesc	Text	 [new]	Máy nghiền giờ trả ra đầy đủ linh kiện phế liệu.
 Changelog Entries/signIconHideLabelsDesc	Text	 [new]	Thêm tùy chọn ấn nhân cho các biểu tượng trên biển báo.
+Changelog Entries/sittableObjectsRequireLineOfSightDesc	Text	 [new]	Gia súc, xe trượt, thuyền và ghế nay cần có đường nhìn mới sử dụng được.
 Changelog Entries/skillTreeSFXVolumeDesc	Text	 [new]	Thêm điều chỉnh âm lượng hiệu ứng âm thanh cho cây kỹ năng.
 Changelog Entries/skipNoLongerPotionDesc	Text	 [new]	Sửa lỗi bỏ qua không còn sử dụng thuốc.
 Changelog Entries/sleepInBedDesc	Text	 [new]	Thêm mô tả cho việc ngủ trên giường.
+Changelog Entries/sleeperSetNerfDesc	Text	 [new]	Giảm tác dụng bonus set "tăng hồi mana" của bộ đồ ngủ.
 Changelog Entries/sleepingWhileTeleportingDesc	Text	 [new]	Sửa lối ngữ trong lúc dịch chuyển.
 Changelog Entries/sleepyTimerDesc	Text	 [new]	Sửa lỗi bộ đệm trạng thái buồn ngủ.
 Changelog Entries/slightlyDecreasedQuillRifleDamageDesc	Text	 [new]	Giảm nhẹ sát thương của Sùng Bút Long.
 Changelog Entries/snailsCanBeDamagedByDrillsFixDesc	Text	 [new]	Sửa lỗi ốc không thể bị máy khoan làm sát thương.
+Changelog Entries/spawnMaxAmountMinionsChangelogDesc	Text	 [new]	Thêm khả năng triệu hồi tối đa số tay sai cùng lúc, dựa trên số tay sai tối đa nhân vật có thể triệu hồi tại thời điểm thực hiện.
 Changelog Entries/spawningInPassageToFastDesc	Text	 [new]	Sửa lỗi sinh ra nhanh quá trọng lưới hành lang.
+Changelog Entries/specificControllablesDropAndTransferOnPlayerDeathDesc	Text	 [new]	Nếu người chơi chết khi đang ngồi trên thuyền, xe trượt hoặc xe go-kart, phương tiện đó sẽ rơi ra và chuyển vào túi đồ của người chơi.
+Changelog Entries/specificItemsIgnoreTransferOnPlayerDeathDesc	Text	 [new]	Thuyền, xe trượt và xe go-kart không còn chuyển sang ngôi mộ của người chơi khi chết.
 Changelog Entries/stabilityWallBossDesc	Text	 [new]	Cải thiện tính ổn định của boss Vạn Tượng.
 Changelog Entries/startlightNautilusRPCDesc	Text	 [new]	Sửa lỗi RPC của Nautilus Sao sáng.
 Changelog Entries/steamOfflineWorldsDesc	Text	 [new]	Thêm khả năng chơi thế giới khi ngoài tuyến Steam.
@@ -572,15 +704,23 @@ Changelog Entries/updateGraphicsFeathersShellsWingcoversDesc	Text	 [new]	Cập n
 Changelog Entries/updateGraphicsGrimyBookshelvesDesc	Text	 [new]	Cập nhật đồ họa cho các kệ sách cũ.
 Changelog Entries/updateNameIconCreativeCategoriesDesc	Text	 [new]	Cập nhật tên và biểu tượng của các danh mục sáng tạo.
 Changelog Entries/updateScannerGraphicsDesc	Text	 [new]	Cập nhật đồ họa cho các máy quét.
+Changelog Entries/updatedMoldwebAndGemstoneArmorDropSourcesDesc	Text	 [new]	Đã cập nhật nguồn rơi cho các bộ giáp sau:
 Changelog Entries/updatedSfxForItemsAndUIDesc	Text	 [new]	Cập nhật hiệu ứng âm thanh cho vật phẩm và giao diện.
+Changelog Entries/updatedShortcutsWindowTextColorsDesc	Text	 [new]	Đã cập nhật màu chữ trong cửa sổ Phím tắt để dễ đọc hơn.
+Changelog Entries/updatedTireTracksDesc	Text	 [new]	Đã cập nhật đồ họa của các vệt lốp xe go-kart để lại khi lái xe.
+Changelog Entries/updatedUIButtonDescriptionColorsDesc	Text	 [new]	Đã cập nhật màu của nhiều mô tả nút bấm.
 Changelog Entries/urschleimCrashFixDesc	Text	 [new]	Sửa lỗi crash liên quan đến Schlein.
+Changelog Entries/vehicleTurnAxisIssueDesc	Text	 [new]	Phương tiện giờ quay đều nhau với bàn phím và tay cầm.
+Changelog Entries/vehicleTurnBindingDesc	Text	 [new]	Thêm các tùy chọn phím tắt để lái và phanh phương tiện.
 Changelog Entries/voidHydraForceChestSpawnDesc	Text	 [new]	Hydra Void giờ luôn tạo ra rương.
 Changelog Entries/wallBossMultipleSummoningIdolsDesc	Text	 [new]	Boss Vạn Tường giờ hỗ trợ nhiều tướng triệu hồi.
 Changelog Entries/wallBossSummonScansAllMarkersDesc	Text	 [new]	Boss Vạn Tượng quét tất cả các điểm đánh dấu khi triệu hồi.
 Changelog Entries/wallLightBulbRepaintableToTealDesc	Text	 [new]	Bóng đèn tường giờ có thể sơn lại bằng màu xanh teal.
 Changelog Entries/wallsPlacedOnProximitySensorsDesc	Text	 [new]	Cho phép đặt tượng lên các cảm biến nội vùng.
+Changelog Entries/weaknessDetectionReducedDesc	Text	 [new]	Đã giảm tỉ lệ chí mạng của tài năng "Phát Hiện Điểm Yếu" thuộc cây tầm xa xuống còn 50%.
 Changelog Entries/weaponSecondaryScalesWithSkillsDesc	Text	 [new]	Vũ khí phụ giờ tăng sức mạnh theo kỹ năng.
 Changelog Entries/weaponSpriteConsistencyDesc	Text	 [new]	Đồng bộ hình ảnh của các loại vũ khí.
+Changelog Entries/windupAimDesc	Text	 [new]	Một số hành động phụ của vũ khí tầm xa nay dùng tư thế ngắm.
 Changelog Entries/xboxCreativeNotShowingDesc	Text	 [new]	Sửa lỗi danh mục sáng tạo không hiển thị trên Xbox.
 Changelog Entries/xboxSeriesCrystalBiomeShaderDesc	Text	 [new]	Sửa lỗi shader của lòng đĩa pha lê trên Xbox Series.
 ClassicMode	Text	 	Cơ điện
@@ -590,6 +730,7 @@ CombineMaterials	Text	 	Kết hợp nguyên liệu
 ConditionEffect/ApplyBurning	Text	 	{0} sát thương thiêu đốt
 ConditionEffect/ApplyDamageEverySecond	Text	 	{0} sát thương mỗi giây
 ConditionEffect/ApplyPoisoned	Text	 	Cơ đốc, giảm 75% lượng hồi máu nhận được
+ConditionEffect/ApplySlowedByCold	Text	 [new]	Giảm tốc độ di chuyển của mục tiêu {0}% trong 4 giây
 ConditionEffect/ApplySlowedBySlime	Text	 	Giảm {0}% tốc độ di chuyển của mục tiêu trong 4 giây
 ConditionEffect/Armor	Text	 	{0} giáp
 ConditionEffect/ArmorPercentage	Text	 	{0}% giáp
@@ -633,6 +774,7 @@ ConditionEffect/Poisoned	Text	 	Giảm 75% lượng hồi máu nhận được
 ConditionEffect/RangeAttackSpeed	Text	 	{0}% tốc độ đánh xa
 ConditionEffect/RangeDamage	Text	 	{0}% sát thương đánh xa
 ConditionEffect/ReducedDamageFromBosses	Text	 	{0}% giám sát thường từ trùm
+ConditionEffect/ReducedManaReservationPercentage	Text	 [new]	-{0}% chi phí trói linh hồn tay sai
 ConditionEffect/ThornsDamage	Text	 	{0} sát thương gai
 ConditionEffectDesc/ApplyBurning	Text	 	Gây hiệu ứng thiêu đốt lên kẻ địch mà bạn gây sát thương. Hiệu ứng thiêu đốt gây {0} sát thương cho kẻ địch mỗi 2 giây.
 ConditionEffectDesc/Armor	Text	 	Giám sát thương nhân vào, tối đa {0} sát thương. Kẻ địch luôn gây tối thiểu 25% sát thương của chúng.
@@ -669,6 +811,7 @@ ConditionEffectDesc/RangeAttackSpeed	Text	 	Bản bản nhanh hơn {0}% với v�
 ConditionEffectDesc/RangeDamage	Text	 	Đòn đánh xa gây {0}.
 ConditionEffectDesc/RangeDamageFormat	Text	 	Đòn đánh xa gây {0}.
 ConditionEffectDesc/ReducedDamageFromBosses	Text	 	Giảm {0}% sát thương nhân từ trùm.
+ConditionEffectDesc/ReducedManaReservationPercentage	Text	 [new]	Chi phí mana của tay sai được giảm {0}% so với mức thông thường.
 ConditionEffectDesc/ThornsDamage	Text	 	Kẻ tấn công cận chiến nhân {0} sát thương khi tấn công.
 Conditions/AcidDamage	Text	 	{0} sát thương axit mỗi giây, xuyên giáp
 Conditions/AdditionalChanceOnCritToSpawnThunderBeam	Text	 	{0}% cơ hội cộng thêm kích hoạt sức mạnh linh hồn Azeos
@@ -678,13 +821,16 @@ Conditions/AllDamageIncrease	Text	 	{0}% sát thương
 Conditions/AmassThenReciprocateDamage	Text	 [new]	Tích tụ rồi trả lại sát thương
 Conditions/ApplyBurning	Text	 	{0} sát thương thiêu đốt khi đánh trúng
 Conditions/ApplyBurningIfBurning	Text	 [new]	Thi triển Lửa cháy lên kẻ địch đang cháy
+Conditions/ApplyDarkCharm	Text	 [new]	{0}% cơ hội gây Điên Loạn lên mục tiêu bị nguyền rủa, khiến nó tấn công đồng đội.
 Conditions/ApplyDrenchedInOil	Text	 [new]	Thi triển Dầu
+Conditions/ApplyExplodeCursedEnemy	Text	 [new]	Kẻ địch bị nguyền rủa bùng nổ khi chết, gây {0} sát thương nổ
 Conditions/ApplyPetAttackSpeedIncrease	Text	 	{0}% tốc độ tấn công cho thú cưng của bạn
 Conditions/ApplyPetBuffsIncrease	Text	 	{0}% hiệu quả của các hiệu ứng thiên phụ thú cưng
 Conditions/ApplyPetCritChanceIncrease	Text	 	{0}% cơ hội chí mạng cho thú cưng của bạn
 Conditions/ApplyPetCritDamageIncrease	Text	 	{0}% sát thương chí mạng cho thú cưng của bạn
 Conditions/ApplyPetDamageIncrease	Text	 	{0}% sát thương do thú cưng của bạn gây ra
 Conditions/ApplySlipperyMovementWhenHit	Text	 	Kẻ tấn công cận chiến bị trốn trượt khi tấn công bạn
+Conditions/ApplySlowedByCold	Text	 [new]	Giảm tốc độ di chuyển của mục tiêu {0}% trong 4 giây
 Conditions/ApplySlowedBySlime	Text	 	Giảm {0}% tốc độ di chuyển của mục tiêu trong 4 giây
 Conditions/ApplySnare	Text	 	Trói chân
 Conditions/ArmorIncrease	Text	Text shown on gear stat or buff. for example '+45 armor' where {0} is replaced with the number	{0} giáp
@@ -718,6 +864,7 @@ Conditions/ChanceOnHitToSpawnScarabBossProjectile	Text	 	{0}% cơ hội khi đá
 Conditions/ChanceOnHitToStun	Text	 [new]	Có cơ hội làm choáng khi đánh trúng
 Conditions/ChanceOnKillToSummonGhost	Text	 	{0}% cơ hội triệu hồi hơn mà Caveling khi tiêu diệt kẻ địch
 Conditions/ChanceOnMeleeHitToStun	Text	 	{0}% cơ hội làm choáng mục tiêu khi đánh trúng cận chiến
+Conditions/ChanceOnRangeHitToKnockback	Text	 [new]	{0}% cơ hội hất tung khi đánh tầm xa
 Conditions/ChanceOnRangeHitToSpawnOctopusBossProjectile	Text	 	{0}% cơ hội tạo lốc xoáy khi đánh trúng từ xa
 Conditions/ChanceOnRangeShotToApplySlowedBySlime	Text	 	20% cơ hội làm chậm mục tiêu {0}% khi đánh trúng từ xa
 Conditions/ChanceOnRangeShotToStun	Text	 	{0}% cơ hội làm choáng mục tiêu khi đánh trúng từ xa
@@ -739,6 +886,7 @@ Conditions/ChanceToNotConsumeExplosives	Text	 [new]	Có cơ hội không tiêu h
 Conditions/ChanceToNotConsumeWaterCan	Text	 	{0}% cơ hội không tốn nước khi dùng bình tưới
 Conditions/ChanceToPreserveBait	Text	 	{0}% cơ hội không mất mỗi khi cầu được cả
 Conditions/ChanceToRestoreHealthOnMeleeHit	Text	 	10% cơ hội hồi {0}% máu khi đánh trúng cận chiến
+Conditions/ChanceToShatterProjectiles	Text	 [new]	{0}% cơ hội làm vỡ đạn khi đánh tầm xa
 Conditions/ChanceToShootShockWaveOnBlock	Text	 	{0}% cơ hội khí chặn đơn phóng ra sóng xung kích gây sát thương bằng luồng đa chân
 Conditions/ChanceToSpawnFireOnAttack	Text	 [new]	Có cơ hội tạo lửa khi tấn công
 Conditions/ChanceToSpawnNapalmFromExplosives	Text	 [new]	Có cơ hội tạo napalm từ chất nổ
@@ -763,6 +911,7 @@ Conditions/DrenchedInOil	Text	 [new]	Dầu
 Conditions/DurabilityIncreaseAfterMiningOre	Text	 	Hồi {0} độ bền cho công cụ khi phá tường chứa quặng
 Conditions/EquipmentDurabilityLastsLonger	Text	 	{0}% cơ hội không mật độ bên trang bị khi nhận sát thương
 Conditions/ExplosionIncreaseMeleeDamage	Text	 [new]	Vụ nổ tăng sát thương cận chiến
+Conditions/ExplosionReduceManaCostByPercentage	Text	 [new]	Giảm {0}% chi phí mana trong thời gian ngắn sau khi kích nổ
 Conditions/ExplosivesApplyOilOnGround	Text	 [new]	Chất nổ thi triển dầu xuống đất
 Conditions/ExtraHarvestChance	Text	 	{0}% sản lượng thu hoạch
 Conditions/ExtraHealFromSleepPercentage	Text	 [new]	Hồi máu thêm phần trăm khi ngủ
@@ -778,15 +927,19 @@ Conditions/GainDamageIncreaseAtMaxHealth	Text	 	{0}% sát thương khi đầy m�
 Conditions/GainDamageIncreaseFromRunning	Text	 	{0}% sát thương sau khi chạy liên tục trong thời gian ngắn
 Conditions/GainDodgeIncreaseWhileStandingStill	Text	 	{0}% cơ hội né đòn sau khi đứng yên trong thời gian ngắn
 Conditions/GainExtraIndustryItems	Text	 	{0} vật phạm nhân thêm khi chế tạo đường ray, dây điện hoặc băng chuyền
+Conditions/GainGardeningLevelAsArmor	Text	 [new]	{0} giáp mỗi cấp kỹ năng Làm Vườn
+Conditions/GainGardeningLevelAsArmorPercentage	Text	 [new]	{0}% giáp mỗi cấp kỹ năng Làm Vườn
 Conditions/GainHealthRegenWhileBelowHalfHealth	Text	 	Hồi {0} máu mỗi giây khi dưới nửa máu tối đa
 Conditions/GainIncreasedBossDamageFromEatingFish	Text	 	{0}% sát thương lên trùm sau khi ăn cá hoặc món ăn làm từ cá
 Conditions/GainIncreasedMaxHealthFromAllSkillPoints	Text	 	{0}% tổng điểm kỹ năng được cộng vào máu tối đa
 Conditions/GainIncreasedMaxHealthFromPet	Text	 	{0}% máu khi trang bị thú cưng
 Conditions/GainMagicDamagePercentageBoostAfterCrit	Text	 	{0}% sát thương phép trong thời gian ngắn khi chí mạng
+Conditions/GainManaCostOnCrit	Text	 [new]	Hoàn {0}% chi phí mana khi chí mạng
 Conditions/GainManaFromExplosion	Text	 [new]	Nhận mana từ vụ nổ
 Conditions/GainManaOnCrit	Text	 [new]	Nhân mana khi chí mạng
 Conditions/GainManaPercentageOnCrit	Text	 	Hồi {0}% mana khi chí mạng
 Conditions/GainManaPercentageOnDamageTaken	Text	 	Hồi {0}% mana khi nhận sát thương
+Conditions/GainMaxManaPercentageAsMagicBarrier	Text	 [new]	Cộng {0}% mana tối đa bổ sung vào Khiên Phép
 Conditions/GainMeleeAttackSpeedFromCookedFood	Text	 	{0}% tốc độ tấn công cận chiến khi ăn món ăn da nâu
 Conditions/GainMeleeDamageAsLongAsNotTakenDamage	Text	 	{0}% sát thương cận chiến khi không nhân sát thương trực tiếp trong một lúc
 Conditions/GainMeleeDamageFromHitting	Text	 	Nhân 2% sát thương cận chiến mỗi lần đánh trúng kẻ địch, cộng dồn tối đa {0} lần
@@ -820,7 +973,9 @@ Conditions/ImmuneToRadioactiveDamage	Text	 	Miễn nhiễm sát thương phóng 
 Conditions/ImmuneToSlimeSlow	Text	 	Miễn nhiễm hiệu ứng làm chậm của slime
 Conditions/ImmuneToSlipperyMovement	Text	 	Miễn nhiễm trơn trượt
 Conditions/ImmuneToStun	Text	 	Miễn nhiễm choáng
+Conditions/IncreaseCountCurseLegendaryExplosionOnHit	Text	 [new]	Mỗi đòn trúng làm hành động phụ mạnh thêm
 Conditions/IncreaseCritChanceAfterPoisonApply	Text	 	{0}% cơ hội chí mạng trong thời gian ngắn sau khi gây độc thành công
+Conditions/IncreaseLegendaryMiningPickAoeOnHit	Text	 [new]	Đòn trúng nạp năng lượng cho hành động phụ
 Conditions/IncreaseManaCostAndMagicDamagePercentage	Text	 [new]	Tăng phi mana và sát thương phép theo phần trăm
 Conditions/IncreaseManaCostAndMagicDamagePercentagePerSecond	Text	 [new]	Tăng phí mana và sát thương phép mỗi giây
 Conditions/IncreaseSequenceExplosionTotalMaxExplosionsOnHit	Text	 [new]	Tăng số vụ nổ tối đa trong chuỗi khi đánh trúng
@@ -848,11 +1003,13 @@ Conditions/IncreasedMagicDamagePercentageWhileAdjacentToWater	Text	 [new]	Tăng 
 Conditions/IncreasedMagicDamageToMinionDamage	Text	 	Sát thương tay sai tăng thêm bằng {0}% lượng sát thương phép tăng thêm của bạn
 Conditions/IncreasedManaRegen	Text	 	{0} mana mỗi giây
 Conditions/IncreasedManaRegenEffectiveness	Text	 	{0}% tốc độ hồi mana
+Conditions/IncreasedManaRegenPercentageWhileCasting	Text	 [new]	+{0}% hồi mana trong lúc thi triển
 Conditions/IncreasedMaxHealth	Text	 	{0} máu tối đa
 Conditions/IncreasedMaxHealthPermanent	Text	 	{0} máu tối đa
 Conditions/IncreasedMaxMana	Text	 	{0} mana tối đa
 Conditions/IncreasedMaxMinions	Text	 	{0} số tay sai tối đa
 Conditions/IncreasedMinionAttackSpeed	Text	 	{0}% tốc độ tấn công của tay sai
+Conditions/IncreasedMinionAttackSpeedPerOwnerHealth	Text	 [new]	{0}% tốc độ tấn công tay sai cho mỗi 10 điểm máu tối đa bạn có
 Conditions/IncreasedMinionBossDamagePercentage	Text	 [new]	Tăng sát thương của lính khi đánh boss
 Conditions/IncreasedMinionCountAsMagicBarrier	Text	 	{0} khiển phép cho mỗi tay sai đang hoạt động
 Conditions/IncreasedMinionCountAsMagicDamagePercentage	Text	 	{0}% sát thương phép cho mỗi tay sai đang hoạt động
@@ -905,6 +1062,7 @@ Conditions/RangeAttackSpeedIncrease	Text	 	{0}% tốc độ đánh xa
 Conditions/RangeDamageIncrease	Text	 	{0}% sát thương đánh xa
 Conditions/ReadyToAmassThenReciprocateDamage	Text	 [new]	Sẵn sàng tích tụ rồi trả lại sát thương
 Conditions/RedGlowingEyes	Text	 	Mặt bàn phát sáng đỏ
+Conditions/ReduceManaCostByPercentage	Text	 [new]	Giảm {0}% chi phí mana
 Conditions/ReducedAnvilEquipmentCosts	Text	 	Chế tạo và sửa chữa vật phẩm tại để tốn ít hơn {0}% nguyên liệu
 Conditions/ReducedDamageFromBosses	Text	 	Giảm {0}% sát thương nhận từ trùm
 Conditions/ReducedDamageFromExplosions	Text	 [new]	Giảm sát thương từ vụ nổ
@@ -912,12 +1070,15 @@ Conditions/ReducedImpactOfSlipperyMovement	Text	 	Giảm {0}% tác động của
 Conditions/ReducedImpactOfSlowedBySlime	Text	 	Giảm {0}% tác động làm chậm của slime
 Conditions/ReducedMagicBarrierRegenDelayPercentage	Text	 	Giảm {0}% thời gian chờ hỏi khiến phép
 Conditions/ReducedManaRegenDelayPercentage	Text	 	Giảm {0}% thời gian chờ hồi mana
+Conditions/ReducedManaReservationPercentage	Text	 [new]	-{0}% chi phí trói linh hồn tay sai
 Conditions/RemovePoison	Text	 	Loại bỏ mọi chất độc khỏi người uống
 Conditions/SeedDropChance	Text	 	{0}% cơ hội nhân hạt giống khi thu hoạch cây trồng
+Conditions/ShatteredProjectiles	Text	 [new]	{0} mảnh đạn vỡ khi trúng
 Conditions/ShortMovementSpeedBoost	Text	 	{0}% tốc độ di chuyển trong thời gian ngắn
 Conditions/Sleeping	Text	 	Chim vào giấc ngủ
 Conditions/SlipperyMovement	Text	 	Bạn đang di chuyển trơn trượt
 Conditions/SlipperyMovementFromGround	Text	 	Mặt đất trơn trượt
+Conditions/SlowedByCold	Text	 [new]	{0}% tốc độ di chuyển do cái lạnh
 Conditions/SlowedBySlime	Text	 	{0}% tốc độ di chuyển do slime
 Conditions/SnareAndStunDurationReduction	Text	 	Giảm {0}% thời gian bị trói chân và choáng
 Conditions/Snared	Text	Can also be translated from 'immobilized' or other similar word meaning that character can't move	Bị trói chân
@@ -930,6 +1091,7 @@ Conditions/StarvingMovementSpeedDecrease	Text	 	{0}% tốc độ di chuyển do 
 Conditions/StrongerWellFedBuffs	Text	 	Hiệu ứng nổ bùng mạnh hơn {0}%
 Conditions/Stunned	Text	 	Choang
 Conditions/Suffocating	Text	 	Ngạt thở
+Conditions/TakeMoreDamageFromMinionsCurse	Text	 [new]	Gây nguyền rủa khi trúng, tay sai gây thêm {0}% sát thương lên mục tiêu bị nguyền rủa.
 Conditions/ThornsDamage	Text	 	{0} sát thương gai
 Conditions/ThornsDamageAddedToMeleeAndRange	Text	 	Sát thương gai được cộng vào sát thương cận chiến và đánh xa của bạn
 Conditions/ToolDurabilityLastsLonger	Text	 	{0}% cơ hội không mật độ bền khi dùng công cụ và vũ khí
@@ -1056,6 +1218,14 @@ ContentBundles/GiantCicadaBossDungeon	Text	 [new]	Hầm ngục Ve sầu khổng 
 ContentBundles/GiantCicadaBossDungeonDesc	Text	 [new]	Thêm hầm ngục của Ve sầu khổng lồ vào thế giới.
 ContentBundles/GuaranteedOases	Text	 [new]	Đảm bảo Oasis
 ContentBundles/GuaranteedOasesDesc	Text	 [new]	Đảm bảo các Oasis luôn xuất hiện trong thế giới của bạn.
+ContentBundles/LegendaryScepterDungeon	Text	 [new]	Buồng của Veil Crux
+ContentBundles/LegendaryScepterDungeonDesc	Text	 [new]	"Một ngôi sao ngũ giác của những bàn thờ mang dấu hiệu bất an đã lộ ra!
+
+Thêm bundle này có thể ghi đè một khu vực đã khám phá ở The Desert of Beginnings."
+ContentBundles/MossBiomeDungeons	Text	 [new]	Bryobask Chắc Chắn
+ContentBundles/MossBiomeDungeonsDesc	Text	 [new]	"Những hang ổ cô lập của loài thường xanh và xưa hoang đã được khai quật!
+
+Thêm bundle này có thể ghi đè một số khu vực đã khám phá ở Phế Tích Bị Lãng Quên."
 ContentBundles/NatureBiomeCicadas	Text	 [new]	Ve sầu Khu thiên nhiên
 ContentBundles/NatureBiomeCicadasDesc	Text	 [new]	Thêm Ve sầu thiên nhiên vào Khu thiên nhiên.
 ControlMapper/A4	Text	 	A4
@@ -1082,6 +1252,7 @@ ControlMapper/CharacterMoveDown	Text	 [new]	Di chuyển xuống
 ControlMapper/CharacterMoveLeft	Text	 [new]	Di chuyển sang trại
 ControlMapper/CharacterMoveRight	Text	 [new]	Di chuyển sang phải
 ControlMapper/CharacterMoveUp	Text	 [new]	Di chuyển lên
+ControlMapper/Compare	Text	 [new]	So sánh với trang bị đang mặc
 ControlMapper/CoreEnhanceCategory	Text	 [new]	CoreEnhance
 ControlMapper/CoreEnhanceDescription	Text	 [new]	Phím tắt CoreEnhance
 ControlMapper/CoreEnhance_ClearDropItem	Text	 [new]	Vứt vật phẩm
@@ -1106,6 +1277,7 @@ ControlMapper/E5	Text	 	E5
 ControlMapper/EquipPreset1	Text	 	Dừng bộ trang bị 1
 ControlMapper/EquipPreset2	Text	 	Dừng bộ trang bị 2
 ControlMapper/EquipPreset3	Text	 	Dừng bộ trang bị 3
+ControlMapper/EquipPresetCycle	Text	 [new]	Chuyển qua lại các bộ trang bị
 ControlMapper/EquipSlot1	Text	 	Trang bị ở 1
 ControlMapper/EquipSlot10	Text	 	Trang bị ở 10
 ControlMapper/EquipSlot2	Text	 	Trang bị ở 2
@@ -1116,6 +1288,7 @@ ControlMapper/EquipSlot6	Text	 	Trang bị ở 6
 ControlMapper/EquipSlot7	Text	 	Trang bị ở 7
 ControlMapper/EquipSlot8	Text	 	Trang bị ở 8
 ControlMapper/EquipSlot9	Text	 	Trang bị ở 9
+ControlMapper/EquippedNext	Text	 [new]	So sánh vật tiếp theo
 ControlMapper/F4	Text	 	F4
 ControlMapper/F4S	Text	 	F#4
 ControlMapper/F5	Text	 	F5
@@ -1148,12 +1321,14 @@ ControlMapper/ItemBrowser-ShowUsagesPC	Text	 [new]	Trình duyệt vật phẩm: 
 ControlMapper/ItemBrowser-SpawnItemPC	Text	 [new]	Trình duyệt vật phẩm: Phát vật phẩm
 ControlMapper/ItemBrowser-ToggleBrowserPC	Text	 [new]	Trình duyệt vật phẩm: Bật/tắt trình duyệt
 ControlMapper/ItemBrowser-ToggleTileGridPC	Text	 [new]	Trình duyệt vật phẩm: Bật/tắt lưới ô
+ControlMapper/MapEditSelectedPreset	Text	 [new]	Tùy chỉnh dấu bản đồ
 ControlMapper/MapMoveDown	Text	 [new]	Cuốn bản đồ xướng
 ControlMapper/MapMoveLeft	Text	 [new]	Cuốn bản đồ sang trái
 ControlMapper/MapMoveRight	Text	 [new]	Cuốn bản đồ sang phải
 ControlMapper/MapMoveUp	Text	 [new]	Cuốn bản đồ lên
 ControlMapper/MapNextMarker	Text	 [new]	Điểm đánh dấu tiếp theo
 ControlMapper/MapPing	Text	 	Ping bản đồ
+ControlMapper/MapPlaceMarker	Text	 [new]	Đặt dấu bản đồ
 ControlMapper/MapPreviousMarker	Text	 [new]	Điểm đánh dấu trước đó
 ControlMapper/MapViewCategory	Text	 [new]	Bản đồ
 ControlMapper/MapViewDescription	Text	 [new]	Phím sử dụng khi xem bản đồ
@@ -1224,12 +1399,15 @@ ControlMapper/ToggleShortCutsWindowXbox	Text	 [new]	Bật/tắt cửa sổ phím
 ControlMapper/ToggleSpectatedPlayer	Text	Toggles which player is being spectated. Can be used after dying as hard core character.	Đội người chơi đang theo dõi
 ControlMapper/ToggleUI	Text	 	Bật/tắt giao diện trong game
 ControlMapper/TrashItem	Text	 	Vứt bỏ vật phẩm đã chọn
+ControlMapper/TurnVehicleLeft	Text	 [new]	Cho xe quay trái
+ControlMapper/TurnVehicleRight	Text	 [new]	Cho xe quay phải
 ControlMapper/UIInteract	Text	 	Tương tác UI
 ControlMapper/UIModifierKeys	Text	 	Phím bổ trợ UI túi đồ, dùng để thao tác nhấc/thả vật phẩm
 ControlMapper/UIModifierKeysCategory	Text	 [new]	Phím bổ trợ giao diện
 ControlMapper/UIModifierKeysDescription	Text	 [new]	Phím bổ trợ dùng trong giao diện
 ControlMapper/UISecondInteract	Text	 	Tương tác UI phụ
 ControlMapper/UseOffHand	Text	 	Dùng tay phụ
+ControlMapper/VehicleBrake	Text	 [new]	Phanh xe
 ControlMapper/VehicleCategory	Text	 [new]	Phương tiện
 ControlMapper/VehicleDescription	Text	 [new]	Phím sử dụng khi điều khiển phương tiện
 ControlMapper/ZoomInMap	Text	 	Phòng tổ bản đồ
@@ -1386,6 +1564,7 @@ Credits/Actors	Text	 [new]	Diễn viên
 Credits/AdditionalActors	Text	 [new]	Diễn viên bổ sung
 Credits/AdditionalArt	Text	 	Mỹ Thuật Bổ Sung
 Credits/AdditionalAudio	Text	 	Âm Thanh Bồ Sung
+Credits/AdditionalCommunityParticipants	Text	 [new]	Đóng Góp Thêm Cho Cộng Đồng
 Credits/AdditionalEditors	Text	 [new]	Biên tập bổ sung
 Credits/AdditionalGameDesign	Text	 	Thiết Kế Game Bổ Sung
 Credits/AdditionalLeads	Text	 [new]	Trưởng nhóm bổ sung
@@ -1438,6 +1617,7 @@ Credits/ChiefSalesOfficer	Text	 [new]	Giám đốc phụ trách bán hàng
 Credits/ChineseSimplifiedLQATester	Text	 	Người Kiểm thử LQA Tiếng Trung (Giản thể)
 Credits/ChineseTraditionalLQATester	Text	 	Người Kiểm thử LQA Tiếng Trung (Phồn thể)
 Credits/CommunityManager	Text	 	Quản lý Cộng đồng
+Credits/CommunityParticipants	Text	 [new]	Đóng Góp Cho Cộng Đồng
 Credits/CommunityProgramsCoordinator	Text	 [new]	Điều phối chương trình cộng đồng
 Credits/CompatibilityTesting	Text	 	Kiểm thử Tương thích
 Credits/ComplianceEngineer	Text	 	Kỹ sư Tuân thủ
@@ -1506,6 +1686,7 @@ Credits/LeadTechnicalProgrammer	Text	 [new]	Trưởng nhóm lập trình kỹ th
 Credits/LevelDesigners	Text	 	Thiết Kế Mẫn Chơi/Thế Giới
 Credits/Localisation	Text	 	Bản Địa Hóa
 Credits/MarketingDirector	Text	 	Giám Đốc Marketing
+Credits/MarketingLead	Text	 [new]	Trưởng Bộ Phận Tiếp Thị
 Credits/MarketingMaterial	Text	 	Tài liệu marketing
 Credits/ModdingSupport	Text	 [new]	Hỗ trợ Mod
 Credits/Music	Text	 	Âm Nhạc
@@ -1568,6 +1749,7 @@ Credits/SeniorQATester	Text	 	Người kiểm thử QA cấp cao
 Credits/SeniorSalesManager	Text	 	Quản lý kinh doanh cấp cao
 Credits/SeniorSoftwareEngineer	Text	 	Kỹ sư phần mềm cấp cao
 Credits/SeniorTestDirector	Text	 	Giám Đốc Kiểm Thủ Cấp Cao
+Credits/SeniorTestLead	Text	 [new]	Trưởng Bộ Phận Kiểm Thử Cao Cấp
 Credits/SeniorTestManager	Text	 	Quản lý kiểm thử cấp cao
 Credits/SeniorTesters	Text	 	Người kiểm thử cấp cao
 Credits/SeventyOneConsulting	Text	 	71 Consulting
@@ -1598,12 +1780,14 @@ CreditsNames/AdonaíMason	Text	 	Adonai Mason
 CreditsNames/AdrianPfaffenhausen	Text	 	Adrian Pfaffenhausen
 CreditsNames/AgataPisarczyk	Text	 	Agata Pisarczyk
 CreditsNames/Aharon	Text	 [new]	Aharon
+CreditsNames/AleksandraWisniewska	Text	 [new]	Aleksandra Wiśniewska
 CreditsNames/AleksyKaczmarzyk	Text	 [new]	Aleksy Kaczmarzyk
 CreditsNames/AlenGazibegovic	Text	 [new]	Alen Gazibegovic
 CreditsNames/AlexLewis	Text	 [new]	Alex Lewis
 CreditsNames/AlexanderMa	Text	 	Alexander Ma
 CreditsNames/AlikBeckles	Text	 	Alik Beckles
 CreditsNames/AllaDouneva	Text	 [new]	Alla Douneva
+CreditsNames/AmandaCuthbert	Text	 [new]	Amanda Cuthbert
 CreditsNames/An7hen	Text	 	An7hen
 CreditsNames/AndersGullmarsvik	Text	 [new]	Anders Gullmarsvik
 CreditsNames/AndisBerzins	Text	 [new]	Andis Berzins
@@ -1621,9 +1805,11 @@ CreditsNames/AudreyAnnDesrosiersDrainville	Text	 	Audrey-Ann Desrosiers Drainvil
 CreditsNames/August	Text	 [new]	August
 CreditsNames/AustinEdwards	Text	 	Austin Edwards
 CreditsNames/AxM	Text	 	Ax M.
+CreditsNames/AyoubBoukho	Text	 [new]	Ayoub Boukho
 CreditsNames/Az011	Text	 	Az011
 CreditsNames/AzurDawn	Text	 	AzurDawn
 CreditsNames/BabygirlTess	Text	 [new]	Babygirl Tess
+CreditsNames/BatrlomiejKorzekwa	Text	 [new]	Batrłomiej Korzekwa
 CreditsNames/Beach	Text	 	Beach
 CreditsNames/BeckyStow	Text	 [new]	Becky Stow
 CreditsNames/BettinaR	Text	 	Bettina R.
@@ -1633,7 +1819,9 @@ CreditsNames/BrianFoote	Text	 [new]	Brian Foote
 CreditsNames/BridieDaniels	Text	 	Bridie Daniels
 CreditsNames/BugsyRabbit2004	Text	 	BugsyRabbit2004
 CreditsNames/Burgle	Text	 [new]	Burgle
+CreditsNames/CamillaDavelBraga	Text	 [new]	Camilla Davel Braga
 CreditsNames/CarlWilliamLindkvist	Text	 [new]	Carl William Lindkvist
+CreditsNames/CarlosMartinezRiveiro	Text	 [new]	Carlos Martínez Riveiro
 CreditsNames/CarriganTessSevedge	Text	 [new]	Carrigan Tess Sevedge
 CreditsNames/CatrionaBarber	Text	 [new]	Catriona Barber
 CreditsNames/Cedric	Text	 	Cedric
@@ -1666,6 +1854,7 @@ CreditsNames/DanielDudek	Text	 	Daniel Dudek
 CreditsNames/DanielPereira	Text	 	Daniel Pereira
 CreditsNames/DanielSmagowski	Text	 	Daniel Smagowski
 CreditsNames/DanieldeKretser	Text	 	Danielde Kretser
+CreditsNames/DanyloRechkin	Text	 [new]	Danylo Rechkin
 CreditsNames/Daresiel	Text	 [new]	Daresiel
 CreditsNames/DaveScammell	Text	 	Dave Scammell
 CreditsNames/DavidLindqvist	Text	 	David Lindqvist
@@ -1675,14 +1864,19 @@ CreditsNames/DavisHill	Text	 [new]	Davis Hill
 CreditsNames/DawidMajchrzak	Text	 [new]	Dawid Majchrzak
 CreditsNames/DawnDream	Text	 [new]	Dawn Dream
 CreditsNames/DeanJones	Text	 	Dean Jones
+CreditsNames/DenysHalytskyi	Text	 [new]	Denys Halytskyi
 CreditsNames/DominikaMazurek	Text	 	Dominika Mazurek
+CreditsNames/DongxueMa	Text	 [new]	Dongxue Ma
 CreditsNames/DreamloopGames	Text	 	Dreamloop Games
 CreditsNames/Driad	Text	 [new]	Driad
 CreditsNames/EetuHipponen	Text	 	Eetu Hipponen
+CreditsNames/EijiNishizawa	Text	 [new]	Eiji Nishizawa
+CreditsNames/Ellesprout	Text	 [new]	Elliesprout
 CreditsNames/ElsaLi	Text	 	Elsa Li
 CreditsNames/Enchae	Text	 	Enchae
 CreditsNames/Enzyme	Text	 	Enzyme
 CreditsNames/EricRanki	Text	 	Eric Ranki
+CreditsNames/ErykZombirt	Text	 [new]	Eryk Zombirt
 CreditsNames/EvgeniyaPrykaszczyk	Text	 	Evgeniya Prykaszczyk
 CreditsNames/ExplosiveAlan	Text	 [new]	Explosive Alan
 CreditsNames/FaunaPup	Text	 [new]	Fauna Pup
@@ -1696,8 +1890,10 @@ CreditsNames/FrédéricDussault	Text	 	Frederic Dussault
 CreditsNames/GarryWilliams	Text	 	Garry Williams
 CreditsNames/Genos	Text	 	Genos
 CreditsNames/Gingnia	Text	 [new]	Gingnia
+CreditsNames/GrzegorzBlonski	Text	 [new]	Grzegorz Błoński
 CreditsNames/GrzegorzKukawka	Text	 [new]	Grzegorz Kukawka
 CreditsNames/GustavoBatista	Text	 	Gustavo Batista
+CreditsNames/HangYingTang	Text	 [new]	Hang Ying Tang
 CreditsNames/HeewanShin	Text	 	Heewan Shin
 CreditsNames/HermanAppelgren	Text	 	Herman Appelgren
 CreditsNames/HortenseGambino	Text	 	Hortense Gambino
@@ -1714,6 +1910,7 @@ CreditsNames/JakubWojciechowski	Text	 [new]	Jakub Wojciechowski
 CreditsNames/JakubŁoboda	Text	 	Jakub Łoboda
 CreditsNames/JamesCato	Text	 	James Cato
 CreditsNames/JamieFinch	Text	 [new]	Jamie Finch
+CreditsNames/JanWolanski	Text	 [new]	Jan Wolański
 CreditsNames/JaroslawGawedaScibior	Text	 [new]	Jaroslaw Gaweda Scibior
 CreditsNames/JarosławGawędaŚcibior	Text	 	Jarosław Gaweda-Scibior
 CreditsNames/JasonMan	Text	 	Jason Man
@@ -1722,6 +1919,7 @@ CreditsNames/JasperTannerBarnes	Text	 [new]	Jasper Tanner Barnes
 CreditsNames/JenniferWeiher	Text	 	Jennifer Weiher
 CreditsNames/JeremyWong	Text	 [new]	Jeremy Wong
 CreditsNames/JinnJezewska	Text	 [new]	Jinn Jezewska
+CreditsNames/JiwonJeon	Text	 [new]	Jiwon Jeon
 CreditsNames/JoeFazzino	Text	 	Joe Fazzino
 CreditsNames/JoeGoddardHowell	Text	 [new]	Joe Goddard Howell
 CreditsNames/JohannesAhlstrom	Text	 [new]	Johannes Ahlstrom
@@ -1729,6 +1927,7 @@ CreditsNames/JohannesAhlström	Text	 	Johannes Ahlstrom
 CreditsNames/JonathanGeer	Text	 	Jonathan Geer
 CreditsNames/JoniLappalainen	Text	 	Joni Lappalainen
 CreditsNames/Joor111	Text	 	Joor111
+CreditsNames/JorgeGonzalezHidalgo	Text	 [new]	Jorge González Hidalgo
 CreditsNames/JoshuaForde	Text	 	Joshua Forde
 CreditsNames/JoshuaGarrity	Text	 	Joshua Garrity
 CreditsNames/JoshuaLowe	Text	 	Joshua Lowe
@@ -1739,6 +1938,7 @@ CreditsNames/JulianBird	Text	 	Julian Bird
 CreditsNames/JulianSeifertOlszewski	Text	 	Julian Seifert-Olszewski
 CreditsNames/JulianVoith	Text	 [new]	Julian Voith
 CreditsNames/JuneeYu	Text	 	Junee Yu
+CreditsNames/JustinCyr	Text	 [new]	Justin Cyr
 CreditsNames/KAPedersen	Text	 [new]	KA Pedersen
 CreditsNames/KacperOrzechowski	Text	 	Kacper Orzechowski
 CreditsNames/Karillya	Text	 	Karillya
@@ -1780,8 +1980,10 @@ CreditsNames/Marcel	Text	 	Marcel
 CreditsNames/MarianaChagas	Text	 	Mariana Chagas
 CreditsNames/Marine	Text	 	Marine
 CreditsNames/MariuszGelnicki	Text	 	Mariusz Gelnicki
+CreditsNames/MariuszRzepka	Text	 [new]	Mariusz Rzepka
 CreditsNames/MarkInman	Text	 	Mark Inman
 CreditsNames/MartinGronroos	Text	 [new]	Martin Gronroos
+CreditsNames/MatteoCagliari	Text	 [new]	Matteo Cagliari
 CreditsNames/MattieSu	Text	 	Mattie Su
 CreditsNames/MaxHallden	Text	 	Max Hallden
 CreditsNames/MaximilianBachmeier	Text	 [new]	Maximilian Bachmeier
@@ -1793,6 +1995,7 @@ CreditsNames/MichałBłoński	Text	 	Michał Błonski
 CreditsNames/MichelleLewis	Text	 	Michelle Lewis
 CreditsNames/MikaelLindhe	Text	 [new]	Mikael Lindhe
 CreditsNames/Mistry	Text	 	Mistry
+CreditsNames/Modsaton	Text	 [new]	mods_a_ton
 CreditsNames/MollieCorrigan	Text	 [new]	Mollie Corrigan
 CreditsNames/MrVilo	Text	 	Mr Vilo
 CreditsNames/MushBerry7	Text	 	MushBerry7
@@ -1807,7 +2010,9 @@ CreditsNames/NickTrout	Text	 	Nick Trout
 CreditsNames/NicolaSpinoni	Text	 	Nicola Spinoni
 CreditsNames/NiklasWigertz	Text	 	Niklas Wigertz
 CreditsNames/NyronBahadur	Text	 	Nyron Bahadur
+CreditsNames/OldCannuck	Text	 [new]	OldCannuck
 CreditsNames/OlgaTverdomed	Text	 [new]	Olga Tverdomed
+CreditsNames/OliverMirMomtaz	Text	 [new]	Oliver Mir Momtaz
 CreditsNames/Omnimetatron	Text	 	Omnimetatron
 CreditsNames/OrianDesfontaine	Text	 	Orian Desfontaine
 CreditsNames/OskarBorecki	Text	 	Oskar Borecki
@@ -1825,6 +2030,7 @@ CreditsNames/PatrykPaduch	Text	 [new]	Patryk Paduch
 CreditsNames/PatrykWino	Text	 	Patryk Wino
 CreditsNames/PatrykWroblewski	Text	 [new]	Patryk Wroblewski
 CreditsNames/PatrykWróblewski	Text	 	Patryk Wroblewski
+CreditsNames/PatrykWszeborowski	Text	 [new]	Patryk Wszeborowski
 CreditsNames/PaulAndreRenaud	Text	 [new]	Paul Andre Renaud
 CreditsNames/PaulAndréRenaud	Text	 	Paul-Andre Renaud
 CreditsNames/PaulinePloch	Text	 	Pauline Ploch
@@ -1867,6 +2073,8 @@ CreditsNames/SarahHoeksma	Text	 	Sarah Hoeksma
 CreditsNames/Sav	Text	 [new]	Sav
 CreditsNames/SeanCampbell	Text	 	Sean Campbell
 CreditsNames/Sebastian	Text	 [new]	Sebastian
+CreditsNames/SebastianHindefelt	Text	 [new]	Sebastian Hindefelt
+CreditsNames/SeptemberDuck	Text	 [new]	SeptemberDuck
 CreditsNames/SeveriJokipera	Text	 [new]	Severi Jokipera
 CreditsNames/SeveriJokiperä	Text	 	Severi Jokipera
 CreditsNames/ShadwayneWilkinson	Text	 	Shadwayne Wilkinson
@@ -1897,16 +2105,20 @@ CreditsNames/TobyRogers	Text	 [new]	Toby Rogers
 CreditsNames/TomKnight	Text	 [new]	Tom Knight
 CreditsNames/TomasAhlstrom	Text	 [new]	Tomas Ahlstrom
 CreditsNames/TomasAhlström	Text	 	Tomas Ahlstrom
+CreditsNames/TomaszGrecko	Text	 [new]	Tomasz Grecko
 CreditsNames/TommiVikstedt	Text	 	Tommi Vikstedt
 CreditsNames/TonyEvans	Text	 	Tony Evans
 CreditsNames/TravisZygmunt	Text	 [new]	Travis Zygmunt
 CreditsNames/UkitParakitsri	Text	 	Ukit Parakitsri
 CreditsNames/UltraLX	Text	 	UltraLX
 CreditsNames/VanessaWilliams	Text	 [new]	Vanessa Williams
+CreditsNames/VasifMikayilov	Text	 [new]	Vasif Mikayilov
 CreditsNames/VictoriaKrizmanich	Text	 	Victoria K.
 CreditsNames/VincentBahnsen	Text	 	Vincent Bahnsen
 CreditsNames/VincentCoates	Text	 	Vincent Coates
 CreditsNames/VolodymyrBotvin	Text	 	Volodymyr Botvin
+CreditsNames/Waasephi	Text	 [new]	Waasephi
+CreditsNames/WenYuChen	Text	 [new]	Wen-Yu Chen
 CreditsNames/WilliamDouglas	Text	 	William Douglas
 CreditsNames/Wither503	Text	 	Wither503
 CreditsNames/Wodehouse	Text	 	Wodehouse
@@ -1937,6 +2149,24 @@ CreditsNames/깅니아	Text	 	깅니아
 CreditsNames/최약창민	Text	 	최약창민
 Critter	Text	 [new]	Sinh vật
 CritterDesc	Text	 [new]	Sinh vật nhỏ có thể bắt và nuôi làm thú cưng.
+Cursors/BlueAim	Text	 [new]	Xanh
+Cursors/BlueCursor	Text	 [new]	Xanh
+Cursors/CrosshairOutlineOff	Text	 [new]	Tắt
+Cursors/CrosshairOutlineOn	Text	 [new]	Bật
+Cursors/DefaultAim	Text	 [new]	Mặc Định
+Cursors/DefaultCursor	Text	 [new]	Mặc Định
+Cursors/GreenAim	Text	 [new]	Xanh Lục
+Cursors/GreenCursor	Text	 [new]	Xanh Lục
+Cursors/PurpleAim	Text	 [new]	Tím
+Cursors/PurpleCursor	Text	 [new]	Tím
+Cursors/RedAim	Text	 [new]	Đỏ
+Cursors/RedCursor	Text	 [new]	Đỏ
+Cursors/SizeDefault	Text	 [new]	Mặc Định
+Cursors/SizeLarge	Text	 [new]	Lớn
+Cursors/WhiteAim	Text	 [new]	Trắng
+Cursors/WhiteCursor	Text	 [new]	Trắng
+Cursors/YellowAim	Text	 [new]	Vàng
+Cursors/YellowCursor	Text	 [new]	Vàng
 DemoVersion	Text	{0} will be replaced by the version number	Phiên bản Demo {0}
 Destroying	Text	 [new]	Đang phá hủy
 DontOverrideSeason	Text	 	Không ghi đè mưa
@@ -1947,6 +2177,7 @@ Emotes/CantLeaveWhileItsMoving	Text	Character says this when riding a vehicle su
 Emotes/CantSleepWhenEnemiesNear	Text	 	Mình không thể ngủ khi kẻ địch ở gần
 Emotes/EnemiesScaledDown	Text	 [new]	Đã thu nhỏ các kẻ địch
 Emotes/EnemiesScaledUp	Text	 [new]	Đã phóng to các kẻ địch
+Emotes/GrapplingNoGround	Text	 [new]	Không có chỗ bám ở đây
 Emotes/ICantDestroyThisObject	Text	 	Minh không thể phá vật thể này
 Emotes/IDontHaveAPet	Text	 	Minh không có thù cung
 Emotes/IDontHaveTheRequiredComponents	Text	 	Minh không có đủ linh kiện
@@ -1986,6 +2217,7 @@ Emotes/Questionmark	Text	 	?
 Emotes/ShouldPlaceHandOnWall	Text	 	Mình nên đặt tay lên bức tường
 Emotes/StomachFull	Text	 	Búng mình nó càng rơi
 Emotes/StopHurtingMe	Text	 	Đừng đánh tôi nữa!
+Emotes/SummonLimitReached	Text	 [new]	Tôi không thể triệu hồi thêm tay sai
 Emotes/TheAncientForge	Text	Quotes around it cause player character is reading it	'Lò Rèn Cỏ Đài'
 Emotes/TheFishArentBiting	Text	 	Cá không cắn câu.
 Emotes/ThisIsNotMyBed	Text	 	Đây không phải giường của mình
@@ -2000,6 +2232,7 @@ Emotes/UnlockedInEarlyAccess	Text	 	Đã mở khóa trong Early Access
 Emotes/UnlocksAtLaunch	Text	 	"""Tiếp tục hành trình khám phá bên kia bức tường ở bàn 1.0. 
 Mở khóa ngay 27 tháng 8 năm 2024."""
 Emotes/WaypointActivated	Text	 	Đã kích hoạt điểm dịch chuyển
+Emotes/YourWillCannotBindMore	Text	 [new]	Tôi không thể triệu hồi thêm nữa
 Error/Authenticating	Text	 	Đáng xác thực.
 Error/AuthenticationFailed	Text	 	Xác thực thất bại
 Error/BackingStorageFull	Text	 	Ổ đĩa hoặc dung lượng đám mây dạ dày, hay thử xoa bớt
@@ -2207,6 +2440,9 @@ FoodAdjectives/MilkRareMale	Text	 [new]	Tuổi mất quý hiếm
 FoodAdjectives/MoldShark	Text	 	Mọc Mèo
 FoodAdjectives/MoldSharkFemale	Text	 	Mọc Mèo
 FoodAdjectives/MoldSharkMale	Text	 	Mọc Mèo
+FoodAdjectives/MossMushroom	Text	 [new]	Ấm
+FoodAdjectives/MossMushroomFemale	Text	 [new]	Ấm
+FoodAdjectives/MossMushroomMale	Text	 [new]	Ấm
 FoodAdjectives/Mushroom	Text	 	Nhao
 FoodAdjectives/MushroomFemale	Text	 	Nhao
 FoodAdjectives/MushroomMale	Text	 	Nhao
@@ -2238,6 +2474,9 @@ FoodAdjectives/PuffungiMale	Text	 	Phòng
 FoodAdjectives/PuffungiRare	Text	 	Âm Mộc
 FoodAdjectives/PuffungiRareFemale	Text	 	Âm Mộc
 FoodAdjectives/PuffungiRareMale	Text	 	Âm Mộc
+FoodAdjectives/RaptorTruffle	Text	 [new]	Nhung
+FoodAdjectives/RaptorTruffleFemale	Text	 [new]	Nhung
+FoodAdjectives/RaptorTruffleMale	Text	 [new]	Nhung
 FoodAdjectives/RiftianLampfish	Text	 	Vực Thăm
 FoodAdjectives/RockJaw	Text	 	Cung Đa
 FoodAdjectives/RockJawFemale	Text	 	Cung Đa
@@ -2336,6 +2575,7 @@ FoodNouns/LunacornRare	Text	 	Trăng Vàng
 FoodNouns/Meat	Text	 	Thịt
 FoodNouns/Milk	Text	 [new]	Sửa
 FoodNouns/MoldShark	Text	 	Cá Mập
+FoodNouns/MossMushroom	Text	 [new]	Moorshroom
 FoodNouns/Mushroom	Text	 	Nam
 FoodNouns/OrangeCaveGuppy	Text	 	Cả Bảy Màu
 FoodNouns/Pewpaya	Text	 	Trái Cây
@@ -2347,6 +2587,7 @@ FoodNouns/PinkPalaceFish	Text	 	Cung Điện
 FoodNouns/PinkhornPico	Text	 	Nhot
 FoodNouns/Puffungi	Text	 	Mốc
 FoodNouns/PuffungiRare	Text	 	Mốc Vàng
+FoodNouns/RaptorTruffle	Text	 [new]	Nấm Truffle Orex
 FoodNouns/RiftianLampfish	Text	 	Khe Nút
 FoodNouns/RockJaw	Text	 	Hàm
 FoodNouns/RotFish	Text	 	Thời Rùa
@@ -3046,6 +3287,7 @@ ItemCategory/Creature_Cattle	Text	 	Vật nuôi
 ItemCategory/Creature_Critter	Text	 	Sinh vật nhỏ
 ItemCategory/Creature_Enemy	Text	 	Kẻ địch
 ItemCategory/Creature_Merchant	Text	 	Thương nhân
+ItemCategory/Creature_Mount	Text	 [new]	Thú Cưỡi
 ItemCategory/Creature_Pet	Text	 	Thu cung
 ItemCategory/Environment	Text	 	Môi trường
 ItemCategory/Environment_AbioticFactorBiome	Text	 [new]	Sinh cảnh Abiotic Factor
@@ -3060,6 +3302,7 @@ ItemCategory/Environment_Ground	Text	 	Mặt đất
 ItemCategory/Environment_LavaBiome	Text	 	Quân xa dung nham
 ItemCategory/Environment_MeadowBiome	Text	 	Quân xã đồng cỏ
 ItemCategory/Environment_MoldBiome	Text	 	Quần xã nấm mốc
+ItemCategory/Environment_MossBiome	Text	 [new]	Sinh quần Moss
 ItemCategory/Environment_MultiBiome	Text	 [new]	Đa sinh cảnh
 ItemCategory/Environment_NatureBiome	Text	 	Quần xã thiên nhiên
 ItemCategory/Environment_OasisBiome	Text	 [new]	Sinh cảnh Oasis
@@ -3195,6 +3438,8 @@ Items/AbandonedCampTent	Text	 	Lều Trai
 Items/AbandonedCampTentDesc	Text	 	Một chiếc lều tạm bị bỏ hoang. ai đã từng sống ở đây nhị?
 Items/AbyssTree	Text	 	Cây Vực Thâm
 Items/AbyssTreeDesc	Text	 	Một loại cây mọc trong những khe nứt của Azeos' Wilderness. Không ai biết nó đâm sâu xuống đến đâu.
+Items/AcidBeam	Text	 [new]	Cây Gậy Ăn Mòn
+Items/AcidBeamDesc	Text	 [new]	Cây gậy ấu trùng gây ổn khét loét và phun ra sự ăn mòn cháy rát.
 Items/AcidLarva	Text	 	Ấu Trùng Axit
 Items/AcidLarvaTrophy	Text	 	Tướng Âu Trung Axit
 Items/AcidLarvaTrophyDesc	Text	 	Mô hình sống động của một Ấu Trùng Axit.
@@ -3270,6 +3515,8 @@ Items/AncientGemstoneBreastArmorDesc	Text	 	Bộ áo choàng cao quý này phủ
 Items/AncientGemstoneDesc	Text	 	Viên đá quý xanh kỳ lạ phát ra những đợt sóng năng lượng.
 Items/AncientGemstonePantsArmor	Text	 	Quận Thung Đa Quý
 Items/AncientGemstonePantsArmorDesc	Text	 	Bộ quân mặc vào cảm thấy rất thoải mái. Nó níu bạn vào hiện tại, bạn có thể cảm nhận sự tập trung tinh thần tăng lên.
+Items/AncientGiant	Text	 [new]	Khổng Lồ Cổ Đại
+Items/AncientGiantDesc	Text	 [new]	Một hình ảnh giống khổng lồ người, mòn vẹo chỉ còn tới vai. Thứ từng được nó ngậm trong miệng chắc chắn đã không ai đụng tới suốt nhiều năm, nếu không phải nhiều thế kỷ.
 Items/AncientGoldenCoin	Text	 	Đồng Tiến Vang Cổ
 Items/AncientGoldenCoinDesc	Text	 	Đồng tiền đúc bằng vàng này có vẻ là một loại tiền tệ xưa hơn nhiều so với những đồng tiền có thông thường. Nó cũng có giá trị cao hơn rất nhiều.
 Items/AncientGolem	Text	 	Lính Gác Lợi
@@ -3364,6 +3611,10 @@ Items/AzeosTrophy	Text	 	Tướng Azeos
 Items/AzeosTrophyDesc	Text	 	Bản mô phỏng sống động của Azeos, Titan Bầu Trời.
 Items/AzureFeatherFish	Text	 	Cá lông vũ xanh
 Items/AzureFeatherFishDesc	Text	 	Một loại cá xanh tuyệt đẹp với vây trông như lông vũ.
+Items/AzureNecklace	Text	 [new]	Dây Chuyền Xanh Lam
+Items/AzureNecklaceDesc	Text	 [new]	Một dây chuyền xích mảnh giữ một vòng tròn làm bằng đá lapis lazuli thuần khiết.
+Items/AzureRing	Text	 [new]	Nhân Xanh Lam
+Items/AzureRingDesc	Text	 [new]	Một chiếc nhẫn trang trí bằng các mảnh dài màu xanh lam tươi sáng.
 Items/BagOfMarbles	Text	 	Tui Bị
 Items/BagOfMarblesDesc	Text	 	Một chiếc túi nhỏ dùng nhiều viên bi đủ màu làm từ thủy tinh và đá quý rẻ tiền. Có lẽ chúng đã được dùng cho trò chơi của trẻ con.
 Items/BaitFishBitesFaster	Text	 	Mỗi Cây
@@ -3390,6 +3641,8 @@ Items/BandanaHelm	Text	 [new]	Bandana
 Items/BandanaHelmDesc	Text	 [new]	Một chiếc bandana thoáng mát. Có thể nhuộm màu để hợp gu.
 Items/Banner	Text	 [new]	Cờ hiệu
 Items/BannerDesc	Text	 [new]	Một là cờ hiệu nhỏ dùng để trang trí căn cứ của bạn.
+Items/BasicScepter	Text	 [new]	Cán Cưới Khô Khốc
+Items/BasicScepterDesc	Text	 [new]	Một tiếng ù ù yếu ớt rung khắp thớ gỗ giòn.
 Items/BasicStaff	Text	 	Gây Đơn Giản
 Items/BasicStaffDesc	Text	 	Thường được các pháp sư tập sự sử dụng.
 Items/BattleAxe	Text	 	Rìu Chiến
@@ -3429,6 +3682,8 @@ Items/BikiniPantsArmorRed	Text	 	Quận Bikini Đỏ
 Items/BikiniPantsArmorRedDesc	Text	 	Một mảnh đồ lót đồ rất hợp với phần áo. Vứt bỏ quần áo thừa thãi và từ đó chạy nhảy đuôi nàng!
 Items/BindingString	Text	 	Soi Chi Đình Mệnh
 Items/BindingStringDesc	Text	 	Một sợi chỉ bị ăn dệt từ những sợi tơ manh. Có thể dùng để buộc một bộ thẻ bài lại với nhau.
+Items/BirdBossChest	Text	 [new]	Rương Azeos
+Items/BirdBossChestDesc	Text	 [new]	Một chiếc rương mạ vàng trang trí bằng lông vũ thanh lịch của Azeos.
 Items/BirdBossScanner	Text	 	Mây Quet Azeos, Titan Bầu Trời
 Items/BirdBossScannerDesc	Text	 	Quét thế giới để tìm Azeos, Titan Bầu Trời. Bị tiêu hao khi quét thành công.
 Items/BlackBubblePearl	Text	 	Ngọc Bồng Bồng Đen
@@ -3449,6 +3704,8 @@ Items/BlastPantsArmor	Text	 [new]	Quân Nô
 Items/BlastPantsArmorDesc	Text	 [new]	Chiếc quần này làm giám sát thương nhân các vụ nổ.
 Items/BlastingDung	Text	 [new]	Phần Nợ
 Items/BlastingDungDesc	Text	 [new]	Một loại phân có đặc tính nói mạnh. Nghề buôn cuối những hiệu quả phi thường.
+Items/BlizzardStaff	Text	 [new]	Cây Gậy Bão Tuyết
+Items/BlizzardStaffDesc	Text	 [new]	Một băng giá lạnh cóng toả ra cơn gió sương giá ở mọi nơi bạn ra lệnh.
 Items/BloatOat	Text	 	Yên Mạch Cảng Bùng
 Items/BloatOatDesc	Text	 	Một năm ngũ cốc bổ dưỡng giúp nó bụng và tiếp thêm năng lượng.
 Items/BloatOatRare	Text	 	Yên Mạch Cảng Bừng Vàng
@@ -3492,8 +3749,16 @@ Items/BombPepperSeedDesc	Text	 	Khi trồng sẽ mọc thành một loại rau c
 Items/BombRing	Text	 	Nhân Bom
 Items/BombRingDesc	Text	 	Một chiếc nhẫn gần tượng bom nhỏ. Sử dụng thuốc nổ khi đeo nó sẽ tạo ra vụ nổ mạnh hơn nữa.
 Items/BombScarab	Text	 	Bộ Hùng Bom
+Items/BombScarabHarness	Text	 [new]	Áo Giáp Bọ Hàng Vàng
+Items/BombScarabHarnessDesc	Text	 [new]	Một món giáp thân trên làm từ vỏ Bọ Hàng Vàng.
+Items/BombScarabLegs	Text	 [new]	Giáp Chân Bọ Hàng Vàng
+Items/BombScarabLegsDesc	Text	 [new]	Một món giáp thân dưới mô phỏng bộ xương ngoài của Bọ Hàng Vàng.
 Items/BombScarabTrophy	Text	 	Tướng Bo Hùng Bom
 Items/BombScarabTrophyDesc	Text	 	Mô hình sông đóng của một con Bò Hùng Bom.
+Items/BombScarabVisor	Text	 [new]	Mặt Nạ Bọ Hàng Vàng
+Items/BombScarabVisorDesc	Text	 [new]	Một chiếc mũ sao chép đầu Bọ Hàng Vàng với ánh sáng rực lửa trong con mắt độc nhất của nó.
+Items/BombshellNecklace	Text	 [new]	Dây Chuyền Vỏ Đạn
+Items/BombshellNecklaceDesc	Text	 [new]	Một quả cầu kim loại rạn nứt xuyên chuỗi xích. Nó ấm bất thường khi chạm vào.
 Items/BoneCreole	Text	 	Trang Sức Xương
 Items/BoneCreoleDesc	Text	 	Một món trang sức thô sơ được khắc từ xương.
 Items/BoneNecklace	Text	 	Dây Chuyền Xương
@@ -3510,6 +3775,10 @@ Items/BoxOfChocolates	Text	 	Hợp Sở Cờ La
 Items/BoxOfChocolatesDesc	Text	 	Những viên sò có lá này dùng trong hộp quả xinh xắn, tan chảy cả trong miệng lẫn trong tim.
 Items/BrightLavaEater	Text	 	Cả An Dung Nhâm Sáng
 Items/BrightLavaEaterDesc	Text	 	Một loại cá sáng rực với chiếc bụng rực lửa, dường như chỉ ăn da lông và những viên đá quý mặc kết bên trong.
+Items/BrimstoneRing	Text	 [new]	Nhân Lưu Hoàng
+Items/BrimstoneRingDesc	Text	 [new]	Một chiếc nhẫn lưu huỳnh đã cứng. Nó tỏa mùi đất cháy.
+Items/BrimstoneShardRing	Text	 [new]	Nhân Mảnh Lưu Hoàng
+Items/BrimstoneShardRingDesc	Text	 [new]	Một chiếc nhẫn kim loại mảnh gắn một mảnh lưu huỳnh. Nó tỏa mùi đất cháy.
 Items/BrokenCoreIdol	Text	 	Tượng Lõi vỡ
 Items/BrokenCoreIdolDesc	Text	 	Một vật trong quên mất.
 Items/BrokenCoreSentry1	Text	 	Lính Gác Lợi Hồng
@@ -3538,6 +3807,8 @@ Items/BubblePearl	Text	 	Ngọc Bông Bông
 Items/BubblePearlDesc	Text	 	Một viên ngọc đẹp, ông ánh sắc cầu vồng. Bên trong có vẻ rồng.
 Items/BubblePearlNecklace	Text	 	Dây Chuyền Ngọc Bông Bông
 Items/BubblePearlNecklaceDesc	Text	 	Trang sức mộc tự nhiên làm từ những viên ngọc bong bóng hiếm.
+Items/BubbleRing	Text	 [new]	Nhân Bọt Khí
+Items/BubbleRingDesc	Text	 [new]	Một chiếc nhẫn sủi bọt liên tục bắt tung. Nếu bạn thổi khí qua nó thì chuyện gì sẽ xảy ra?
 Items/Bucket	Text	 	Xô
 Items/BucketDesc	Text	 	Một cái xô. Giải pháp khéo léo để vận chuyển nước.
 Items/BugNet	Text	 	Vớt Bát Côn Trùng
@@ -3568,6 +3839,8 @@ Items/Camel	Text	 [new]	Lạc đà
 Items/CamelBaby	Text	 [new]	Lạc đà con
 Items/CamelBabyDesc	Text	 [new]	Lạc đà con dễ thương. Sẽ lớn lớn thanh lắc đã trưởng thành.
 Items/CamelDesc	Text	 [new]	Động vật nuôi được. Có thể cho sữa, len và có thể cười.
+Items/CamelMount	Text	 [new]	Bò Cưỡi Drohmble
+Items/CamelMountDesc	Text	 [new]	Một con Drohmble có thể cưỡi. Tiến hóa để chịu được khí hậu sa mạc khắc nghiệt, nó tạo ra một loại bazơ hóa học mạnh.
 Items/Campfire	Text	 	Lúa Trai
 Items/CampfireDesc	Text	 	Tuyệt vời để quây quần bên nhau, kể chuyện và nương kéo đèo đến chạy giòn.
 Items/Candle	Text	 	Nên
@@ -3648,6 +3921,10 @@ Items/CavelingInfectedTrophyDesc	Text	 	Mô hình sống động như thật c�
 Items/CavelingMedal	Text	 	Huy Chương Caveling
 Items/CavelingMedalDesc	Text	 	Huy chương đúc với hình mặt nói. Phải chăng nó từng được trao cho ai đó phi thường?
 Items/CavelingMerchant	Text	 	Thương Nhân Ao Choang
+Items/CavelingMonument	Text	 [new]	Tượng Caveling
+Items/CavelingMonumentBroken	Text	 [new]	Tượng Caveling Vỡ
+Items/CavelingMonumentBrokenDesc	Text	 [new]	Một pho tượng lộng lẫy giống hệt caveling. Phần đế đã sập và đầu tượng đã nứt vỡ.
+Items/CavelingMonumentDesc	Text	 [new]	Một pho tượng khổng lồ của một caveling mặc áo choàng. Những viên ngọc trang trí màu xanh lam của nó vẫn còn nguyên vẹn.
 Items/CavelingMothersRing	Text	 	Nhân Người Mẹ Caveling
 Items/CavelingMothersRingDesc	Text	 	Một chiếc nhẫn pha lê cổ, cầm nỏ khiến bắn tràn ngập nỗi buồn không thể ta nói.
 Items/CavelingMummy	Text	 	Xác Ướp Caveling
@@ -3667,6 +3944,10 @@ Items/CavelingScholar	Text	 	Học Giả Caveling
 Items/CavelingShaman	Text	 	Pháp Sư Caveling
 Items/CavelingShamanTrophy	Text	 	Tướng Pháp Sư Caveling
 Items/CavelingShamanTrophyDesc	Text	 	Hình tượng sống động của một Pháp Sư Caveling.
+Items/CavelingShip	Text	 [new]	Tàu Caveling
+Items/CavelingShipBeached	Text	 [new]	Tàu Caveling Mắc Cạn
+Items/CavelingShipBeachedDesc	Text	 [new]	Dù nguồn năng lượng từng làm cho con tàu đá này nổi đã cạn kiệt từ lâu.
+Items/CavelingShipDesc	Text	 [new]	Dù nguồn năng lượng từng làm cho con tàu đá này nổi đã cạn kiệt từ lâu.
 Items/CavelingSkinTome	Text	 	Sách Đá Xanh
 Items/CavelingSkinTomeDesc	Text	 	Một cuốn sách có với bia khâu màu xanh. Đó là đá a?
 Items/CavelingSkirmisher	Text	 	Lính Đột Kích Caveling
@@ -3703,6 +3984,8 @@ Items/ChieftainHelm	Text	 	Mụ Đôi Đầu Tử Trường
 Items/ChieftainHelmDesc	Text	 	Chiếc mũ đối đầu lộng lẫy này cho thấy rõ ai là người cầm đầu.
 Items/ChieftainPantsArmor	Text	 	Quận Đui Tứ Trường
 Items/ChieftainPantsArmorDesc	Text	 	Quần đùi tinh xảo đính nhiều trang sức, rất hợp với một thủ lĩnh.
+Items/ChimeNecklace	Text	 [new]	Dây Chuyền Chuông Gió
+Items/ChimeNecklaceDesc	Text	 [new]	Một dây chuyền ngọc lục treo những chuông gió lủng lẳng. Bạn cảm thấy tập trung hơn nhờ tiếng leng keng âm thanh của nó trong gió.
 Items/ChineseCoin	Text	 	Đông Xu Mây Man
 Items/ChineseCoinDesc	Text	 	Tuy đồng xu vàng này mang nhiều ý nghĩa tốt lành, điều quan trọng nhất là nó có thể tiêu được ở một thương nhân nhất định.
 Items/ChineseFoldingScreen	Text	 [new]	Bình phong Trung Hoa
@@ -3759,6 +4042,8 @@ Items/ChristmasWallDecorationE	Text	 	Trang Trí Tường Bồng Tuyết
 Items/ChristmasWallDecorationEDesc	Text	 	Bông tuyết tinh tế sẽ trong tuyệt đẹp trên tường nhà bạn.
 Items/ChristmasWorkbench	Text	 	Ban Chế Tạo Lễ Hội
 Items/ChristmasWorkbenchDesc	Text	 	Bản chế tạo này hoàn hảo để tạo ra đồ trang trí lễ hội cho mùa lạnh.
+Items/ChronicleGallery	Text	 [new]	Đại Lý Chung Thư
+Items/ChronicleGalleryDesc	Text	 [new]	Một bức tường mạ vàng khắc hình bốn cảnh mang biểu tượng riêng biệt. Có phải đang ám chỉ một câu chuyện về nguồn gốc không?
 Items/Chrysalis	Text	 	Kèn Nhông
 Items/ChrysalisDesc	Text	 	Lop phu nen nhop nhap khien buoc qua thay la. Ấu trùng sẽ dần xâm chiếm những khu vực phủ kén nhộng theo thời gian.
 Items/CicadaBurrow	Text	 [new]	Hang ve sầu
@@ -3774,6 +4059,8 @@ Items/CityDestructible	Text	 	Thung Đại Đỗ Thị
 Items/CityDestructibleDesc	Text	 	Chiếc thùng quý giá này chứa các vật phẩm hữu ích từng được cư dân thành phố có sử dụng.
 Items/CityPitPillar	Text	 	Cột Họ Đại Đỗ Thị
 Items/CityPitPillarDesc	Text	 	Một cây cột chịu lực nâng đỡ nền móng của đại đô thị hoang phế.
+Items/ClarityRing	Text	 [new]	Nhân Trong Suốt
+Items/ClarityRingDesc	Text	 [new]	Một chiếc nhẫn pha lê cắt tinh xảo đến mức phản chiếu lại cảnh vật quanh bạn rõ nét.
 Items/ClayCavelingMoss	Text	 	Rêu Đất Sét
 Items/ClayCavelingMossDesc	Text	 	Cây cối mọc dưới nền trong Clay Caves. Chúng cho ra những quả mọng thơm thu hút Caveling của khu vực tương ứng.
 Items/ClayPot	Text	 	Bình Đất Sét
@@ -3786,6 +4073,8 @@ Items/ClotRingDesc	Text	 	Chiếc nhẫn đỏ màu bám chặt vào ngón tay b
 Items/Cocoon	Text	 	Ken
 Items/CocoonTrophy	Text	 	Tướng Ken
 Items/CocoonTrophyDesc	Text	 	Mô hình sống động như thật của một cái kén.
+Items/CodexNecklace	Text	 [new]	Dây Chuyền Sách Lý
+Items/CodexNecklaceDesc	Text	 [new]	Một quyển sổ tay nhỏ đáng lạ buộc ở đầu một sợi dây ren tím.
 Items/ColossCicada	Text	 	Ve sầu Coloss
 Items/ColossCicadaDesc	Text	 	Lớp vỏ lót bờ của một con côn trùng khổng lồ ngủ vùi dưới lòng đất hàng thế kỷ. Khi nó trồi lên để hóa thành hình dạng cuối cùng, những trận động đất dữ dội sẽ xảy ra.
 Items/ColossalAmoebaTrophy	Text	 	Tướng Amip Không Lộ
@@ -3936,6 +4225,8 @@ Items/Cow	Text	 	Moolin
 Items/CowBaby	Text	 	Bé Moolin
 Items/CowBabyDesc	Text	 	Con non ngây thơ của Moolin, vừa mới học cách tự đứng trên đôi mông của mình. Nó lớn nhanh hơn bạn nghĩ đấy, nên hãy dành cho nó tất cả tình thương bạn cô.
 Items/CowDesc	Text	 	Sống ở đồng cỏ, con bò tìm này sống cuộc đời tránh xa hiểm nguy, vui vẻ gặm cỏ cả ngày và cho ra loài sứa thường hàng.
+Items/CowMount	Text	 [new]	Bò Cưỡi Moolin
+Items/CowMountDesc	Text	 [new]	Một con Moolin có thể cưỡi. Bản địa của các đồng cỏ, loài bò sống xa nguy hiểm, gặm cỏ suốt ngày vui vẻ và tạo ra một trong những loại sữa thơm ngon nhất.
 Items/CrabEnemy	Text	 	Cửa Bong Bong
 Items/CrabTrophy	Text	 	Tượng Của Bóng Bóng
 Items/CrabTrophyDesc	Text	 	Hình tượng sống động như thật của một con của bong bóng.
@@ -4013,6 +4304,8 @@ Items/CrystalPantsArmor	Text	 	Giáp Hồng Solarite
 Items/CrystalPantsArmorDesc	Text	 	Giáp hồng nàng làm từ những vật liệu kỳ diệu. Khi mắc nợ, bạn cảm thấy như được dẫn lời tới chiến thắng.
 Items/CrystalRing	Text	 	Nhân Hạt Thủy Tinh
 Items/CrystalRingDesc	Text	 	Một chiếc nhẫn mê hoặc khiến kẻ thù mất cảnh giác và hạ thấp phòng thủ. Tiếc là nó cũng có tác dụng tương tự với bạn.
+Items/CrystalScepter	Text	 [new]	Cán Lõi Rỗng
+Items/CrystalScepterDesc	Text	 [new]	Một lõi rỗng kết tinh ngân nga cổ thuật cũ.
 Items/CrystalSpearhead	Text	 	Mũi Giáo Pha Lê
 Items/CrystalSpearheadDesc	Text	 	Phần còn lại của một vũ khí thô sơ thời tiền sử làm từ đá quý cổ đại. Nó có thể đã giúp người xưa săn bắt hiệu quả hơn.
 Items/CrystalSphere	Text	 	Cầu Pha Lê
@@ -4115,6 +4408,8 @@ Items/Dodo	Text	 	Dodo
 Items/DodoBaby	Text	 	Dodo Con
 Items/DodoBabyDesc	Text	 	Một chú chim con dê thường dạy quyết tâm một ngày nào đó sẽ thành chú dodo duyên dáng. Nó vật lộn với cái mô tô quá khổ của mình.
 Items/DodoDesc	Text	 	Loài được cho là đã tuyệt chủng từ lâu nay vẫn sinh sôi mạnh mẽ dưới lòng đất: chữ đỏdo! Giả mà Darwin có thể thấy điều này...
+Items/DodoMount	Text	 [new]	Chim Dodo Cưỡi
+Items/DodoMountDesc	Text	 [new]	Một con Dodo có thể cưỡi. Từ lâu bị cho là đã tuyệt chủng, loài này vẫn đang sôi nổi dưới lòng đất. Giá mà Darwin được nhìn thấy điều này...
 Items/DoubleRing	Text	 	Nhân Đôi
 Items/DoubleRingDesc	Text	 	Chiếc nhẫn này được làm để đeo cùng lúc lên hai ngón tay. Thật cách mạng.
 Items/DragonMaskHelm	Text	 	Mặt Nạ Rồng
@@ -4189,6 +4484,8 @@ Items/EasterPedestal	Text	 	Bế Phục Sinh
 Items/EasterPedestalDesc	Text	 	Một chiếc bàn nhỏ 1x1 làm từ đá màu kem với một chiếc lá nhỏ phủ lên. Đơn giản, thiết thực mà vẫn đậm chất Lê Phục Sinh.
 Items/EasterPillar	Text	 	Cột Phục Sinh
 Items/EasterPillarDesc	Text	 	Một cây cột trang trí đẹp mắt, nâng cao một chậu cây chứa hoa mùa xuân. Một cách hoàn hảo để chào đón mùa mới.
+Items/EasterTitanChest	Text	 [new]	Rương Titan Vàng
+Items/EasterTitanChestDesc	Text	 [new]	Một biến thể độc đáo của chiếc rương cổ lớn.
 Items/EasterWorkbench	Text	 	Bản Chế Tạo Phục Sinh
 Items/EasterWorkbenchDesc	Text	 	Chiếc bàn làm việc nhỏ này chứa đủ nguyên liệu để tạo ra một loạt vật trang trí theo chủ đề mùa xuân và Lễ Phục Sinh.
 Items/EchoMapAlienTerminal1	Text	 [new]	Bản đồ Echo - Đài ngoại hành 1
@@ -4201,6 +4498,8 @@ Items/EchoMapBindingString	Text	 [new]	Chuối ràng buộc Echo
 Items/EchoMapBindingStringDesc	Text	 [new]	Chuối ràng buộc các tấm bản đồ Echo với nhau.
 Items/EchoMapFishingMerchant	Text	 [new]	Bản đồ Echo - Thương nhân câu cá
 Items/EchoMapFishingMerchantDesc	Text	 [new]	Tấm bản đồ Echo chỉ ra vị trí của Thương nhân câu cá.
+Items/EchoMapLegendaryScepter	Text	 [new]	Bản Đồ Echo Veil
+Items/EchoMapLegendaryScepterDesc	Text	 [new]	Một chiếc đĩa ghi toạ độ có ý nghĩa. Tiêu hao khi quét thành công.
 Items/EchoMapShrineRoom	Text	 [new]	Bản đồ Echo - Phòng Thánh đường
 Items/EchoMapShrineRoomDesc	Text	 [new]	Tấm bản đồ Echo chỉ ra vị trí của Phòng Thánh đường.
 Items/EchoMapTitanTemple	Text	 [new]	Bản đồ Echo - Đền thờ Titan
@@ -4251,10 +4550,14 @@ Items/EnemySpawnerPlatform	Text	 	Mây Tào Vật
 Items/EnemySpawnerPlatformDesc	Text	 	Thiết bị phi thường này có thể dệt vật chất tự do thành một sinh vật sống tạm thời khi được nạp điện. Cần một bức tường nhỏ làm bẩn thiết kế.
 Items/EnhydroCrystal	Text	 	Phà Lê Ngâm Nước
 Items/EnhydroCrystalDesc	Text	 	Nước cổ đại được giam giữ trong viên pha lê tuyệt đẹp này. Nó đã ở trong đó hàng triệu năm.
+Items/EnigmaticNecklace	Text	 [new]	Dây Chuyền Bí Ẩn
+Items/EnigmaticNecklaceDesc	Text	 [new]	Một sợi dây xanh thẫm giữ mặt dây giống hình kim tự tháp lộn ngược, trang trí bằng các nét màu xanh.
 Items/EnragePotion	Text	 	Thuốc Cường Nỏ
 Items/EnragePotionDesc	Text	 	Một loại tiền được mạnh giúp tăng cường cơ bắp và cả con nòng giãn của bạn.
 Items/EostreNecklace	Text	 	Dây Chuyền Eostre
 Items/EostreNecklaceDesc	Text	 	Một cành cây cong giữ một quả trứng vàng ở đầu. Đó là biểu tượng của sự tái sinh và sinh sôi.
+Items/EruptiveNecklace	Text	 [new]	Dây Chuyền Bùng Nổ
+Items/EruptiveNecklaceDesc	Text	 [new]	Một vòng cổ mạ vàng chắc chắn. Cảm giác như viên đá ấm treo trên nó có thể phun bất cứ lúc nào.
 Items/EvilEyeCandy	Text	 	Kéo Mạt Quy
 Items/EvilEyeCandyDesc	Text	 	Sáng tạo độc ác nhất trong tất cả. Hương vị của nó là sự sỉ nhục với người sống. Cam thảo đen.
 Items/ExcavationBridge	Text	 [new]	Cầu Đảo
@@ -4305,6 +4608,8 @@ Items/FeatherTree	Text	 	Cây Long Tím
 Items/FeatherTreeCyan	Text	 	Cây Long Xanh Lộ
 Items/FeatherTreeCyanDesc	Text	 	Hoàn toàn không phải là cây. Ma là một loại không xương sống cao lớn, ăn các hạt trôi nổi bằng những cánh tay dài.
 Items/FeatherTreeDesc	Text	 	Hoàn toàn không phải là cây. Ma là một loại không xương sống cao lớn, ăn các hạt trôi nổi bằng những cánh tay dài.
+Items/Fern	Text	 [new]	Dương Xỉ
+Items/FernDesc	Text	 [new]	Một loài thực vật vùng rừng taiga với những hàng lá đều tăm tắp.
 Items/Fiber	Text	 	Sợi
 Items/FiberDesc	Text	 	Vật liệu mịn như lửa để chế tạo vải và giáp.
 Items/FireGrenade	Text	 [new]	Grenade Lụa
@@ -4350,6 +4655,8 @@ Items/FleshKelp	Text	 	Táo Bè Thịt
 Items/FleshKelpDesc	Text	 	Một cục thực vật biến màu da thịt.
 Items/FlintlockMusket	Text	 	Súng Hoa Mai
 Items/FlintlockMusketDesc	Text	 	Khổ ma cái lại được với một nam chỉ đang lao thẳng vào mặt.
+Items/FloatingTitanChest	Text	 [new]	Rương Titan Nổi
+Items/FloatingTitanChestDesc	Text	 [new]	Một chiếc rương cổ lớn trang trí bằng đá quý. Nhờ những cục phồng chứa đầy không khí ở đáy, nó có thể nổi trên mặt nước.
 Items/FloorPillow	Text	 	Gôi Ngôi Sàn
 Items/FloorPillowDesc	Text	 	Một chiếc gối mềm có thể đặt xuống đất để ngoi lên.
 Items/FoodRation	Text	 	Lương Khố
@@ -4434,6 +4741,8 @@ Items/Geode	Text	 	Tỉnh Học
 Items/GeodeDesc	Text	 	Một nửa khối đá vôi nhưng tình thế pha lê tuyệt đẹp bên trong.
 Items/GeodeWallDisplay	Text	 	Tình Học Treo Tường
 Items/GeodeWallDisplayDesc	Text	 	Một nửa tĩnh học được cắt gọn gàng. Khung gỗ đơn giản bên dưới cho phép gắn nó lên tường.
+Items/Geyser	Text	 [new]	Mạch Nước Nóng
+Items/GeyserDesc	Text	 [new]	Một suối nước nóng tự nhiên của oasis.
 Items/GhormChest	Text	 	Rương Ghorm
 Items/GhormChestDesc	Text	 	Một chiếc rương bọc giáp gối nhỏ đến kẻ ăn thịt.
 Items/GhormTrophy	Text	 	Tướng Ghorm
@@ -4528,6 +4837,8 @@ Items/Goat	Text	 	Bambuck
 Items/GoatBaby	Text	 	Bambuck con
 Items/GoatBabyDesc	Text	 	Chú dê con này cũng nghịch ngợm như bố mẹ. Nó chủ yếu lao theo những con bướm khi đang đói, dù phần thưởng không dễ kiếm. Một cảnh tượng thật sự ấm lòng.
 Items/GoatDesc	Text	 	Còn Bambuck lông xù có nhiều lên hơn là kiên nhẫn, vậy nên nó khá bạo dạn theo bạn tình. Nó cũng chẳng nhìn thấy nhiều chỗ lầm, nên nếu nó vô tình lao vào bạn thì hãy nhẹ nhàng với nó nhẹ.
+Items/GoatMount	Text	 [new]	Dê Cưỡi Bambuck
+Items/GoatMountDesc	Text	 [new]	Một con Bambuck có thể cưỡi. Loài động vật nhai lông xù này có nhiều lông hơn cả kiên nhẫn, nên bản tính khá bạo dạn. Nó cũng chẳng nhìn thấy rõ, nên nếu vô tình lao vào bạn thì hãy nhẹ nhàng với nó.
 Items/GodsentBreastArmor	Text	 	Giáp Ngực Vua Thiên Đình
 Items/GodsentBreastArmorDesc	Text	 	Một mảnh giáp hoàng gia độc nhất, tượng trưng cho trái tim của vương quốc. Đôi cánh vàng được thêm vào để kế thừa phong thái của Azeos. Trước khi nó kịp được dùng, vương quốc đã bị thiêu thành tro bụi từ bên trong.
 Items/GodsentHelm	Text	 	Mặt Nạ Vua Thiên Đình
@@ -4584,6 +4895,8 @@ Items/GolemShield	Text	 	Khiển Linh Gác
 Items/GolemShieldDesc	Text	 	Mảnh giáp ngực bị vứt bỏ của một lính gác lồi. Nó có kích thước vừa khít để dùng làm một chiếc khiên lớn và viên đá quý cổ xưa ở giữa đôi khi bắn ra năng lượng khi đó đòn tấn công của kẻ thù.
 Items/GolemTrophy	Text	 	Tướng Core Sentry
 Items/GolemTrophyDesc	Text	 	Mô hình sống động như thật của một lính gác lối.
+Items/GrapplingHook	Text	 [new]	Móc Câu
+Items/GrapplingHookDesc	Text	 [new]	Một cái móc có gai nối dây thừng và dây lưu, dễ dàng bám vào địa hình gần đó.
 Items/GraveTree	Text	 	Cây Xanh Tốt
 Items/GraveTreeDesc	Text	 	Cây xanh tươi này đã lớn lên nhiều năm tại Azeos' Wilderness. Hay trông nó lại xuống đất để trang trí cho ngôi nhà của bạn.
 Items/GreaterHealingPotion	Text	 	Thuộc Hội Mậu Cấp Cao
@@ -4717,6 +5030,8 @@ Items/HeartOfGold	Text	 	Trái Tim Vàng
 Items/HeartOfGoldDesc	Text	 	Phần thưởng cho những ai thật lòng quan tâm đến người khác và giúp đỡ bất cứ khi nào có thể.
 Items/HeartberrySoda	Text	 	Soda Qua Móng Tim
 Items/HeartberrySodaDesc	Text	 	Thức uống có gà đông lớn này là một sự bùng nổ hương vị và vị ngọt tinh khiết trong miệng bạn.
+Items/HelioNecklace	Text	 [new]	Dây Chuyền Helio
+Items/HelioNecklaceDesc	Text	 [new]	Một sợi xích có mặt dây đá hổ phách. Nó khúc xạ ánh sáng chiếu vào nó như mặt trời.
 Items/HiveBigLarva	Text	 	Ấu Trùng Tộ Lớn
 Items/HiveBigLarvaTrophy	Text	 	Tương Âu Trung Tộ Lớn
 Items/HiveBigLarvaTrophyDesc	Text	 	Mô hình sông đông của một Âu Trung Tô Lớn.
@@ -4764,6 +5079,8 @@ Items/HunterBreastArmor	Text	 	Ao Choang Thổ San
 Items/HunterBreastArmorDesc	Text	 	Một chiếc áo choàng được làm từ những chiếc lá to dần vào nhau. Khiên bắn trông như một bụi cây biết đi.
 Items/HunterHelm	Text	 	Mụ Trùm Thợ Săn
 Items/HunterHelmDesc	Text	 	Chiếc mũ trùm này làm từ những chiếc lá to gai vào một dải băng đỏ. Giúp bạn hòa lẫn vào môi trường xanh.
+Items/HuntingSceneRock	Text	 [new]	Đá Cảnh Săn Bắn
+Items/HuntingSceneRockDesc	Text	 [new]	Một tảng đá có tranh tiền sử vẽ cảnh những người săn vây quanh một con thú.
 Items/HuntingSpear	Text	 	Giao Sản
 Items/HuntingSpearDesc	Text	 	Một vũ khí tầm xa rất thô sơ được các caveling sống trong Clay Caves sử dụng. Tốt để săn ấu trùng và đặt chúng lên lửa nướng.
 Items/HydraBoneBreastArmor	Text	 	Giáp Ngực Xương Hydra
@@ -4838,11 +5155,15 @@ Items/ImmuneZoneEmitterLarge	Text	 [new]	Máy tạo vùng miễn nhiễm lớn
 Items/ImmuneZoneEmitterLargeDesc	Text	 [new]	Phiên bản lớn hơn của Máy tạo vùng miễn nhiễm, bao phủ một vùng rộng lớn.
 Items/ImmuneZoneEmitterMedium	Text	 [new]	Máy tạo vùng miền nhiễm vừa
 Items/ImmuneZoneEmitterMediumDesc	Text	 [new]	Phiên bản vua của Mây tạo vùng miễn nhiễm, bao phủ một vùng rộng vừa.
+Items/ImprovedSaddle	Text	 [new]	Yên Đua
+Items/ImprovedSaddleDesc	Text	 [new]	Biến gia súc của bạn thành thú cưỡi nhanh cho tới khi bạn tháo yên ra.
 Items/IncenseBowl	Text	 	Bát Hương
 Items/IncenseBowlDesc	Text	 	Một chiếc bát sứ với họa tiết xanh ở viền và cận sẫm màu ở giữa. Mùi hương vẫn còn vương vẫn quanh nó làm dịu các giác quan.
 Items/Incinerator	Text	 [new]	Lò thiêu đốt
 Items/IncineratorDesc	Text	 [new]	Lò thiêu đốt các vật phẩm không cần dùng thanh tro.
 Items/InfectedCaveling	Text	 	Caveling Nhiễm Bệnh
+Items/InfestedRing	Text	 [new]	Nhân Bị Nhiễm
+Items/InfestedRingDesc	Text	 [new]	Một chiếc nhẫn tồi tệ phủ đầy những khối u sần. Nó nhấp nháy nhẹ quanh ngón tay bạn như sắp vỡ tung.
 Items/InfoBoardBroken	Text	 	Băng Ảnh Võ
 Items/InfoBoardBrokenDesc	Text	 	Một tấm bằng vỏ làm từ kính xanh. Khô mà nhận ra các ký tự nhấp nháy trên đó.
 Items/InfoBoardLarge	Text	 	Băng Anh Lớn
@@ -4883,6 +5204,10 @@ Items/InventoryMoldDungeonChest	Text	 	Rương Hầm ngục nấm mốc
 Items/InventoryMoldDungeonChestDesc	Text	 	Một chiếc rương có móc dây móc trắng.
 Items/InventorySeaBiomeChest	Text	 	Rương Biển chìm
 Items/InventorySeaBiomeChestDesc	Text	 	Đây là chiếc rương hay là một con trai?
+Items/InvisibleTrailerWallFull	Text	 [new]	Tường Rào Vô Hình
+Items/InvisibleTrailerWallFullDesc	Text	 [new]	Biến thể khối đầy đủ
+Items/InvisibleTrailerWallThin	Text	 [new]	Tường Rào Vô Hình
+Items/InvisibleTrailerWallThinDesc	Text	 [new]	Biến thể mỏng
 Items/IronAnvil	Text	 	Đề Sát
 Items/IronAnvilDesc	Text	 	Tuyệt vời để chế tạo trang bị cấp cao.
 Items/IronBar	Text	 	Thanh Sát
@@ -4934,6 +5259,8 @@ Items/IvyRing	Text	 	Nhân Ivy
 Items/IvyRingDesc	Text	 	Một chiếc nhẫn hữu có móc lên từ những chiếc gai phụ slime.
 Items/IvyTrophy	Text	 	Tướng Ivy
 Items/IvyTrophyDesc	Text	 	Bạn tái hiện sống động của Ivy, Khối Kịch Đọc.
+Items/JailorsRing	Text	 [new]	Nhân Cai Nghiện
+Items/JailorsRingDesc	Text	 [new]	Một chiếc nhẫn đính viên đá quý tím thẫm và trang trí gợi nhớ song sắt nhà tù thu nhỏ. Liệu nó từng dùng để trói linh hồn theo ý mình?
 Items/JellyFish	Text	 	Sửa Ngọc
 Items/JellyFishDesc	Text	 	Một loại sữa phát sáng thừa hưởng năng lượng cổ xưa.
 Items/JellyfishDestructable	Text	 	Sửa Đạt Bộ
@@ -4968,6 +5295,8 @@ Items/KingSlimeTrophy	Text	 	Tướng Nho King Slime
 Items/KingSlimeTrophyDesc	Text	 	Một hình ảnh sống động như thật của King Slime.
 Items/KingfishScale	Text	 	Vậy Cá Vua
 Items/KingfishScaleDesc	Text	 	Chiếc váy đẹp đẽ này dường như thuộc về một con cá thực sự phi thường.
+Items/KnightsNecklace	Text	 [new]	Dây Chuyền Hiệp Sĩ
+Items/KnightsNecklaceDesc	Text	 [new]	Một dây chuyền nhung sang trọng với một thanh dao tinh tế làm mặt dây. Dành cho trường hợp khẩn cấp.
 Items/LCircuit	Text	 [new]	Mạch L
 Items/LCircuitDesc	Text	 [new]	Mạch điển hình chữ L dùng trong các hệ thống điện tử cung.
 Items/LaboratoryWorkbench	Text	 [new]	Ban chế tạo Phòng thí nghiệm
@@ -5078,6 +5407,8 @@ Items/LavaSlimeBossScannerDesc	Text	 	Quét thế giới để tìm Igneous, Kh�
 Items/LavaSlimeDesc	Text	 	Một khối slime chạy rực màu sẫm. Có thể chế biến thêm.
 Items/LavaSlimeTrophy	Text	 	Tướng Slime Dung Nham
 Items/LavaSlimeTrophyDesc	Text	 	Mô hình slime dùng nhầm giống như thật.
+Items/LavaSpikeRing	Text	 [new]	Nhân Gai Nham Thạch
+Items/LavaSpikeRingDesc	Text	 [new]	Một chiếc nhẫn ấm phủ đầy gai nham thạch đã đông cứng. Có vẻ nó được rèn ngay trong dung nham phủ lên nó.
 Items/LavaStalagmite	Text	 	Mang Đá Dung Nham
 Items/LavaStalagmiteDesc	Text	 	Một cột đá hình thành qua hàng ngàn năm từ magma nhỏ giọt.
 Items/LavaWoodenDestructible	Text	 	Thung Cháy Sem
@@ -5114,6 +5445,8 @@ Items/LegendaryMortarPart2	Text	 [new]	Phần 2 Có truyền thuyết
 Items/LegendaryMortarPart2Desc	Text	 [new]	Phần của một có pha chế truyền thuyết. Cần nhiều phần để góp đủ.
 Items/LegendaryMortarPart3	Text	 [new]	Phần 3 Có truyền thuyết
 Items/LegendaryMortarPart3Desc	Text	 [new]	Phần của một có pha chế truyền thuyết. Cần nhiều phần để góp đủ.
+Items/LegendaryScepter	Text	 [new]	Veil Crux
+Items/LegendaryScepterDesc	Text	 [new]	Một cán cưới cổ xưa chế tác từ đồ tích của các hệ sinh thái xa xôi. Có thứ gì đó bên dưới thế giới dường như nhận ra mệnh lệnh của nó.
 Items/LegendaryStaff	Text	 [new]	Phương trượng truyền thuyết
 Items/LegendaryStaffDesc	Text	 [new]	Phương trượng phép thuật truyền thuyết với sức mạnh kinh khủng.
 Items/LegendaryStaffParchment	Text	 [new]	Cuốn đã truyền thuyết (Phương trường)
@@ -5199,6 +5532,8 @@ Items/MalugazChest	Text	 [new]	Rương Malugaz
 Items/MalugazChestDesc	Text	 [new]	Chiếc rương được Malugaz bảo vệ. Chưa vật phẩm quý giá.
 Items/MalugazTrophy	Text	 	Tướng Malugaz
 Items/MalugazTrophyDesc	Text	 	Hình ảnh sống động của Malugaz, Kẻ Sa Nga.
+Items/MammothFossil	Text	 [new]	Hóa Thạch voi Ma Quý
+Items/MammothFossilDesc	Text	 [new]	Con voi khổng lồ lớn cũng đã gặp kết cục bi thả ở đây, phải không?
 Items/ManaPotion	Text	 [new]	Thuốc mana
 Items/ManaPotionDesc	Text	 [new]	Thuộc họ lại một phần mana cho người dùng.
 Items/Mannequin	Text	 	Ma-nô-cánh
@@ -5239,6 +5574,8 @@ Items/MetalPallet	Text	 [new]	Pallet kim loại
 Items/MetalPalletDesc	Text	 [new]	Pallet kim loại để xếp vật liệu và hàng hóa.
 Items/MetalTable	Text	 [new]	Bán kim loại
 Items/MetalTableDesc	Text	 [new]	Bàn kim loại chắc chắn dùng để chế tạo.
+Items/MeteorRock	Text	 [new]	Đá Thiên Thạch
+Items/MeteorRockDesc	Text	 [new]	Một tảng đá có tranh tiền sử giống như vụ nổ thiên thạch.
 Items/MeteorStaff	Text	 [new]	Phương trượng Sao băng
 Items/MeteorStaffDesc	Text	 [new]	Phương trượng triệu hồi các sao băng rơi xuống từ trên trời tiêu diệt kẻ địch.
 Items/MeteorStaffLesser	Text	 [new]	Pháp trượng sao băng nhỏ
@@ -5302,6 +5639,10 @@ Items/MoldwebPantsArmor	Text	 	Quận Mang Mộc
 Items/MoldwebPantsArmorDesc	Text	 	Trang bị chân phụ nam mọc sống. Có vẻ nó không thèm ăn người mặc.
 Items/MoltenButterflyWing	Text	 	Cảnh Dung Nham Tấn Cháy
 Items/MoltenButterflyWingDesc	Text	 	Cánh của một con bướm dung nham, vung nỏ lên khiến tia lửa bắn ra từ phía.
+Items/MoonbellNecklace	Text	 [new]	Dây Chuyền Chuông Trăng
+Items/MoonbellNecklaceDesc	Text	 [new]	Một dây chuyền lá và cánh hoa Chuông Trăng được thoa cẩn thận.
+Items/MoonbellRing	Text	 [new]	Nhân Chuông Trăng
+Items/MoonbellRingDesc	Text	 [new]	Một chiếc nhẫn lá và cánh hoa Chuông Trăng được thoa cẩn thận.
 Items/MoonstoneOffhand	Text	 	Đá Mặt Trăng
 Items/MoonstoneOffhandDesc	Text	 	Tình thế nguyên số này chưa đầy năng lượng. Nó khiến bạn cảm thấy quyết tâm.
 Items/MorphaBag	Text	 	Tui Bong Bong của Morpha
@@ -5312,6 +5653,22 @@ Items/MorphaRing	Text	 	Nhân của Morpha
 Items/MorphaRingDesc	Text	 	Một vòng nhỏ kỳ lạ làm từ slime xanh, gần như tuột khỏi ngón tay bẩn.
 Items/MorphaTrophy	Text	 	Tướng Morpha
 Items/MorphaTrophyDesc	Text	 	Mô hình sông đóng của Morpha, Khối Thủy Sinh.
+Items/MossBreastArmor	Text	 [new]	Áo Giáp Moss
+Items/MossBreastArmorDesc	Text	 [new]	Một món giáp thân làm từ vỏ cây bạc màu, cách nhiệt bằng tấm áo choàng dày đặc cây thạch bài.
+Items/MossDestructible	Text	 [new]	Chậu Đất Nung
+Items/MossDestructibleBig	Text	 [new]	Chậu Đất Nung Lớn
+Items/MossDestructibleBigDesc	Text	 [new]	Một chiếc chậu đất đặc quánh mọc cây xanh mướt trong những vết nứt cũ.
+Items/MossDestructibleDesc	Text	 [new]	Một chiếc chậu đất mọc cây xanh mướt trong những vết nứt cũ.
+Items/MossGrowth	Text	 [new]	Đất Phủ Moss
+Items/MossGrowthDesc	Text	 [new]	Tấm đệm rêu xen kẽ sợi nấm. Theo thời gian nấm rêu sẽ mọc lên trên đó.
+Items/MossHelm	Text	 [new]	Mạ Moss
+Items/MossHelmDesc	Text	 [new]	Một chiếc mặt nạ làm từ vỏ cây bạc màu cũ kỹ với vương miện nhẹ dệt từ kim vũ thông.
+Items/MossMushroom	Text	 [new]	Moorshroom
+Items/MossMushroomDesc	Text	 [new]	Một loài nấm lấp lánh dưới nắp vỏ dày và ẩm ướt.
+Items/MossPants	Text	 [new]	Quần Moss
+Items/MossPantsDesc	Text	 [new]	Một đôi ống quần rỗng ruột từ cành cây cũ phủ một lớp váy đầy rêu thạch bài.
+Items/MossPlant	Text	 [new]	Bụi Cây Xanh Mãi
+Items/MossPlantDesc	Text	 [new]	Một bụi quả nhỏ với lá xanh mướt. Tiếc là nó ít quả thôi.
 Items/MucusAmoeba	Text	 	Trứng amip nhầy
 Items/MucusAmoebaDesc	Text	 	Một côn trùng amip khổng lồ nhảy nhựa, có vẻ như nó đang nhìn bàn.
 Items/MummyCaveling	Text	 	Xác Ướp Caveling
@@ -5355,8 +5712,12 @@ Items/NatureDestructible	Text	 	Bình Hòa
 Items/NatureDestructibleDesc	Text	 	Một cây màu vàng chứa chiến lợi phẩm hữu cơ.
 Items/NatureGemstone	Text	 	Lúc Bảo Rừng Giá
 Items/NatureGemstoneDesc	Text	 	Một viên đá quý xanh tươi hiếm thấy ở vùng tuổi tốt đá kết tinh. Đặc tính riêng của nó cho phép dùng để chế tạo chất lượng cao hơn.
+Items/NatureScepter	Text	 [new]	Cán Cưới Hoa Bệnh
+Items/NatureScepterDesc	Text	 [new]	Chế tác từ rễ bị nguyền rủa, được nuôi bằng mục thối và phép thuật cấm đoán.
 Items/NatureWoodenDestructible	Text	 	Thung Gò Phú Cây
 Items/NatureWoodenDestructibleDesc	Text	 	Một chiếc hộp đã bị thiên nhiên xâm chiếm một phần. Bên trong chưa do hữu ích.
+Items/NeedleNecklace	Text	 [new]	Dây Chuyền Kim
+Items/NeedleNecklaceDesc	Text	 [new]	Một cây kim kết tinh, không hẳn là nhũ đá cũng không hẳn là băng đá. Hữu ích khi cần độ chính xác tuyệt đối.
 Items/NilipedeTrophy	Text	Change the translations in a way that it relates to the Nilipede having no legs if you haven't already. Nil is latin for 'zero'.	Tướng Nilipède
 Items/NilipedeTrophyDesc	Text	Change the translations in a way that it relates to the Nilipede having no legs if you haven't already. Nil is latin for 'zero'.	Mô hình sông đóng của một Nilipede.
 Items/NinjaBreastArmor	Text	 	Áo Ninja
@@ -5385,6 +5746,8 @@ Items/Ocarina	Text	 	Sáo Ocarina
 Items/OcarinaDesc	Text	 	Một nhạc cụ vượt thời gian.
 Items/OceanHeartNecklace	Text	 	Dây Chuyền Oceanheart
 Items/OceanHeartNecklaceDesc	Text	 	Một viên kim cương xanh lớn là tâm điểm của báu vật phi thường này. Bạn cảm thấy được yêu thương khi áp nó vào ngực.
+Items/OceanKingFossil	Text	 [new]	Hóa Thạch Vua Đại Dương
+Items/OceanKingFossilDesc	Text	 [new]	Di tích của một vị vua bò khổng lồ từng oai vĩ dưới biển sâu.
 Items/OctarineAnvil	Text	 	Đe Octarine
 Items/OctarineAnvilDesc	Text	 	Một chiếc đế kỳ lạ để tạo ra trang bị phi thường.
 Items/OctarineAxe	Text	 	Rìu Octarine
@@ -5452,6 +5815,8 @@ Items/OldSporeMask	Text	 	Mặt Nạ Bao Tự Cũ
 Items/OldSporeMaskDesc	Text	 	Một chiếc mặt nạ cũ chống lại bào tử trong không khí. Nó đã hỏng nhưng vẫn có thể bán được giá tốt.
 Items/OmorothBeak	Text	 	Mỏ Omoroth
 Items/OmorothBeakDesc	Text	 	Phần mộ sắc bén của Omoroth, Titan Biển Cả. Nó dường như có thể nghiền nát mọi vật liệu.
+Items/OmorothBossChest	Text	 [new]	Rương Omoroth
+Items/OmorothBossChestDesc	Text	 [new]	Một chiếc rương nhớt nháng phủ chất nhầy mà Omoroth từng để lại. Nhờ túi khí ở đáy, nó có thể nổi trên mặt nước.
 Items/OmorothCompass	Text	 	La bàn Omoroth
 Items/OmorothCompassDesc	Text	 	Một dụng cụ tuyệt vời cho việc đi biển được tạo ra để tôn vinh Omoroth, ai sở hữu nó sẽ không bao giờ lạc lối trên biển. Một món quà xứng tầm bậc vương gia.
 Items/OmorothNecklace	Text	 	Dây Chuyền Omoroth
@@ -5486,6 +5851,8 @@ Items/OrangeCaveGuppy	Text	 	Cả Bảy Mẫu Hàng Cấm
 Items/OrangeCaveGuppyDesc	Text	 	Cá nhỏ màu cam sống ở các hồ hang đất.
 Items/OrbLantern	Text	 	Đền Long Cầu
 Items/OrbLanternDesc	Text	 	Một nguồn sáng tốt hơn, rực rỡ hơn để gắn vào thắt lưng.
+Items/OrbNecklace	Text	 [new]	Dây Chuyền Cầu
+Items/OrbNecklaceDesc	Text	 [new]	Một chuỗi các viên bi liền kề trên que, đeo thành dây chuyền. Có lẽ mỗi viên bi từng tượng trưng cho một thành viên trong đội?
 Items/OrbitalTurret	Text	 	Tháp Pháo Quy Đạo
 Items/OrbitalTurretTrophy	Text	 	Tượng Tháp Pháo Quy Đạo
 Items/OrbitalTurretTrophyDesc	Text	 	Mô hình giống như thật của một Tháp Pháo Quy Đạo.
@@ -5546,6 +5913,8 @@ Items/PandoriumOreBoulder	Text	 	Tầng Quặng Pandorium
 Items/PandoriumOreDesc	Text	 	Một loại quặng tràn đầy tiềm năng hỗn loạn. Có thể tìm thấy mọc trên nền hóa thạch.
 Items/PandoriumPantsArmor	Text	 	Quận Pandorium
 Items/PandoriumPantsArmorDesc	Text	 	Giáp chân nhẹ và thoáng khí. Khỉ mạc, bạn có thể cảm nhận những rung động nhỏ nhất dưới chân.
+Items/PandoriumScepter	Text	 [new]	Cán Cưới Pandorium
+Items/PandoriumScepterDesc	Text	 [new]	Được khai quật từ một căn phòng chôn vùi bị vây quanh bởi đồ tích bị lãng quên.
 Items/ParasiteFossil	Text	 	Hoa Thạch Kỳ Sinh Trung
 Items/ParasiteFossilDesc	Text	 	Phần còn lại hóa đá của một ký sinh trùng cổ đại, không chắc nó đã thực sự chết hay chưa.
 Items/ParsecPalsDolls	Text	 	Bộ Bup Be Bí An
@@ -5577,6 +5946,12 @@ Items/PetBedDesc	Text	 [new]	Giường để thú cưng của bạn nghỉ ngơi
 Items/PetBedDogHouse	Text	 [new]	Giường chuối cho
 Items/PetBedDogHouseDesc	Text	 [new]	Giương thư cũng hình chuối cho chó thú cưng đang chờ.
 Items/PetBird	Text	 	Owlux
+Items/PetBirdBoss	Text	 [new]	Azeos Nhí
+Items/PetBirdBossDesc	Text	 [new]	Một người bạn đầy tiếng sấm từ trên trời xuống. Mang lửa cháy cho những trận chiến của bạn.
+Items/PetBirdBossEgg	Text	 [new]	Trứng Lấp Lánh
+Items/PetBirdBossEggCracked	Text	 [new]	Trứng Lấp Lánh Nứt Vỡ
+Items/PetBirdBossEggCrackedDesc	Text	 [new]	Một quả trứng lấp lánh bí ẩn sắp nở.
+Items/PetBirdBossEggDesc	Text	 [new]	Một quả trứng lấp lánh bí ẩn dường như phản ứng với sự hiện diện của bạn. Có cách nào ấp nó nở không?
 Items/PetBirdDesc	Text	 	Một đồng minh có mở nhanh nhẹn. Tuy quá nhút nhát để tham chiến, nó vẫn luôn ở bên bạn!
 Items/PetBirdEgg	Text	 	Trung Sông Đông
 Items/PetBirdEggCracked	Text	 	Trung Sông Đông Nút Vỗ
@@ -5612,6 +5987,12 @@ Items/PetElectricEgg	Text	 [new]	Trung thư cung Điền
 Items/PetElectricEggCracked	Text	 [new]	Trung thư cùng Điền danh võ
 Items/PetElectricEggCrackedDesc	Text	 [new]	Quả trứng của thú cưng Điền đã bắt đầu đánh vỡ. Nó sắp nổ ra.
 Items/PetElectricEggDesc	Text	 [new]	Ấm quá, trứng của thú cưng Điện gần bị nổ tung nhẹ.
+Items/PetFrog	Text	 [new]	Hoppet
+Items/PetFrogDesc	Text	 [new]	Một người bạn từ biển giúp chặn đánh kẻ thù. Kẹt kẹt!
+Items/PetFrogEgg	Text	 [new]	Trứng Hoppy
+Items/PetFrogEggCracked	Text	 [new]	Trứng Hoppy Nứt Vỡ
+Items/PetFrogEggCrackedDesc	Text	 [new]	Một quả trứng thạch rợp nhớt bí ẩn sắp nở.
+Items/PetFrogEggDesc	Text	 [new]	Một quả trứng thạch rợp nhớt bí ẩn dường như phản ứng với sự hiện diện của bạn. Có cách nào ấp nó nở không?
 Items/PetLavaSlimeBlob	Text	 	Slime dung nham nhí
 Items/PetLavaSlimeBlobDesc	Text	 	Một người bạn nhỏ nóng bỏng đã sẵn sàng cho những cuộc phiêu lưu dưới lòng đất.
 Items/PetLavaSlimeBlobEgg	Text	 	Trứng dung nham nhấp nháy
@@ -5624,6 +6005,12 @@ Items/PetMagicEgg	Text	 [new]	Trung thư cùng Phép
 Items/PetMagicEggCracked	Text	 [new]	Trung thư cùng Phép danh võ
 Items/PetMagicEggCrackedDesc	Text	 [new]	Quả trứng của thú cưng Phép đã bắt đầu đánh vỡ. Nó sắp nổ ra.
 Items/PetMagicEggDesc	Text	 [new]	Âm quả trứng của thú cưng Phép tỏa ra năng lượng phép huyền bí.
+Items/PetMeleeCat	Text	 [new]	Cattiva
+Items/PetMeleeCatDesc	Text	 [new]	Một người bạn đồng hành lười biếng và nóng tính. Nó tránh việc nhà nhưng đền đáp lại bằng trận chiến.
+Items/PetMeleeCatEgg	Text	 [new]	Trứng Lười
+Items/PetMeleeCatEggCracked	Text	 [new]	Trứng Lười Nứt Vỡ
+Items/PetMeleeCatEggCrackedDesc	Text	 [new]	Một quả trứng râu ria bí ẩn sắp nở.
+Items/PetMeleeCatEggDesc	Text	 [new]	Một quả trứng râu ria bí ẩn dường như phản ứng với sự hiện diện của bạn. Có cách nào ấp nó nở không?
 Items/PetMoth	Text	 	Pheromoth
 Items/PetMothDesc	Text	 	Một người bạn đồng hành thân thiện đến từ vùng đất mọc mèo. Đôi cánh mượt mà của nó không hợp để chiến đấu nhưng nó sẽ hỗ trợ bạn từ khoảng cách an toàn.
 Items/PetMothEgg	Text	 	Trung Long Tổ
@@ -5686,6 +6073,10 @@ Items/PickaxeHead	Text	 	Đầu cuốc chim
 Items/PickaxeHeadDesc	Text	 	Phần đầu của một cây cuốc chim sắt đã nóng chảy một phần. Hắn nó đã bị hỏng khi làm việc trong điều kiện khắc nghiệt.
 Items/PileOfChum	Text	 	Đồng Mới Ca
 Items/PileOfChumDesc	Text	 	Phần thức ăn thừa chưa tiêu hóa của con mồi, có thể dùng làm mồi cho cá. Đặt nó trong một căn phòng ở được và một nhân vật thích câu cá có thể sẽ dọn đến.
+Items/PineTree	Text	 [new]	Cây Thông Nhỏ
+Items/PineTreeBig	Text	 [new]	Cây Thông Cao
+Items/PineTreeBigDesc	Text	 [new]	Một cây thường xanh cao lớn thích nghi để sống thiếu ánh sáng... Giống hầu hết những cây khác ở dưới đây.
+Items/PineTreeDesc	Text	 [new]	Một cây thường xanh thích nghi để sống thiếu ánh sáng... Giống hầu hết những cây khác ở dưới đây.
 Items/Pinegrapple	Text	 	Pinegrapple
 Items/PinegrappleDesc	Text	 	Một loại quả ngon đậm đã khiến bạn nắm chặt vũ khí của mình.
 Items/PinegrappleRare	Text	 	Pinegrapple Vàng
@@ -5806,8 +6197,12 @@ Items/PottedPuffSticks	Text	 	Pompom Nam Mộc Trong Châu
 Items/PottedPuffSticksDesc	Text	 	Một bông hoa phong to quá khô đã bị nấm mốc xâm chiếm.
 Items/PouchWorkbench	Text	 [new]	Bản chế tạo Túi
 Items/PouchWorkbenchDesc	Text	 [new]	Bản chế tạo dùng để tạo ra các loại túi đựng đồ.
+Items/PowerRing	Text	 [new]	Nhân Quyền Lực
+Items/PowerRingDesc	Text	 [new]	Một chiếc nhẫn vàng nhỏ đính viên đá xanh thẫm. Những lời quyền lực được khắc ở hai bên.
 Items/PreciousUrn	Text	 	Bình Quý Giá
 Items/PreciousUrnDesc	Text	 	Một món trang trí đẹp đẽ không hề có vết nứt hay ti vết, nhưng thú chứa bên trong ban đầu đã biến mất từ lâu.
+Items/PressurePedestal	Text	 [new]	Bệ Nén
+Items/PressurePedestalDesc	Text	 [new]	Tạo ra một lượng điện nhỏ khi có vật phẩm được đặt lên trên.
 Items/PressurePlate	Text	 	Ban Đập Áp Lục
 Items/PressurePlateDesc	Text	 	Tạo ra một lượng nhỏ điện khi người chơi giảm lên.
 Items/PrimitiveGoKart	Text	 	Xe Go-kart Thổ Sở
@@ -5889,6 +6284,14 @@ Items/RangerHelm	Text	 	Mụ Trùm Cung Thủ
 Items/RangerHelmDesc	Text	 	Một chiếc mũ trùm tối màu bằng vải cũ. Gần như chỉ có đôi mắt nhắm vào mục tiêu lộ ra ngoài.
 Items/RangerPantsArmor	Text	 	Quân Cung Thủ
 Items/RangerPantsArmorDesc	Text	Changed 'boots' to 'pants' in the description	Chiếc quần đã chắc chắn này giúp bạn đứng vững và ngắm bắn ổn định vào mục tiêu.
+Items/Raptor	Text	 [new]	Orex
+Items/RaptorBaby	Text	 [new]	Orex Non
+Items/RaptorBabyDesc	Text	 [new]	Một cá thể năng động thích đấu tập với anh em trong bầy. Đôi mắt tròn nhỏ làm giảm đi tác dộng uy hiếp của đôi sừng và chiếc hàm đang phát triển.
+Items/RaptorDesc	Text	 [new]	Kẻ ăn thịt hang rộng này có tính tình nhút nhát đến bất ngờ dù sừng sắc bén thế. Chiếc mõm lớn răng cưa của nó thà nuốt chửng con mồi còn hơn cắn vào bàn tay có thể cho nó ăn.
+Items/RaptorMount	Text	 [new]	Orex Cưỡi
+Items/RaptorMountDesc	Text	 [new]	Một con Orex có thể cưỡi. Kẻ ăn thịt hang rộng này có tính tình nhút nhát đến bất ngờ dù sừng sắc bén thế. Chiếc mõm lớn răng cưa của nó thà nuốt chửng con mồi còn hơn cắn vào bàn tay có thể cho nó ăn.
+Items/RaptorTruffle	Text	 [new]	Nấm Truffle Orex
+Items/RaptorTruffleDesc	Text	 [new]	Một loài nấm khí để lại bởi Orex. Nấu chắc chắn sẽ đem ra vị đất của nó.
 Items/RazorFlake	Text	 	Phí Tiêu Bất Tường
 Items/RazorFlakeDesc	Text	 	Một vũ khí ném bốn lưỡi này quá này lại khắp phòng. Chèm đứt mọi kẻ địch trên đường đi.
 Items/RecallIdol	Text	 	Tướng Triệu Hồi
@@ -5965,6 +6368,8 @@ Items/RolyPoly	Text	 	Bọ cuộn tròn
 Items/RolyPolyBaby	Text	 	Ấu The Strolly Poly
 Items/RolyPolyBabyDesc	Text	 	Phiên bản non của Strolly Poly. Khác với cha mẹ đã trưởng thành, con này luôn có nguy cơ bị giam phải hoặc bị các nhà thám hiểm bắt cắn nhầm là ấu trùng.
 Items/RolyPolyDesc	Text	 	Mãn nguyện với mọi thứ diễn ra quanh mình, gã khổng lồ hiền lành này lách bạch đi xuyên bóng tối, luôn tìm kiếm một món ăn vặt giòn rum lúc nhục. Bạn có biết nó thậm chí không phải là côn trùng không?
+Items/RolyPolyMount	Text	 [new]	Strolly Poly Cưỡi
+Items/RolyPolyMountDesc	Text	 [new]	Một con Strolly Poly có thể cưỡi. Hài lòng với mọi thứ xảy ra xung quanh, gã khổng lồ hiền lành này lạch bạch trong bóng tối, lúc nào cũng đi tìm mồi giòn tan. Bạn có biết nó thậm chí không phải là côn trùng không?
 Items/RolyPolyPlate	Text	Item received from a big roly poly animal. Translations of said animal should refer to something correlating to a roly poly + slowness/wandering/strolling	Mạnh Võ Strolly Poly
 Items/RolyPolyPlateDesc	Text	 	Một mảnh vỏ rụng ra tạo nên lớp giáp cứng của Strolly Poly. Rất chắc chắn và tuyệt vời để chế tạo.
 Items/RoofingTool	Text	 	Dụng Cụ Lốp Mai
@@ -6018,6 +6423,10 @@ Items/RustyFishingHook	Text	 	Lưới Cầu Gi Sét
 Items/RustyFishingHookDesc	Text	 	Gi sét đến tận lõi và không dùng được. Còn cả đồ tổ quá sức xử lý, ảnh bản a.
 Items/RustySpoon	Text	 	Thia Gi Sét
 Items/RustySpoonDesc	Text	 	Một dụng cụ ăn uống cũ kỹ, gỉ sét. Hầu như mọi nền văn hóa đều đã sáng tạo ra nó.
+Items/SacredRing	Text	 [new]	Nhân Thánh
+Items/SacredRingDesc	Text	 [new]	Một chiếc nhẫn tím với những đường khắc bí ẩn chạy quanh vành rộng.
+Items/Saddle	Text	 [new]	Yên
+Items/SaddleDesc	Text	 [new]	Biến gia súc của bạn thành thú cưỡi cho tới khi bạn tháo yên ra.
 Items/SahabarMonument	Text	 [new]	Tượng đài Sahabar
 Items/SahabarMonumentDesc	Text	 [new]	Tượng đài to lớn tôn thờ Sahabar.
 Items/SalvageAndRepairStation	Text	 	Trạm Tân Dũng và Sửa Chữa
@@ -6032,6 +6441,10 @@ Items/SantaHelm	Text	 	Mụ Lê Hối
 Items/SantaHelmDesc	Text	 	Một chiếc mũ ấm áp, mềm mại giữ tại khối lạnh trong mùa giá rét. Mùa đông không thể không đổi một chiếc như thế này.
 Items/SantasLittleHelper	Text	 	Phủ Tả Nhĩ
 Items/SantasLittleHelperDesc	Text	 	Một Caveling đồng hành vừa vặn trong ba lô của bạn nhưng muốn sớm được đặt xuống vì nó hăng hái làm việc. Nó sẽ chế tạo quả để đổi lấy món ăn nấu chín; cho nó món hiếm để có chất lượng cao hơn!
+Items/ScaledRing	Text	 [new]	Nhân Vảy
+Items/ScaledRingDesc	Text	 [new]	Một chiếc nhẫn thô ráp làm từ vảy giáp xác. Món bổ sung đáng giá cho bộ sưu tập của bất kỳ kẻ săn bắn thú nào.
+Items/ScarabBossChest	Text	 [new]	Rương Ra-Akar
+Items/ScarabBossChestDesc	Text	 [new]	Một chiếc rương gai và vảy còn sót lại từ Ra-Akar.
 Items/ScarabBossScanner	Text	 	Máy Quét Ra-Akar, Titan Cát
 Items/ScarabBossScannerDesc	Text	 	Quét thế giới để tìm Ra-Akar, Titan Cát. Bị tiêu hao khi quét thành công.
 Items/ScarabBreastArmor	Text	 	Giáp Ngực Bố Hùng
@@ -6120,6 +6533,8 @@ Items/SeaFoamRing	Text	 	Nhân Bột Biên
 Items/SeaFoamRingDesc	Text	 	Một chiếc nhẫn trong suốt trong như một con sông bị đóng băng trong thời gian.
 Items/SeaGemstone	Text	 	Lâm Ngọc Đại Đường
 Items/SeaGemstoneDesc	Text	 	Một viên đá quý màu xanh azure hiếm khi tìm thấy ở những vùng nước kết tinh. Tính chất đặc biệt của nó cho phép dùng để chế tạo chất lượng cao hơn.
+Items/SeaScepter	Text	 [new]	Cán Cưới Vực Thẳm
+Items/SeaScepterDesc	Text	 [new]	Được dệt từ dòng hải lưu sâu buộc bằng san hô và muối, phép thuật của nó dội lại như thủy triều.
 Items/SeaShell	Text	 	Vô Sở
 Items/SeaShellDesc	Text	 	Một vô số kỳ lạ với bề mặt mượt mà như lửa.
 Items/SeaWoodenDestructible	Text	 	Thung Gỗ Trôi Đất
@@ -6139,6 +6554,9 @@ Items/SentryNutcracker	Text	 	Lính Gác Kép Hát Đê
 Items/SentryNutcrackerDesc	Text	 	Một chữ kép hạt dẻ nhỏ tạo hình theo một core sentry trong trang phục lễ hội. Tiếc là chẳng có hạt dẻ nào quanh đây để kẹp.
 Items/SeptumRing	Text	 	Khuyến Vách Mũi
 Items/SeptumRingDesc	Text	 	Một món trang sức bằng vàng không đeo vào ngón tay mà đeo lên mũi.
+Items/SerpentTrophy	Text	 [new]	Tượng Rắn Biển
+Items/SerpentTrophyDesc	Text	 [new]	Một hình tượng lấp lánh của Rắn Biển. Vảy của nó sáng rõ hơn nhiều khi ở trên mặt nước.
+Items/SerpentWormSegment	Text	 [new]	Rắn Biển
 Items/ShadowBreastArmor	Text	 [new]	Giáp ngực Bóng tối
 Items/ShadowBreastArmorDesc	Text	 [new]	Giáp ngực nhuộm mưa của bóng tối. Tăng khả năng lẩn trốn.
 Items/ShadowCharmNecklace	Text	 [new]	Dây chuyền Búa Bóng tối
@@ -6180,6 +6598,10 @@ Items/SignYellowWarning	Text	 [new]	Biển cảnh báo vàng
 Items/SignYellowWarningDesc	Text	 [new]	Biển báo vàng dùng để cảnh báo sự thận trọng.
 Items/SilverTorrentDart	Text	 	Ca Phi Tiểu Bắc
 Items/SilverTorrentDartDesc	Text	 	Loại cá khô nắm bắt này xuất hiện thành đàn như một màn trình diễn anh bạc lấp lánh để gây rối kẻ săn mồi.
+Items/SingedNecklace	Text	 [new]	Dây Chuyền Cháy sém
+Items/SingedNecklaceDesc	Text	 [new]	Khó mà nói dây chuyền phủ bụi này đã trải qua bao nhiêu lần nổ.
+Items/SingedRing	Text	 [new]	Nhân Cháy sém
+Items/SingedRingDesc	Text	 [new]	Chiếc nhẫn phủ bụi này đã chịu đựng nhiều vụ nổ hơn số ai có thể đếm.
 Items/SingingCrystal	Text	 	Phà Lê Ca Hát
 Items/SingingCrystalDesc	Text	 	Nhờ hình dạng của nó, viên pha lê hình thành tự nhiên này ngắn lên một tần số hài hòa khi gõ vào.
 Items/SirenLamp	Text	 [new]	Đến coi báo động
@@ -6190,6 +6612,8 @@ Items/SkeletonPedestal2Desc	Text	 	Một bộ xương rùng rợn làm từ nh�
 Items/SkeletonPedestalDesc	Text	 	Hài cốt của một nhà thám hiểm đồng nghiệp kém may mắn hơn bạn. Buồn cười là cái số trang bệch của hắn vẫn đội mũ vừa vặn. Dù sao cũng được một điều.
 Items/SkirmisherHelm	Text	 	Mũ Lính Đánh Nhanh
 Items/SkirmisherHelmDesc	Text	 	Một chiếc mũ đời đầu của lính đánh nhanh Caveling, được chấp và từ đá ấu trùng, lá cây và vài bàn.
+Items/SkirmisherQuiver	Text	 [new]	Bao Dây Lính Đột Kích
+Items/SkirmisherQuiverDesc	Text	 [new]	Một bộ dây đeo lưng làm từ da ấu trùng đã khô, được Lính Đột Kích Caveling ưa chuộng.
 Items/SkullNecklace	Text	 	Dây Chuyền Đầu Lâu
 Items/SkullNecklaceDesc	Text	 	Một dây chuyền ghê rợn làm từ những chiếc sò Caveling tí hon. Chúng quá nhỏ để là số trẻ con.
 Items/SkullRing	Text	 	Nhan Đầu Lâu
@@ -6262,11 +6686,15 @@ Items/SmithingBellow	Text	 	Bé Rèn Cú
 Items/SmithingBellowDesc	Text	 	Một thiết bị cũ dùng để thổi khí vào lò rèn nhằm tạo ra nhiệt độ cực cao. Cần gạt của cơ cấu đã bị rỉ sét và kết cứng.
 Items/SmithingGlove	Text	 	Găng Tay Thỏ Rèn
 Items/SmithingGloveDesc	Text	 	Được gia cố bằng nhiều vật liệu hiếm, đôi găng này chịu được nhiệt độ cao và là vật bất ly thân của môi thợ rèn lão luyện.
+Items/SmokePearlNecklace	Text	 [new]	Dây Chuyền Ngọc Khói
+Items/SmokePearlNecklaceDesc	Text	 [new]	Một dây chuyền gồm những viên ngọc dầu. Chúng tỏa mùi nước mắm cháy.
 Items/SnakeBossScanner	Text	 	Mây Quet Atlantean Worm
 Items/SnakeBossScannerDesc	Text	 	Quét thế giới để tìm Atlantean Worm. Bị tiêu hao khi quét thành công.
 Items/SnarePlant	Text	 	Cây Bay
 Items/SnarePlantTrophy	Text	 	Tướng Cây Bay
 Items/SnarePlantTrophyDesc	Text	 	Mô phỏng sông đóng của một Cây Bay.
+Items/SniperRifle	Text	 [new]	Súng Bắn Tỉa
+Items/SniperRifleDesc	Text	 [new]	Một khẩu súng tốt dành cho những phát bắn có chủ đích. Sự kiên nhẫn là chìa khoá.
 Items/SnowGlobe	Text	 	Quả Cầu Tuyết
 Items/SnowGlobeDesc	Text	 	Quả cầu nhỏ này lấy Lợi làm tâm và bắt đầu rồi tuyệt khi lắc.
 Items/Snowball	Text	 	Quả Cầu Tuyết
@@ -6362,6 +6790,8 @@ Items/StoneMortar	Text	 [new]	Cô đã
 Items/StoneMortarDesc	Text	 [new]	Có pha chế làm từ đá. Dùng để nghiền vật liệu.
 Items/StonePedestal	Text	 	Bê Đa
 Items/StonePedestalDesc	Text	 	Trưng bày những thứ bạn tìm được!
+Items/StoneScepter	Text	 [new]	Cán Cưới Runestone
+Items/StoneScepterDesc	Text	 [new]	Hình thành trong những hành lang lạc hậu thời gian, dù đá vẫn còn nhớ.
 Items/StoneSeeder	Text	 [new]	Mây gieo đã
 Items/StoneSeederDesc	Text	 [new]	Mây gieo hạt giống bằng cỏ cấp đá. Tự động gieo cấy cho bạn.
 Items/StoneStalagmite	Text	 	Mang Đá Tảng
@@ -6378,6 +6808,8 @@ Items/StoragePlus_StoragePipe	Text	 [new]	Ông dân lưu trú
 Items/StoragePlus_StoragePipeDesc	Text	 [new]	Dùng để kết nối và xây đường mạng lưu trữ của bạn
 Items/StoragePlus_StorageTerminal	Text	 [new]	Trạm cuối lưu trú
 Items/StoragePlus_StorageTerminalDesc	Text	 [new]	Xem, gửi vào và lấy ra vật phẩm từ mạng lưới. Cung cấp nội dung mạng lưới cho các bản chế tạo ở gần.
+Items/StrongGrapplingHook	Text	 [new]	Móc Câu Mạ Vàng
+Items/StrongGrapplingHookDesc	Text	 [new]	Một cái móc gai sang trọng nối xích và dây lưu, dễ dàng bám vào địa hình xa.
 Items/StunGrenade	Text	 [new]	Grenade Lam choàng
 Items/StunGrenadeDesc	Text	 [new]	Grenade làm choáng kẻ địch trong một thời gian khi phát nổ.
 Items/SuitBreastArmor	Text	 	Áo Vest
@@ -6520,6 +6952,8 @@ Items/TerrariumPassage	Text	 [new]	Họ sinh thật Lợi đi
 Items/TerrariumPassageDesc	Text	 [new]	Họ sinh thật mang chủ đề lối đi để trưng bày sinh vật lối đi.
 Items/ThinWallGlass	Text	 	Tường kính mỏng
 Items/ThinWallGlassDesc	Text	 	Một bức tường mỏng làm từ kính, hoàn hảo để tạo vùng vây kín.
+Items/ThornNecklace	Text	 [new]	Dây Chuyền Gai
+Items/ThornNecklaceDesc	Text	 [new]	Một dây leo gai gắn phải luồn qua cổ thật cẩn thận để khỏi bị chích.
 Items/ThornWood	Text	 	Gò Gai
 Items/ThornWoodDesc	Text	 	Một biến thể dây gai của gỗ rễ thông thường.
 Items/ThrowingDaggers	Text	 	Đảo Phi
@@ -6562,6 +6996,8 @@ Items/TinSword	Text	 	Kiếm Thiếc
 Items/TinSwordDesc	Text	 	Vũ khí sắc bén để hạ kẻ thù.
 Items/TinWorkbench	Text	 	Bản Chế Tạo Thiếc
 Items/TinWorkbenchDesc	Text	 	Bản chế tạo tốt hơn để chuẩn bị cho bạn vào thế giới dưới lòng đất.
+Items/TitanChest	Text	 [new]	Rương Titan
+Items/TitanChestDesc	Text	 [new]	Một chiếc rương cổ lớn đính ngọc trên đỉnh.
 Items/TomeOfFire	Text	 [new]	Sách phép Lụa
 Items/TomeOfFireDesc	Text	 [new]	Binh thư có chứa các câu thần chú phép lửa. Dùng để chế tạo các vũ khí lửa.
 Items/TomeOfMelee	Text	 	Sách Cổ Của Người Chết
@@ -6576,6 +7012,8 @@ Items/TomeOfRadiation	Text	 [new]	Sách phép Bức xạ
 Items/TomeOfRadiationDesc	Text	 [new]	Binh thư có chứa các câu thần chú phép bức xạ. Dùng để chế tạo thuốc bức xạ.
 Items/TomeOfRange	Text	 	Sách Cổ Của Bóng Tối
 Items/TomeOfRangeDesc	Text	 	Đúng hơn là một cuốn cẩm nang nhỏ, hướng dẫn nhập môn pháp thuật bóng tối.
+Items/ToothedRing	Text	 [new]	Nhân Răng
+Items/ToothedRingDesc	Text	 [new]	Chiếc nhẫn này chắc chắn khiến nụm đấm của bạn đau nhói.
 Items/TopazRing	Text	 	Nhan Topaz
 Items/TopazRingDesc	Text	 	Chiếc nhẫn nhỏ quý giá với viên đá vàng gắn trên đỉnh.
 Items/TorcNecklace	Text	 	Dây Chuyền Torc
@@ -6589,6 +7027,8 @@ Items/TowelBreastArmor	Text	 	Khăn Tắm
 Items/TowelBreastArmorDesc	Text	 	Khăn tắm gần như là thú hữu dụng bậc nhất mà một thợ đào dưới lòng đất có thể có.
 Items/TowerShellNecklace	Text	 	Dây Chuyền Võ Ốc Tháp
 Items/TowerShellNecklaceDesc	Text	 	Dây chuyền mang một chiếc vỏ ốc xoắn. Cấu trúc xoắn ốc không ngừng của nó thật mê hoặc.
+Items/TrainingDummy	Text	 [new]	Bù Nhân Tập Luyện
+Items/TrainingDummyDesc	Text	 [new]	Một đối thủ tập luyện kiên nhẫn. Không bao giờ đánh trả.
 Items/TrenchcoatBreastArmor	Text	 	Áo khoác dài
 Items/TrenchcoatBreastArmorDesc	Text	 	Chiếc áo khoác với những túi sau hợp với một kẻ tham lam, đáng ngờ.
 Items/TriangleTrinket	Text	 	Bữa Tam Giác
@@ -6601,6 +7041,10 @@ Items/Turtle	Text	 	Kelple
 Items/TurtleBaby	Text	 	Kelple mới nở
 Items/TurtleBabyDesc	Text	 	Một con non trồi lên khỏi mặt đất sau khi đã ngủ vui đủ lâu trong bóng tối. Vợ của nó vẫn còn trong tròn nhưng theo thời gian sẽ được phủ đầy loại tảo bẹ mà nó ăn.
 Items/TurtleDesc	Text	 	Một loại bò sát biển và là người làm vườn tự nhiên, gặm tảo bẹ khi chúng mọc quá nhiều. Nó không cần nhiều dưỡng chất, nên bất cứ thứ gì nó ăn đều thải ra dưới dạng quả bóng cô đặc mà ai cũng có thể lây.
+Items/TurtleMount	Text	 [new]	Kelple Cưỡi
+Items/TurtleMountDesc	Text	 [new]	Một con Kelple có thể cưỡi. Một loài bò sát biển và làm vườn tự nhiên, nó nhai rợm tảo bẹo khi cây mọc quá nhiều. Nó không cần nhiều chất dinh dưỡng, nên thứ gì nó ăn vào lại ra thành một cục cô đọng dễ dàng nhặt.
+Items/TurtleRock	Text	 [new]	Đá Rùa
+Items/TurtleRockDesc	Text	 [new]	Một tác phẩm điêu khắc rực rỡ hình một con rùa.
 Items/TurtleShell	Text	 	Mai Rùa
 Items/TurtleShellDesc	Text	 	Chiếc mai cũng từng thuộc về một sinh vật biển duyên dáng. Bạn cảm thấy được bảo vệ hơn nhiều khi cầm nó.
 Items/TwistedAgate	Text	 	Ma Não Xoắn
@@ -6773,6 +7217,8 @@ Items/WallMetalSheet	Text	 [new]	Tấm thép tường
 Items/WallMetalSheetDesc	Text	 [new]	Tấm thép lớn dùng để gia cố các công trình.
 Items/WallMoldBlock	Text	 	Khối Nam Mộc
 Items/WallMoldBlockDesc	Text	 	Một mảng nấm mọc nồng nặc.
+Items/WallMossBlock	Text	 [new]	Khối Moss
+Items/WallMossBlockDesc	Text	 [new]	Một khối đất cứng phủ đầy rêu ẩm ướt.
 Items/WallNaturalExplosiveBlock	Text	 	Tướng Thermite
 Items/WallNaturalExplosiveBlockDesc	Text	 	Một mảng tường để nó và không ổn định.
 Items/WallOasisBlock	Text	 [new]	Tường khói Oasis
@@ -6801,6 +7247,16 @@ Items/WallTurfBlock	Text	 	Khối tường cỏ
 Items/WallTurfBlockDesc	Text	 	Một mảng có rêu mềm mại.
 Items/WallWoodBlock	Text	 	Tượng Gỗ
 Items/WallWoodBlockDesc	Text	 	Một bức tượng chắc chắn làm từ gỗ. Rất hợp để xây căn cứ.
+Items/WarpedNecklace	Text	 [new]	Dây Chuyền méo mó
+Items/WarpedNecklaceDesc	Text	 [new]	Một chân trời sự kiện thu nhỏ bị xích vào hình dáng của một dây chuyền.
+Items/WarpedRing	Text	 [new]	Nhân méo mó
+Items/WarpedRingDesc	Text	 [new]	Một xoắn ốc không trọng lượng xoay với sắc thái huyền học. Phần ngón tay của bạn đi xuyên qua vòng xoắn sẽ chuyển thành màu xanh thẫm.
+Items/WarriorChestplate	Text	 [new]	Giáp Ngực Chiến Binh
+Items/WarriorChestplateDesc	Text	 [new]	Món giáp thân cứu mạng của một chiến binh, với dây da đeo mòn vẹo từ trận chiến.
+Items/WarriorGreaves	Text	 [new]	Giáp Chân Chiến Binh
+Items/WarriorGreavesDesc	Text	 [new]	Món giáp chân đáng tin của người lính, mang lại bước đi vững chãi mỗi nhịp.
+Items/WarriorHelmet	Text	 [new]	Mũ Chiến Binh
+Items/WarriorHelmetDesc	Text	 [new]	Món mũ bền bỉ của một người lính, cho phép bạn ra tay đối diện kẻ địch.
 Items/WashBasin	Text	 	Châu Rứa
 Items/WashBasinDesc	Text	 	Một vật chứa đựng để trữ nước và độ dày bình tưới.
 Items/WaterCan	Text	 	Bình Tuổi
@@ -6833,6 +7289,11 @@ Items/WhiteRoseBouquet	Text	 	Bộ Hoa Hồng Trang
 Items/WhiteRoseBouquetDesc	Text	 	Bộ họa tuyệt đẹp làm từ hoa hồng trắng này sẽ tôn lên vẻ đẹp của mỗi căn phòng. Hãy tặng nó cho người bạn yêu quý.
 Items/WhiteWhistle	Text	 	Cõi Trắng
 Items/WhiteWhistleDesc	Text	 	Một cổ vật hiếm làm từ da trắng quý giá. Nó không phát ra âm thanh khi bạn có sử dụng.
+Items/Wingling	Text	 [new]	Wingling
+Items/WinglingMoss	Text	 [new]	San Hào Ravine
+Items/WinglingMossDesc	Text	 [new]	San hô hóa thạch tìm thấy gần những hố sâu dưới lòng đất. Mùi kiềm của chúng thu hút wingling.
+Items/WinglingTrophy	Text	 [new]	Tượng Wingling
+Items/WinglingTrophyDesc	Text	 [new]	Một hình tượng thú vị về Wingling. Một sinh vật bay giống dơi dường như đã tụ họp đông đúc trong những hang này.
 Items/WinterBell	Text	 	Chương Mùa Đông
 Items/WinterBellDesc	Text	 	Chiếc chuông vàng trắng này phát ra tiếng ngắn thanh thoát, nhẹ nhàng và gợi nhớ những bông tuyết rơi.
 Items/WinterCookies	Text	 	Bành Quy Mùa Đông
@@ -7097,12 +7558,19 @@ Menu/ConnectText	Text	 [new]	Kết nối
 Menu/ConnectedPlayers	Text	 	Người chơi đang kết nối:
 Menu/ConnectedPlayersWarning	Text	 	Hòn {0} người chơi đang kết nối. Điều này có thể gây sự cố.
 Menu/ContinueAnyway	Text	 [new]	Vẫn tiếp tục
+Menu/Create	Text	 [new]	Tạo
+Menu/CreateMarker	Text	 [new]	Tạo Dấu Bản Đồ
 Menu/CreateWorld	Text	 	Tạo thế giới
 Menu/CreateWorldButton	Text	 [new]	Tạo thế giới
 Menu/CreatedSaveBackup	Text	 	Đã tạo CoreKeeperSaves.zip trên Desktop
 Menu/Credits	Text	 	Đội ngũ thực hiện
+Menu/CrosshairOutline	Text	 [new]	Viền Tâm Ngắm
+Menu/CrosshairStyle	Text	 [new]	Tâm Ngắm
 Menu/CrossplayEnabled	Text	 	Chơi cùng các nền tảng PC khác
 Menu/CurrentVersionIsOutdated	Text	 	Chào mừng đến với Core Keeper. Phiên bản hiện tại của bạn đã cử. Để có trải nghiệm tốt nhất, vui lòng tại phiên bản mới nhất. Thưởng thức nội dung mới thường xuyên!
+Menu/CursorSize	Text	 [new]	Kích Thước Con Trỏ
+Menu/CursorStyle	Text	 [new]	Con Trỏ
+Menu/CycleMarker	Text	 [new]	Chọn Dấu Bản Đồ
 Menu/DeleteCharactersMenu	Text	 	Menu xóa nhân vật
 Menu/DeleteCreativeCharactersMenu	Text	 	Menu xóa nhân vật sáng tạo
 Menu/DeleteOptions	Text	 	Tùy chọn xóa
@@ -7118,6 +7586,8 @@ Menu/DiscordOnboarding	Text	 	Discord / Báo lỗi / Góp ý
 Menu/DisplayOptions	Text	 	Cài đặt hiển thị
 Menu/DontShowAgain	Text	 	Không hiện lại
 Menu/DynamicWater	Text	 	Nước đọng
+Menu/EditMarker	Text	 [new]	Tùy Chỉnh
+Menu/EditMarkerWithShortcut	Text	 [new]	Tùy chỉnh: {0}
 Menu/Emulated	Text	 	Giả lập
 Menu/EnableTutorial	Text	 [new]	Bật hướng dẫn chơi mới
 Menu/EnterIP	Text	 [new]	Nhập IP
@@ -7163,15 +7633,38 @@ Menu/LoadFromMod	Text	 	Tải từ mod
 Menu/LocalModMissingClientDialogue	Text	 	Thiếu mod bắt buộc {0}.
 Menu/LocalModMissingServerDialogue	Text	 	Máy chủ thiếu mod bắt buộc {0}.
 Menu/ManagePlayers	Text	 	Quản lý người chơi
+Menu/MarkerPreset	Text	 [new]	Dấu {0}
 Menu/MissingContentDependencyMultiple	Text	 [new]	Gói nội dung sau đây thiếu bóc nội dung thành phần: {0}
 Menu/MissingContentDependencySingle	Text	 [new]	Gói nội dung {0} thiếu bóc nội dung thành phần
 Menu/ModFailedToLoadWarning	Text	{0} is mod name. {1} indicates reason it failed to load	Một mod tải thất bại: {0} ({1})
 Menu/ModIncompatibleWarning	Text	{0} is mod name	Một mod không tương thích với phiên bản này: {0}
+Menu/ModIsDependencySummary	Text	 [new]	Mod này là điều kiện cần cho các mod sau:
+Menu/ModIsDependencyTitle	Text	 [new]	Mod là điều kiện cần
+Menu/ModListHeader	Text	 [new]	Các mod đang hoạt động theo thứ tự nạp
 Menu/ModMenuButtonModsLoaded	Text	 	Mod ({0} đã tải)
 Menu/ModMenuButtonModsLoadedPendingChanges	Text	* indicates extra information which will be shown elsewhere (see Mod/PendingChanges)	Mod ({0} đã tải)*
+Menu/ModMenuButtonModsLoadedPendingChangesWithFailed	Text	 [new]	Mod ({0} đã nạp, {1} lỗi)*
+Menu/ModMenuButtonModsLoadedWithFailed	Text	 [new]	Mod ({0} đã nạp, {1} lỗi)
 Menu/ModMenuPopUp	Text	 	Mod do các thành viên cộng đồng phát triển. Chúng mở ra nhiều khả năng chơi mới, nhưng cũng có thể gây ra sự cố không lường trước. Hãy cân nhắc khi dùng mod!
 Menu/ModMissingClientDialogue	Text	 	Thiếu mod bắt buộc {0}. Bạn có muốn cài đặt không (cần khởi động lại)?
 Menu/ModMissingServerDialogue	Text	 	Máy chủ thiếu mod bắt buộc {0}. Bạn có muốn tắt nó không (cần khởi động lại)?
+Menu/ModResetOrder	Text	 [new]	Đặt lại thứ tự nạp
+Menu/ModResetOrderConfirm	Text	 [new]	Sắp xếp mod sẽ đưa danh sách mod về trật tự mặc định. Bạn có chắc không?
+Menu/ModSourceHeader	Text	 [new]	Quản lý mod
+Menu/ModSourceLocal	Text	 [new]	Cục bộ
+Menu/ModSourceModIo	Text	 [new]	Mod.io
+Menu/ModSourceSteam	Text	 [new]	Steam
+Menu/ModWarningFailedToLoad	Text	 [new]	Mod không nạp được
+Menu/ModWarningMissingDependency	Text	 [new]	Mod thiếu điều kiện cần
+Menu/ModWarningMissingDependencySummary	Text	 [new]	Một mod khác cần thiết chưa được cài hoặc nạp lỗi
+Menu/ModWarningPendingInstall	Text	 [new]	Mod cần khởi động lại game
+Menu/ModWarningPendingInstallSummary	Text	 [new]	Mod này cần khởi động lại game để cài đặt
+Menu/ModWarningSkippedDueToFailedMod	Text	 [new]	Mod bị bỏ qua như một biện pháp an toàn
+Menu/ModWarningSkippedDueToFailedModSummary	Text	 [new]	Mod này bị bỏ qua nạp vì một mod đứng trước đã nạp lỗi:
+Menu/ModWarningWillLoadNextRestart	Text	 [new]	Mod sẽ thử nạp sau khi khởi động lại game
+Menu/ModWarningWillLoadNextRestartSummary	Text	 [new]	Mod này sẽ không được nạp trong suốt phiên game hiện tại, nhưng sẽ thử nạp khi khởi động lại game
+Menu/ModWarningWillSkipNextLoad	Text	 [new]	Mod sẽ không nạp được sau khi khởi động lại game
+Menu/ModWarningWillSkipNextLoadSummary	Text	 [new]	Nếu giữ nguyên thứ tự này, mod sẽ không nạp được khi khởi động lại game vì một mod khác đứng trước đã nạp lỗi:
 Menu/Mods	Text	 	Mod
 Menu/ModsAddedWithEnhancedAccess	Text	 	"""Lưu ý: mod 'Quyền Truy Cập Cao' có thể truy cập tài nguyên ngoài game như tệp người dùng và internet. Đề án toán, chỉ cài mod từ nguồn uy tín.
 Mod có Quyền Truy Cập Cao:
@@ -7233,10 +7726,12 @@ Menu/Reflections	Text	 	Phản chiếu
 Menu/RefreshGameID	Text	 	Làm mới Game ID
 Menu/RefreshGameInfo	Text	 [new]	Làm mới thông tin trận chơi
 Menu/RefreshGamePassword	Text	 [new]	Tạo lại mật khẩu trận chơi
+Menu/RemoveAllMapMarkers	Text	 [new]	Xóa tất cả
 Menu/Reset	Text	 	Đặt lại
 Menu/ResetToDefaultsDialog	Text	 	Đặt lại về mặc định?
 Menu/RestartPendingModChanges	Text	 	Dạng khởi động lại để áp dụng thay đổi mod.
 Menu/RestartToApplyModChanges	Text	 	Thay đổi mod cần khởi động lại mới có hiệu lực. Bạn có muốn khởi động lại ngay không?
+Menu/Save	Text	 [new]	Lưu
 Menu/SaveIconLabel	Text	 	Biểu tượng bản lưu
 Menu/SelectCharacterType	Text	 	Chọn loại nhân vật
 Menu/SelectSaveSlotIcon	Text	 	Chọn biểu tượng ở lưu
@@ -7299,12 +7794,13 @@ Menu/WorldSettingsGenerationTabTitle	Text	 [new]	Tạo thế giới
 Menu/WorldSettingsInfoTabTitle	Text	 [new]	Thông tin
 Menu/WorldSlot	Text	 	Ở thế giới
 Menu/YourVersionIs	Text	 	Phiên bản của bạn: {0}
+Menu/Zoom	Text	 [new]	Phóng to
+MinionAttackSpeed	Text	 [new]	Tốc độ tấn công tay sai
+MinionAttackSpeedDesc	Text	 [new]	Tăng tốc độ tấn công của tay sai.
 MinionCountDesc	Text	 	Bản dạng cờ {0} trên {1} tay sai hoạt động.
 MinionCountFormat	Text	 	{0} / {1}
 Mods/StoragePlus	Text	 [new]	StoragePlus
 Mods/StoragePlusDesc	Text	 [new]	Xây dựng mạng lưu trữ riêng và truy cập tất cả vật phẩm ở cùng một nơi!
-MinionAttackSpeed	Text	 [new]	Tốc độ tấn công tay sai
-MinionAttackSpeedDesc	Text	 [new]	Tăng tốc độ tấn công của tay sai.
 NamedBy	Text	 	Đặt tên bởi: {0}
 Names/BirdBoss	Text	 	Azeos, Titan Bầu Trời
 Names/CoreBoss	Text	 	Core Commander
@@ -7315,6 +7811,7 @@ Names/EchoMapAlienTerminal2	Text	 [new]	Đài ngoại hành 2
 Names/EchoMapAlienTerminal3	Text	 [new]	Đài ngoại hành 3
 Names/EchoMapBindingString	Text	 [new]	Chuối ràng buộc Echo
 Names/EchoMapFishingMerchant	Text	 [new]	Thương nhân câu cá
+Names/EchoMapLegendaryScepter	Text	 [new]	Veil Echo
 Names/EchoMapShrineRoom	Text	 [new]	Phòng Thánh đường
 Names/EchoMapTitanTemple	Text	 [new]	Đền thờ Titan
 Names/EchoMapWorshipMural	Text	 [new]	Bụt hóa tôn thờ
@@ -7354,9 +7851,11 @@ NormalMode	Text	 	Tiêu chuẩn
 NormalModeDesc	Text	 	Đôi mắt quái vật cân bằng cho thử thách công bằng và cuốn hút.
 ObtainedAll	Text	 	Đạt được toàn bộ cúp Core Keeper.
 OffHandMechanics/Dash	Text	 	Lượt về phía trước với {0}% tốc độ di chuyển
+OffHandMechanics/GrapplingHook	Text	 [new]	Tự kéo bạn về phía bức tường cách {0} ô
 OffHandMechanics/MinionDetonation	Text	 [new]	Kích nổ lính
 OffHandMechanics/RemoteDetonator	Text	 [new]	Kích nổ từ xa
 OffHandMechanics/Shield	Text	 	Tạo khiến bảo vệ, giảm {0}% sát thương phải nhận
+OffHandMechanics/StrongGrapplingHook	Text	 [new]	Tự kéo bạn về phía bức tường cách {0} ô
 OffHandMechanics/Teleport	Text	 	Dịch chuyển một quãng ngắn.
 Open	Text	 	Mở
 OpenBeta	Text	 	Open Beta
@@ -7407,6 +7906,7 @@ PetTalents/ChanceToDealTripleDamageBuff	Text	 	Có cơ hội gây sát thương 
 PetTalents/ChanceToDealTripleDamageMelee	Text	 	Cận chiến có cơ hội gây sát thương gấp ba
 PetTalents/ChanceToDealTripleDamageRange	Text	 	Tầm xa có cơ hội gây sát thương gấp ba
 PetTalents/ChanceToGainManaOnAttackMelee	Text	 	Có cơ hội hồi mana khi tấn công
+PetTalents/ChanceToShatterProjectilesRange	Text	 [new]	Hành Vi Bất Ổn
 PetTalents/CritChanceBuff	Text	 	Tăng tỉ lệ chí mạng
 PetTalents/CritChanceMelee	Text	 	Tỉ lệ chí mạng khi đánh cận chiến
 PetTalents/CritChanceRange	Text	 	Tỉ lệ chí mạng khi đánh tầm xa
@@ -7419,6 +7919,7 @@ PetTalents/DamageBasedOnTargetRemainingHealthRange	Text	 	Tầm xa gây sát th�
 PetTalents/DamageIncreaseAgainstStunnedBuff	Text	 	Tăng sát thương lên kẻ địch bị choáng
 PetTalents/DamageIncreaseAgainstStunnedMelee	Text	 	Cận chiến tăng sát thương lên kẻ địch bị choáng
 PetTalents/DamageIncreaseAgainstStunnedRange	Text	 	Tầm xa tăng sát thương lên kẻ địch bị choáng
+PetTalents/ExtraShatteredProjectileRange	Text	 [new]	Đồ Chơi Bóng
 PetTalents/LifeToOwnerOnHitMelee	Text	 [new]	Hồi máu cho chủ khi đánh cận chiến
 PetTalents/LifeToOwnerOnHitRange	Text	 [new]	Hồi máu cho chủ khi đánh tầm xa
 PetTalents/LifeToOwnerOnMinionHitBuff	Text	 [new]	Hồi máu cho chủ khi lính đánh trúng
@@ -7435,6 +7936,7 @@ PetTalents/MinionCritChanceBuff	Text	 [new]	Tăng tỉ lệ chí mạng của l�
 PetTalents/MinionCritDamageBuff	Text	 [new]	Tăng sát thương chí mạng của lính
 PetTalents/MinionDamageBuff	Text	 [new]	Tăng sát thương của lính
 PetTalents/MinionLifeSpanBuff	Text	 [new]	Tăng thời gian tồn tại của lính
+PetTalents/MinionReducedManaReservationBuff	Text	 [new]	Điều Khiển Nhẹ Hơn
 PetTalents/MovementSpeedBuff	Text	 	Tăng tốc độ di chuyển
 PetTalents/MovementSpeedMelee	Text	 	Tốc độ di chuyển khi đánh cận chiến
 PetTalents/MovementSpeedRange	Text	 	Tốc độ di chuyển khi đánh tầm xa
@@ -7447,18 +7949,11 @@ PetTalents/RangeAttackSpeedBuff	Text	 	Tăng tốc độ đánh tầm xa
 PetTalents/RangeAttackSpeedRange	Text	 	Tốc độ đánh tầm xa
 PetTalents/RangeDamageBuff	Text	 	Tăng sát thương tầm xa
 PetTalents/RangeDamageRange	Text	 	Sát thương tầm xa
+PetTalents/RangeHitKnockbackChanceRange	Text	 [new]	Chạm Nặng
 PetTalents/StunAndSnareReductionBuff	Text	 	Giảm thời gian choáng và trói
 PetTalents/StunDurationBuff	Text	 	Tăng thời gian choáng
 PetTalents/StunDurationMelee	Text	 	Thời gian choáng khi đánh cận chiến
 PetTalents/StunDurationRange	Text	 	Thời gian choáng khi đánh tầm xa
-PlacementPlus/PlacementPlus	Text	 [new]	Placement Plus
-PlacementPlus_PlacementPlus/General	Text	 [new]	Chung
-PlacementPlus_PlacementPlus/General/MaxBrushSize	Text	 [new]	Kích thước cọ tối đa
-PlacementPlus_PlacementPlus/General/MaxBrushSizeDesc	Text	 [new]	Phạm vi tối đa của cọ.
-PlacementPlus_PlacementPlus/General/ExcludeItems	Text	 [new]	Vật phẩm loại trừ
-PlacementPlus_PlacementPlus/General/ExcludeItemsDesc	Text	 [new]	Danh sách vật phẩm, phân tách bằng dấu phẩy, tự động tắt tính năng đặt theo vùng.
-PlacementPlus_PlacementPlus/General/MinHoldTime	Text	 [new]	Thời gian giữ tối thiểu
-PlacementPlus_PlacementPlus/General/MinHoldTimeDesc	Text	 [new]	Thời gian giữ tối thiểu trước khi thao tác cộng hoặc trừ được lặp tự động.
 PlacementPlus/ADD_ROOF	Text	 [new]	Thêm mái nhà
 PlacementPlus/BlockToolModeMessage	Text	 [new]	Thông báo đổi chế độ của công cụ khối
 PlacementPlus/CHESS_PATTERN	Text	 [new]	Mẫu bàn cờ
@@ -7468,6 +7963,7 @@ PlacementPlus/GROUND	Text	 [new]	Mặt đất
 PlacementPlus/HORIZONTAL	Text	 [new]	Ngang
 PlacementPlus/ModeMessage	Text	 [new]	Đã đổi chế độ thành: {0}
 PlacementPlus/NONE	Text	 [new]	Không có
+PlacementPlus/PlacementPlus	Text	 [new]	Placement Plus
 PlacementPlus/RANDOM_60_P	Text	 [new]	Ngẫu nhiên 60%
 PlacementPlus/RANDOM_70_P	Text	 [new]	Ngẫu nhiên 70%
 PlacementPlus/RoofingToolModeMessage	Text	 [new]	Thông báo đổi chế độ của công cụ mái nhà
@@ -7475,6 +7971,13 @@ PlacementPlus/SQUARE	Text	 [new]	Hình vuông
 PlacementPlus/TOGGLE	Text	 [new]	Chuyển đổi
 PlacementPlus/VERTICAL	Text	 [new]	Dọc
 PlacementPlus/WALL	Text	 [new]	Tường
+PlacementPlus_PlacementPlus/General	Text	 [new]	Chung
+PlacementPlus_PlacementPlus/General/ExcludeItems	Text	 [new]	Vật phẩm loại trừ
+PlacementPlus_PlacementPlus/General/ExcludeItemsDesc	Text	 [new]	Danh sách vật phẩm, phân tách bằng dấu phẩy, tự động tắt tính năng đặt theo vùng.
+PlacementPlus_PlacementPlus/General/MaxBrushSize	Text	 [new]	Kích thước cọ tối đa
+PlacementPlus_PlacementPlus/General/MaxBrushSizeDesc	Text	 [new]	Phạm vi tối đa của cọ.
+PlacementPlus_PlacementPlus/General/MinHoldTime	Text	 [new]	Thời gian giữ tối thiểu
+PlacementPlus_PlacementPlus/General/MinHoldTimeDesc	Text	 [new]	Thời gian giữ tối thiểu trước khi thao tác cộng hoặc trừ được lặp tự động.
 Plant	Text	 [new]	Cây
 PlantDesc	Text	 [new]	Cây trồng và hoa màu.
 Platforms/epic	Text	 [new]	Epic
@@ -7559,6 +8062,7 @@ Roles/Ranger	Text	 	Xạ thủ
 Roles/RangerDesc	Text	 	Chiến binh nhanh nhẹn với đôi mắt tinh tường, được rèn luyện để hạ địch từ xa.
 Roles/Warlock	Text	 	Thuật sĩ
 Roles/WarlockDesc	Text	 	Thuật sĩ lão luyện, triệu hồi tay sai bóng tối để vây hãm và làm rối loạn kẻ thù.
+SaddleCattle	Text	 [new]	Đặt yên lên gia súc
 SahabarAcronym	Text	 [new]	S.A.H.A.B.A.R.
 SahabarBossName	Text	 [new]	Sahabar
 SahabarProphetName	Text	 [new]	Nhà tiên tri Sahabar
@@ -7637,6 +8141,7 @@ SkillTalents/DodgeChanceIncrease	Text	 	Thuốc lỏng chiêu thức
 SkillTalents/DodgeIncreaseWhileStandingStill	Text	 	Thể đứng vững vàng
 SkillTalents/DrainLessHunger	Text	 	Sức bền dẻo dai
 SkillTalents/EquipmentDurabilityLastsLonger	Text	 	Trang bị chất lượng cao
+SkillTalents/ExplosionReduceManaCostByPercentage	Text	 [new]	Nổ Mana
 SkillTalents/ExplosivesImprovement	Text	 	Kỹ sư thuốc nổ
 SkillTalents/ExtraItemChanceAtAlchemyTable	Text	 	Nhà giả kim
 SkillTalents/ExtraItemChanceAtBaseBuilding	Text	 	Thợ xây căn cứ
@@ -7649,6 +8154,7 @@ SkillTalents/FoodBuffsLastLonger	Text	 	Thức ăn no lâu
 SkillTalents/GainDurabilityOnOreWall	Text	 	Hợp kim tự phục hồi
 SkillTalents/GainHungerFromHarvesting	Text	 	Nó còn mát
 SkillTalents/GainManaFromExplosionDamage	Text	 [new]	Tầng mana khi gây sát thương bằng vụ nổ
+SkillTalents/GainMaxManaPercentageAsMagicBarrier	Text	 [new]	Phòng Thủ Tinh Thần
 SkillTalents/GainMoreFood	Text	 	Ăn rau vào nhẹ!
 SkillTalents/GainMoreFoodFromCookedFood	Text	 	Tận dụng từng dưỡng chất
 SkillTalents/GuaranteedRangeCritsChance	Text	 	Phát hiện điểm yếu
@@ -7663,11 +8169,13 @@ SkillTalents/IncreaseDamageWhenEatingFish	Text	 	Sức mạnh Omega-3!
 SkillTalents/IncreasedArmorAtLowHealth	Text	 	Không thể gục ngã
 SkillTalents/IncreasedBurningDamage	Text	 [new]	Tăng sát thương Lửa cháy
 SkillTalents/IncreasedExplosiveRadius	Text	 [new]	Tặng bán kính vụ nổ
+SkillTalents/IncreasedManaRegenPercentageWhileCasting	Text	 [new]	Hồi Mana
 SkillTalents/KnockbackChance	Text	 	Đòn vững nâng tay
 SkillTalents/MagicBarrierAsDamage	Text	 	Công là thứ
 SkillTalents/MagicBarrierAsManaRegeneration	Text	 	Truyền dẫn bí thuật
 SkillTalents/MagicBarrierDelayReduction	Text	 	Trụ vững như bàn thạch
 SkillTalents/MagicDamagaAsMinionDamage	Text	 	Phép thuật lan tỏa
+SkillTalents/ManaCostOnCrit	Text	 [new]	Điều Khiển Mana
 SkillTalents/ManaOnCrit	Text	 [new]	Tầng mana khi chí mạng
 SkillTalents/ManaPercentageOnCrit	Text	 	Dẫn truyện mana
 SkillTalents/ManaRegenDelayReduction	Text	 	Nguồn mana sau thấm
@@ -7679,6 +8187,7 @@ SkillTalents/MiningDamageAsMeleeDamage	Text	 	Sức mạnh thợ mỏ
 SkillTalents/MiningDamagePercentage	Text	 	Khái quát hiệu quả
 SkillTalents/MiningSpeedIncrease	Text	 	Đạo, đạo, đạo!
 SkillTalents/MinionAttackSpeed	Text	 	Sinh vật hung tợn
+SkillTalents/MinionAttackSpeedPerOwnerHealth	Text	 [new]	Đàn Thuộc Hội
 SkillTalents/MinionCountAsMagicBarrier	Text	 	Băng nhóm rắn rơi
 SkillTalents/MinionCountAsMagicDamage	Text	 	Sức mạnh tập thể
 SkillTalents/MinionCritChance	Text	 	Hiệu lệnh chỉ mạng
@@ -7692,6 +8201,7 @@ SkillTalents/NearbyEnemiesSlowedDown	Text	 	Khi chất dễ nén
 SkillTalents/PlayerAttackSpeedPerMinion	Text	 	Đồng là mạnh
 SkillTalents/PolishedItemChanceAtJewelryTable	Text	 	Thợ kim hoàn
 SkillTalents/RangeAttackSpeed	Text	 	Bán liên hồi
+SkillTalents/ReduceMinionManaReservation	Text	 [new]	Trói Linh Hồn Hiệu Quả
 SkillTalents/ReducedDamageFromExplosions	Text	 [new]	Giám sát thương từ vụ nổ
 SkillTalents/ReducedDamageTakenFromBosses	Text	 	Sự che chở của Cố Nhân
 SkillTalents/ReducedImpactOfSlipperyMovement	Text	 	Bước chân vững chãi
@@ -7914,16 +8424,20 @@ WeaponSecondary/ChargedShot	Text	 	Phật Bản Mạnh
 WeaponSecondary/ChargedThrust	Text	 	Đàm Tích Lục
 WeaponSecondary/ExplosiveBolt	Text	 	Dân No
 WeaponSecondary/FireMiteMinion	Text	 [new]	Lính Bọ Lửa
+WeaponSecondary/LegendaryMiningPick	Text	 [new]	Bão Cuốc
+WeaponSecondary/LegendaryScepterBurst	Text	 [new]	Đại Thảm Khốc
 WeaponSecondary/ManaSyphonOrb	Text	 [new]	Quả cầu hút mana
 WeaponSecondary/MeleeMinion	Text	 	Triệu hồi tay sai bộ xương cận chiến có thể bị kẻ địch nhắm tới.
 WeaponSecondary/MinionDamage	Text	 	Sát thương tay sai: {0}
 WeaponSecondary/MinionHealth	Text	 	Màu tay sai: {0}
 WeaponSecondary/MinionLifespan	Text	 	Thời gian tồn tại tay sai: {0} giây
+WeaponSecondary/NatureScepterCurseCloud	Text	 [new]	Spore Bị Nguyền Rủa
 WeaponSecondary/OrbitingMinion	Text	 	Triệu hồi tay sai sửa bay quanh, gây sát thương khi va chạm.
 WeaponSecondary/PickaxeMinion	Text	 [new]	Lính cuốc chim
 WeaponSecondary/PiercingShot	Text	 	Phật Bản Xuyên
 WeaponSecondary/PoisonMinion	Text	 [new]	Linh Đốc
 WeaponSecondary/RadiatingMinion	Text	 [new]	Lính Bức xạ
+WeaponSecondary/ReservedManaCost	Text	 [new]	Trói linh hồn: {0}
 WeaponSecondary/TrailingCrystals	Text	 	Vết Phá Lê
 WeaponSecondary/TrailingSong	Text	 [new]	Khúc nhạc theo sau
 WeaponSecondary/WindupThrow	Text	 [new]	Nem men tích cổ
@@ -7939,11 +8453,13 @@ anyCommonEdibleObject	Text	Shown on items as a requirement for the material used
 anyRareEdibleObject	Text	Shown on items as a requirement for the material used in crafting	Món ăn nấu chín bất kỳ đồ hiếm Hiếm trở lên
 anySandObject	Text	 	Khối cát bất kỳ
 areYouSure	Text	 	Hardcore!? Bạn chắc chữ?
+areaDamage	Text	 [new]	{0} trong {1} giây
 audioOptions	Text	 	Cài đặt âm thanh
 back	Text	 	Quay lại
 backToTitle	Text	 	Thoát về màn hình chính
 bagSlot	Text	 	Ở túi
 banPlayerDialogue	Text	 	Bạn có muốn cấm người chơi này không?
+barUseSameCraftingTimeDesc	Text	 [new]	Giảm thời gian nung chảy cho quặng cấp cao hơn.
 base	Text	Shown as title in crafting window	Cơ bản
 body	Text	Option to choose gender	Thần
 bouncingProjectiles	Text	 	Đạn này khi va chạm
@@ -7974,11 +8490,23 @@ classicWorldBlocked	Text	 	Truy cập không hợp lệ: Không thể vào thế
 click	Text	 	Nhập
 clickToActivate	Text	 	Nhập để kích hoạt.
 clickToDeactivate	Text	 	Nhập để hủy kích hoạt.
+combineToCoreBossSummoningItem	Text	 [new]	Sử dụng: Kết hợp thành Tượng Triệu Hồi Chỉ Huy Lõi
+combineToHiveBossSummoningItem	Text	 [new]	Sử dụng: Kết hợp thành Tượng Triệu Hồi Mẹ Tổng
+combineToHiveHalloweenBossSummoningItem	Text	 [new]	Sử dụng: Kết hợp thành Tượng Triệu Hồi Mẹ Tổng Ma Quy
+combineToHydraBossVoidBait	Text	 [new]	Sử dụng: Kết hợp thành Đàn Organ Hư Không
+combineToKingSlimeSummoningItem	Text	 [new]	Sử dụng: Kết hợp thành Tượng Triệu Hồi Vương Miện
+combineToLarvaBossSummoningItem	Text	 [new]	Sử dụng: Kết hợp thành Tượng Triệu Hồi Ghorm
+combineToProtocolSlateKey	Text	 [new]	Sử dụng: Kết hợp thành Chìa Khóa Quản Trị
+combineToRobotBossSummoningItem	Text	 [new]	Sử dụng: Kết hợp thành Ghi Đè Nhơ Bẩn
+combineToShamanBossSummoningItem	Text	 [new]	Sử dụng: Kết hợp thành Tượng Triệu Hồi Malugaz
+combineToSlimeBossSummoningItem	Text	 [new]	Sử dụng: Kết hợp thành Tượng Triệu Hồi Slime Khổng Lồ
 commandMinion	Text	 [new]	Ra lệnh lính
+compareWithKey	Text	 [new]	So sánh tiếp: {0}
 components	Text	 	Linh kiện
 confirm	Text	 	Xác nhận
 connecting	Text	 	Đảng kết nối...
 connectionFailed	Text	 	Kết nối thất bại
+consumedOnSuccessfulUse	Text	 [new]	Vật phẩm này bị tiêu hao khi sử dụng thành công.
 continue	Text	 	Tiếp tục
 controls	Text	 	Điều khiển
 cooking	Text	 	Nấu ăn
@@ -8003,6 +8531,7 @@ disableGodMode	Text	 	Tắt chế độ god
 disableWorldSimulation	Text	 	Tạm dừng thế giới
 discard	Text	 [new]	Vứt bỏ
 dodge	Text	This text appears when a character dodges an attack	ne
+doesNotAttack	Text	 [new]	Không tấn công
 done	Text	 	Xong
 dontShowAgain	Text	 	Không hiện lại
 down	Text	 	Đi xuống
@@ -8020,6 +8549,7 @@ durationMinSec	Text	"Shown at end of buff text with a duration such as '+2 healt
 durationSec	Text	"Shown at end of buff text with a duration such as '+2 health every sec for 25 sec' where
 {0} is replaced with  '+2 health every sec' and
 {1} is replaced with '25'"	{0} trong {1} giấy
+electrictyIconHover	Text	 [new]	Điện
 electrictyIconHoverDesc	Text	Shown when hovering over the electricity icon in buildings that require it	Công trình này cần điện
 emptySlot	Text	 	Ở trong
 enableGodMode	Text	 	Bật chế độ god
@@ -8033,6 +8563,7 @@ equipment	Text	 	Trang bị
 equipmentPreset1	Text	 	Trang bị 1
 equipmentPreset2	Text	 	Trang bị 2
 equipmentPreset3	Text	 	Trang bị 3
+equipped	Text	 [new]	Đã trang bị
 exit	Text	 	Thoát
 experience	Text	{0} will be replaced with the current experience and {1} with the total experience requred to level up	Kinh nghiệm: {0}/{1}
 experienceGained	Text	{0} will be replaced with a number indicating the experience gained	+{0} XP
@@ -8067,6 +8598,7 @@ hardcoreDeathMessage	Text	 	Bạn đã chết. Nhân vật đã mất vĩnh vi�
 helmSlot	Text	 	Ở mũ
 hideCreativeUI	Text	'UI' should also be called 'UI' when translated. as the button space it is shown own should be kept small and short.	Ấn giáo điện Sáng tạo
 high	Text	 	Cao
+holdToCompareWithKey	Text	 [new]	So sánh trang bị:
 holdToSkip	Text	{0} is replaced with a button/key so for example 'Hold SPACE to skip'. This is used in intro slides of the game.	Giữ {0} để bỏ qua đoạn mở đầu
 holdToSkipOutro	Text	 	Giữ {0} để bỏ qua đoạn kết
 hydras	Text	 [new]	Hydra
@@ -8099,6 +8631,8 @@ loading	Text	 	Đăng tải...
 low	Text	 	Tháp
 magicWeaponDamage	Text	 	{0}-{1} sát thương phép
 makeAdmin	Text	 	Bạn có muốn trao quyền quản trị cho người chơi này không?
+makeCattleButton	Text	 [new]	Tháo Yên
+makeCattleButtonDesc	Text	 [new]	Biến thú cưỡi trở lại thành gia súc.
 mana	Text	 	Mana
 manaCost	Text	 	Tốn mana: {0}
 materials	Text	Used as header when showing required materials in crafting for example	Vật liệu:
@@ -8114,8 +8648,10 @@ menuButtonDeactivate	Text	 	Hủy kích hoạt
 menuButtonNavigate	Text	 	Di chuyển
 menuButtonSelect	Text	 	Chọn
 missingScrapParts	Text	 	Thiếu phế liệu
+modifyMount	Text	 [new]	Mở túi đồ khi đang cưỡi để truy cập cài đặt thú cưỡi
 months	Text	"Please give the short form of a month. for each month. andseparate each month by an ASCII space.
 The month will be placed into the 'dateFormat' string."	Th1 Th2 Th3 Th4 Th5 Th6 Th7 Th8 Th9 Th10 Th11 Th12
+mount	Text	 [new]	Thú Cưỡi
 multiplayer	Text	 	Chơi mạng
 musicSheetItem	Text	 	Ban nhạc
 nativeLang	Text	should not translate 'english' but should show the name of the language itself	Tiếng Việt
@@ -8161,6 +8697,7 @@ petEgg	Text	 	Có thể áp nổ
 petInfo	Text	Shown as a header for a window showing information about a pet. Try to keep it short and avoid writing 'info' as 'information' for example	Thông tin thu cung
 petLeveledUp	Text	{0} will be replaced with the level number	Thu cũng đạt cấp {0}!
 petSlot	Text	 	Ở thú cưng
+petStatsTitle	Text	 [new]	Chỉ số thú nuôi:
 physicalWeaponDamage	Text	 	{0}-{1} sát thương vật lý
 pickUpHalf	Text	 	Nhất một nửa:
 pickUpOne	Text	{0} will be replaced with the input player needs to use to perform the action. note that the breakline is intended and should be used in the localizations too	Nhất một:
@@ -8196,6 +8733,7 @@ reinforced	Text	 	Đã gia cố: {0}/{1}
 release	Text	 	Tha
 remnants	Text	 [new]	Tàn tích
 removeAdmin	Text	 	Bạn có muốn gỡ quyền quản trị của người chơi này không?
+removeMinionCooldownDesc	Text	 [new]	Đã gỡ bỏ thời gian chờ khi triệu hồi tay sai.
 removeUserMapMarkersPrompt	Text	 	Bạn có muốn xóa toàn bộ điểm đánh dấu bản đồ đã đạt không?
 repairCost	Text	 	Chi phí sửa chữa:
 replace	Text	 	Thay thế
@@ -8231,6 +8769,8 @@ settingVibrationNintendoSwitch	Text	 	Rừng
 settingVibrationPC	Text	 	Rừng
 settingVibrationPS4	Text	 	Rừng
 settingVibrationXbox	Text	 	Rừng
+shatteringProjectiles	Text	 [new]	Đạn vỡ khi chạm mục tiêu
+shatteringProjectilesChance	Text	 [new]	Đạn có cơ hội vỡ khi chạm mục tiêu
 sheets	Text	Refers to Music sheets/notes	Ban nhạc
 shirt	Text	Option to choose shirt style	Áo
 shortcuts	Text	 	Phím tắt
@@ -8255,12 +8795,37 @@ startingPerks	Text	 	Đặc quyền khởi đầu:
 starvationDeathMessage	Text	 	Bạn đã chết vì đói.
 stats	Text	Title of stats window that shows when hovering character ui in game	Chỉ số
 stop	Text	 	Dùng
+summonsBirdBoss	Text	 [new]	Triệu hồi Azeos Titan Bù Trời khi đặt ở khoảng trống trong Vùng Hoang Dã Azeos.
+summonsBossLarva	Text	 [new]	Triệu hồi Ghorm Kẻ Ngấu Nghiến khi đặt lên rune triệu hồi của Ghorm.
+summonsCoreBoss	Text	 [new]	Triệu hồi Chỉ Huy Lõi khi đặt lên rune triệu hồi của Chỉ Huy Lõi.
+summonsGiantCicadaBoss	Text	 [new]	Triệu hồi Nimruza khi đặt lên biểu tượng trong phế tích ve sầu ở The Desert of Beginnings.
+summonsHydraBossDesert	Text	 [new]	Triệu hồi Pyrdra Titan Lửa khi đặt ở vùng đào hang của nó ở The Desert of Beginnings.
+summonsHydraBossNature	Text	 [new]	Triệu hồi Druidra Titan Hoang Dã khi đặt ở vùng đào hang của nó ở Vùng Hoang Dã Azeos.
+summonsHydraBossSea	Text	 [new]	Triệu hồi Crydra Titan Băng khi đặt ở vùng bơi của nó ở The Sunken Sea.
+summonsHydraBossVoid	Text	 [new]	Triệu hồi Oblidra Chúa Hư Không khi đặt ở vùng xuyên pha của nó ở Vùn Tàu Đứt Gãy.
+summonsKingSlime	Text	 [new]	Triệu hồi Vua Slime khi đặt lên bất kỳ rune triệu hồi Slime Khổng Lồ nào.
+summonsLarvaHiveBoss	Text	 [new]	Triệu hồi Mẹ Tổng khi đặt lên rune triệu hồi của Mẹ Tổng.
+summonsLarvaHiveHalloweenBoss	Text	 [new]	Triệu hồi Mẹ Tổng Ma Quy khi đặt lên rune triệu hồi của Mẹ Tổng.
+summonsNatureCicadaEnemy	Text	 [new]	Triệu hồi Floracada khi đặt gần Hang Ve Sầu ở Vùng Hoang Dã Azeos.
+summonsOctopusBoss	Text	 [new]	Triệu hồi Omoroth Titan Biển khi dùng để câu cá ở những vùng xoáy nước trong hang The Sunken Sea.
+summonsRobotBoss	Text	 [new]	Triệu hồi S.A.H.A.B.A.R. khi chèn vào bảng điều khiển trong ngục ở Vùn Tàu Đứt Gãy.
+summonsScarabBoss	Text	 [new]	Triệu hồi Ra-Akar Titan Cát khi đặt xuống mặt đất trong chuồng ở The Desert of Beginnings.
+summonsShamanBoss	Text	 [new]	Triệu hồi Malugaz Kẻ Bị Băng Khi khi đặt lên biểu tượng chính giữa trong phòng ngai ở Phế Tích Bị Lãng Quên.
+summonsSlimeBoss	Text	 [new]	Triệu hồi một con Slime Khổng Lồ khi đặt lên bất kỳ rune triệu hồi Slime Khổng Lồ nào.
+summonsSnakeBossSegment	Text	 [new]	Triệu hồi Giun Đại Dương khi đặt ở vùng của nó ở The Sunken Sea.
+summonsWallBoss	Text	 [new]	Triệu hồi Urschleim khi dùng trong Hành Lang.
 textWithAmount	Text	Used for any text that has an amount indicated such as 'Mining 48/100' to show the current and max Mining skill	{0} {1}/{2}
 titans	Text	 [new]	Titan
 toggleBreedingTextOff	Text	 [new]	Tắt hiển thị văn bản sinh sản
 toggleBreedingTextOn	Text	 [new]	Bật hiển thị văn bản sinh sản
 toggleLocking	Text	 [new]	Bật/tắt khóa vật phẩm
 toggleLockingDesc	Text	 [new]	Khóa hoặc mở khóa vật phẩm dạng tro trong túi đồ
+toggleMountStateFollow	Text	 [new]	Thú cưỡi sẽ đi theo
+toggleMountStateFollowDesc	Text	 [new]	Thú cưỡi đi theo bạn khi ở gần.
+toggleMountStateOff	Text	 [new]	Thú cưỡi sẽ tự do đi lang thang
+toggleMountStateOffDesc	Text	 [new]	Thú cưỡi tự đi lang thang khắp nơi một mình.
+toggleMountStateStay	Text	 [new]	Thú cưỡi sẽ đứng yên tại chỗ
+toggleMountStateStayDesc	Text	 [new]	Thú cưỡi ở lại tại chỗ, chờ bạn quay lại.
 toggleQuickTrash	Text	 [new]	Bật/tắt vứt bỏ nhanh
 toggleQuickTrashDesc	Text	 [new]	Vứt bỏ nhanh các vật phẩm đang trở vào thùng rác
 toggleShortcuts	Text	 	Bật/tắt cửa sổ này:

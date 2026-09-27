@@ -1,0 +1,72 @@
+# Known keys that are intentionally NOT filled in / NOT carried in this repo.
+#
+# `tests/Test-LocalizationCoverage.ps1` reads this file so that any *other* blank or
+# missing Vietnamese value still fails validation. Keep entries listed here and
+# remove them once a real source becomes available.
+#
+# Format, one record per line:
+#   <reason> <TAB> <localization key>
+
+# --- reason: source-blank -------------------------------------------------
+# The 1.3.0 game source itself has no English for this key: the string does not
+# exist anywhere in CoreKeeper_Data/Managed/resources.assets, only the empty
+# template row. Left blank on purpose; do not invent a translation from the key
+# name. Revisit if a future game build ships the English text.
+source-blank	Changelog Entries/switchUniqueLocationMisplacementFixDesc
+
+# --- reason: external-mod -------------------------------------------------
+# Third-party mods that are still tagged for the older game version. Core Keeper
+# refuses to load them against 1.3, so their localization rows are generated
+# inconsistently and their English is only available inside their compressed
+# asset bundles. Out of scope for this project: do not reconstruct them. They
+# can be synced normally once each mod is retagged for 1.3.
+external-mod	ControlMapper/PlacementPlus_ChangeOrientationPC
+external-mod	ControlMapper/PlacementPlus_ChangeToolModePC
+external-mod	ControlMapper/PlacementPlus_DecreaseSizePC
+external-mod	ControlMapper/PlacementPlus_IncreaseSizePC
+external-mod	ControlMapper/PlacementPlus_ReplaceButtonPC
+external-mod	ControlMapper/PlacementPlus_ReverseDirectionPC
+external-mod	ItemBrowser-Filters/AddedBy
+external-mod	ItemBrowser-Filters/AddedBy_FromMod
+external-mod	ItemBrowser-Filters/AddedBy_FromModDesc
+external-mod	ItemBrowser-Filters/AddedBy_FromMods
+external-mod	ItemBrowser-Filters/AddedBy_FromModsDesc
+external-mod	ItemBrowser-Filters/AddedBy_FromUnknownMod
+external-mod	ItemBrowser-Filters/AddedBy_FromUnknownModDesc
+external-mod	ItemBrowser-Filters/Rarity_FoodEpic
+external-mod	ItemBrowser-Filters/Rarity_FoodEpicDesc
+external-mod	ItemBrowser-Filters/Rarity_FoodUncommonOrRare
+external-mod	ItemBrowser-Filters/Rarity_FoodUncommonOrRareDesc
+external-mod	ItemBrowser-Filters/Source_Source
+external-mod	ItemBrowser-Filters/Source_SourceDesc
+external-mod	ItemBrowser-Filters/Type_Fish
+external-mod	ItemBrowser-Filters/Type_FishDesc
+external-mod	ItemBrowser-Filters/Type_Meat
+external-mod	ItemBrowser-Filters/Type_MeatDesc
+external-mod	ItemBrowser-Filters/Type_Plant
+external-mod	ItemBrowser-Filters/Type_PlantDesc
+external-mod	ItemBrowser-Filters/Usage
+external-mod	ItemBrowser-Filters/Usage_Usage
+external-mod	ItemBrowser-Filters/Usage_UsageDesc
+external-mod	ItemBrowser-General/ActiveFiltersExcluding
+external-mod	ItemBrowser-General/ActiveFiltersIncluding
+external-mod	ItemBrowser-General/PlusHiddenByFilters
+external-mod	ItemBrowser-General/PlusHiddenByFiltersShort
+external-mod	ItemBrowser-Groups/CookedFood
+external-mod	ItemBrowser-Groups/Ingredients
+external-mod	ItemBrowser-ObjectEntryDescriptions/Saddling_0
+external-mod	ItemBrowser-ObjectEntryNames/Saddling
+external-mod	MasterCooking/MiningDamagePer
+external-mod	MasterCooking/MiningDamagePerDesc
+external-mod	PlacementPlus/AdminOnlyMesage
+external-mod	PlacementPlus/REMOVE
+external-mod	PlacementPlus/SHAPE_ARC
+external-mod	PlacementPlus/SHAPE_SQUARE
+external-mod	PlacementPlus/SledgeMode
+external-mod	PlacementPlus/SledgeSize
+external-mod	PlacementPlus_PlacementPlus_General/AllowWallVariants
+external-mod	PlacementPlus_PlacementPlus_General/IgnoreBuiltinExclude
+external-mod	PlacementPlus_PlacementPlus_General/MaxBrushSize
+external-mod	PlacementPlus_PlacementPlus_General/ShortMessages
+external-mod	PlacementPlus_PlacementPlus_General/SledgehammerPreview
+external-mod	PlacementPlus_PlacementPlus_General/SledgehammerPreviewOpacity
