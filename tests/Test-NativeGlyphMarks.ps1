@@ -23,4 +23,11 @@ if ($source -notmatch 'int verticalPadding = 2;[\s\S]+?font\.charDims\.y \+ 2 \*
     throw "Vietnamese compound marks do not have two pixels of vertical padding."
 }
 
-Write-Output "PASS: pixel-precise 'đ/Đ/t' crossbars and 'ã/ữ' tilde are present."
+if ($source -notmatch 'IsStructuralMark[\s\S]+?DrawStructuralMark[\s\S]+?compositeBounds = FindInkBounds[\s\S]+?DrawToneMark') {
+    throw "Vietnamese marks are not composed structural-first with tone marks anchored to recomputed composite bounds."
+}
+if ($source -match 'private static void DrawMark\(') {
+    throw "Legacy one-pass DrawMark compositor is still present."
+}
+
+Write-Output "PASS: pixel-precise crossbars/tilde and two-pass composite-aware Vietnamese mark placement are present."
