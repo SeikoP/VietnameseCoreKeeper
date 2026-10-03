@@ -29,9 +29,11 @@ jobs:
           .\tests\Test-ProjectSources.ps1
           .\tests\Test-ProjectConfig.ps1
 
-      - name: Native glyph marks
+      - name: Native glyph compositor
         shell: pwsh
-        run: .\tests\Test-NativeGlyphMarks.ps1
+        run: |
+          .\tests\Test-NativeGlyphMarks.ps1
+          .\tests\Test-VietnameseGlyphInventory.ps1
 
       - name: Full C# compile gate (requires game assemblies)
         shell: pwsh
