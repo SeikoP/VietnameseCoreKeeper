@@ -73,8 +73,11 @@ namespace VietnameseFontFix
 
             Texture2D source = MakeReadable(font.texture);
             Color32[] sourcePixels = source.GetPixels32();
-            int verticalPadding = 2;
-            int cellWidth = Math.Max(8, font.charDims.x);
+            int markScale = Math.Max(1, font.charDims.y / 18);
+            // Vietnamese may stack a structural mark and a tone above the base.
+            // Reserve enough room for both layers at the font's native pixel scale.
+            int verticalPadding = Math.Max(2, 4 * markScale);
+            int cellWidth = Math.Max(8, font.charDims.x + 2 * markScale);
             int cellHeight = Math.Max(10, font.charDims.y + 2 * verticalPadding);
             int rows = (Characters.Length + Columns - 1) / Columns;
             Texture2D atlas = new Texture2D(Columns * cellWidth, rows * cellHeight,
@@ -329,8 +332,12 @@ namespace VietnameseFontFix
         {
             int top = Math.Min(height - 1, bounds[3] + scale);
             int high = Math.Min(height - 1, top + scale);
+            // Structural bounds already include the actual accent pixels. Keep tones
+            // centered over that composite except for circumflex/breve, where the
+            // Vietnamese tone convention places the tone on the vowel's right side.
             int toneX = hasHorn ? center :
-                hasStructural ? Math.Min(width - 2 * scale, bounds[2] + scale) : center;
+                hasStructural ? Math.Min(width - 2 * scale,
+                    Math.Max(center, bounds[2] - scale)) : center;
 
             switch (mark)
             {
@@ -356,22 +363,6 @@ namespace VietnameseFontFix
                 case '\u0323':
                     Block(pixels, textureWidth, cellX, cellY, center,
                         Math.Max(0, bounds[1] - 2 * scale), scale);
-                    break;
-                case '\u0302':
-                    Block(pixels, textureWidth, cellX, cellY, center - scale, top, scale);
-                    Block(pixels, textureWidth, cellX, cellY, center, high, scale);
-                    Block(pixels, textureWidth, cellX, cellY, center + scale, top, scale);
-                    break;
-                case '\u0306':
-                    Block(pixels, textureWidth, cellX, cellY, center - scale, high, scale);
-                    Block(pixels, textureWidth, cellX, cellY, center, top, scale);
-                    Block(pixels, textureWidth, cellX, cellY, center + scale, high, scale);
-                    break;
-                case '\u031B':
-                    int hornX = Math.Min(width - scale, bounds[2] + scale);
-                    Block(pixels, textureWidth, cellX, cellY, hornX, bounds[3], scale);
-                    Block(pixels, textureWidth, cellX, cellY, hornX,
-                        Math.Min(height - 1, bounds[3] + scale), scale);
                     break;
             }
         }
